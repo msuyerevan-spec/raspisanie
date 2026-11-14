@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Григорян К.Г. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t175904@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175905@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175906@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175907@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175908@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175909@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175910@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175911@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175912@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175913@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175914@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175915@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175916@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175917@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175918@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175919@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175920@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175921@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175922@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175923@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175924@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175925@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175926@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175927@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175928@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175929@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175930@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175931@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175932@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175933@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175934@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175935@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175936@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175937@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175938@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175939@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГригорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryan-k-g.html
+END:VEVENT
+END:VCALENDAR

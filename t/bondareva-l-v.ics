@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Бондарева Л.В. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179491@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T135000Z
+DTEND:20260902T152000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179492@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T153000Z
+DTEND:20260902T170000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179493@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T135000Z
+DTEND:20260909T152000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179494@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T153000Z
+DTEND:20260909T170000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179495@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T135000Z
+DTEND:20260916T152000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179496@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T153000Z
+DTEND:20260916T170000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179497@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T135000Z
+DTEND:20260923T152000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн (группа подключается из ауд. 2
+ 09)
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179498@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T135000Z
+DTEND:20261021T152000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179499@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T153000Z
+DTEND:20261021T170000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179500@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T135000Z
+DTEND:20261028T152000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179501@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T153000Z
+DTEND:20261028T170000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179502@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T153000Z
+DTEND:20261118T170000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179503@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T135000Z
+DTEND:20261125T152000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179504@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T153000Z
+DTEND:20261125T170000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179505@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T135000Z
+DTEND:20261202T152000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179506@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T153000Z
+DTEND:20261202T170000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179507@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T135000Z
+DTEND:20261209T152000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179508@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T153000Z
+DTEND:20261216T170000Z
+SUMMARY:ДПВ4 Стратегические коммуникации и в
+ заимодействие с органами власти
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nБондарева Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bondareva-l-v.html
+END:VEVENT
+END:VCALENDAR

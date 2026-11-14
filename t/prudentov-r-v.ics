@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Прудентов Р.В. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t175615@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nПрудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/prudentov-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175616@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nПрудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/prudentov-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175617@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nПрудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/prudentov-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175618@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nПрудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/prudentov-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175619@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nПрудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/prudentov-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175620@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nПрудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/prudentov-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175621@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nПрудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/prudentov-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175622@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nПрудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/prudentov-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175623@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nПрудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/prudentov-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175624@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nПрудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/prudentov-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175625@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nПрудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/prudentov-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175626@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nПрудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/prudentov-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175627@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nПрудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/prudentov-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175628@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nПрудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/prudentov-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175629@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nПрудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/prudentov-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175630@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nПрудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/prudentov-r-v.html
+END:VEVENT
+END:VCALENDAR

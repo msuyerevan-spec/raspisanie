@@ -1,0 +1,642 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Маркова Е.Н. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t175339@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175340@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175341@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175342@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175343@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175344@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T121000Z
+DTEND:20260908T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175345@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175346@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175347@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T121000Z
+DTEND:20260914T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175348@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175349@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T121000Z
+DTEND:20260928T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175350@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T121000Z
+DTEND:20260929T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175351@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175352@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175353@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175354@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175355@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175356@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175357@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175358@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175359@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175360@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175361@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175362@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175363@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175364@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175365@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175366@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175367@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T121000Z
+DTEND:20261026T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175368@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T121000Z
+DTEND:20261027T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175369@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175370@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175371@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175372@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175373@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T121000Z
+DTEND:20261102T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175374@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175375@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175376@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175377@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175378@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T121000Z
+DTEND:20261123T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175379@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175380@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175381@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175382@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175383@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T121000Z
+DTEND:20261207T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175384@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175385@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175386@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175387@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T121000Z
+DTEND:20261214T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175388@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175389@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175390@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175391@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175392@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Конституционное (государственное) п
+ раво России
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nМаркова Е.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/markova-e-n.html
+END:VEVENT
+END:VCALENDAR

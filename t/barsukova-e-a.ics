@@ -1,0 +1,421 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Барсукова Е.А. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178108@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178126@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178127@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178109@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178128@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178110@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178111@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178129@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178130@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178112@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178113@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178131@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178132@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178133@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178114@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178115@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178116@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178134@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178135@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178136@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178117@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178118@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178119@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178137@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178138@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178139@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178140@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178141@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178120@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178121@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178122@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178123@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178142@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178143@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178124@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178125@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБарсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/barsukova-e-a.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,343 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Раскин А.В. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179685@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nРаскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179675@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nРаскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179686@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nРаскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179687@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nРаскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179688@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nРаскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179689@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nРаскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179690@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nРаскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179691@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nРаскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179692@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nРаскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179693@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nРаскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179676@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nРаскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179677@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nРаскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179694@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179695@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179696@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T121000Z
+DTEND:20261217T134000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179697@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179698@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179699@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179700@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T103000Z
+DTEND:20261218T120000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179678@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179701@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179679@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T121000Z
+DTEND:20261222T134000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179702@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179680@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179681@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179682@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T121000Z
+DTEND:20261223T134000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179683@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179703@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Консультация: Методы работы журнали
+ ста-международника
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179684@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:ЗАЧЁТ: Выпуск учебных медиа
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179704@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T121000Z
+DTEND:20261224T134000Z
+SUMMARY:ЭКЗАМЕН: Методы работы журналиста-ме
+ ждународника
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nРаскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/raskin-a-v.html
+END:VEVENT
+END:VCALENDAR

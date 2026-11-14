@@ -1,0 +1,611 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Сучков Е.П. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179081@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T121000Z
+DTEND:20260901T134000Z
+SUMMARY:Спецсеминар
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02а)
+DESCRIPTION:Группы: 401\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171963@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T135000Z
+DTEND:20260901T152000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171964@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T135000Z
+DTEND:20260903T152000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179082@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T121000Z
+DTEND:20260908T134000Z
+SUMMARY:Спецсеминар
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171965@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T135000Z
+DTEND:20260908T152000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171966@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T121000Z
+DTEND:20260910T134000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171967@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T135000Z
+DTEND:20260910T152000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179083@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T121000Z
+DTEND:20260915T134000Z
+SUMMARY:Спецсеминар
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171907@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T135000Z
+DTEND:20260915T152000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171968@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T121000Z
+DTEND:20260917T134000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171908@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T135000Z
+DTEND:20260917T152000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179084@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T121000Z
+DTEND:20260922T134000Z
+SUMMARY:Спецсеминар
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02а)
+DESCRIPTION:Группы: 401\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179085@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T135000Z
+DTEND:20260922T152000Z
+SUMMARY:Спецсеминар
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02а)
+DESCRIPTION:Группы: 401\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171909@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T121000Z
+DTEND:20260924T134000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171969@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T135000Z
+DTEND:20260924T152000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171970@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T121000Z
+DTEND:20260929T134000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171971@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T135000Z
+DTEND:20260929T152000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171972@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T121000Z
+DTEND:20261001T134000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171973@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T135000Z
+DTEND:20261001T152000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179086@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Спецсеминар
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171910@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T135000Z
+DTEND:20261006T152000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171974@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T121000Z
+DTEND:20261015T134000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171911@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T135000Z
+DTEND:20261015T152000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171975@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T121000Z
+DTEND:20261022T134000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171976@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T135000Z
+DTEND:20261022T152000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171912@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T121000Z
+DTEND:20261029T134000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171913@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T135000Z
+DTEND:20261029T152000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171977@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T135000Z
+DTEND:20261105T152000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171914@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T121000Z
+DTEND:20261112T134000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171915@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T135000Z
+DTEND:20261112T152000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171978@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T135000Z
+DTEND:20261117T152000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171979@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T121000Z
+DTEND:20261119T134000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171916@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T135000Z
+DTEND:20261119T152000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171917@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T135000Z
+DTEND:20261124T152000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179087@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T135000Z
+DTEND:20261126T152000Z
+SUMMARY:Спецсеминар
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171918@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T121000Z
+DTEND:20261203T134000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171919@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T135000Z
+DTEND:20261203T152000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171980@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171981@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171982@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171983@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171984@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171920@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171921@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T121000Z
+DTEND:20261208T134000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171985@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171986@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171987@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171922@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171988@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171923@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171924@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T103000Z
+DTEND:20261211T120000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171989@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T064000Z
+DTEND:20261212T081000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171925@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T085000Z
+DTEND:20261212T102000Z
+SUMMARY:ЗАЧЁТ: Алгоритмы и алгоритмические я
+ зыки
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171990@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T103000Z
+DTEND:20261212T120000Z
+SUMMARY:Консультация: Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171991@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:ЭКЗАМЕН: Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171992@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:ЭКЗАМЕН: Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171926@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:ЗАЧЁТ: Алгоритмы и алгоритмические я
+ зыки
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nСучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179088@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T135000Z
+DTEND:20261215T152000Z
+SUMMARY:Спецсеминар
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179089@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T135000Z
+DTEND:20261222T152000Z
+SUMMARY:Спецсеминар
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nСучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/suchkov-e-p.html
+END:VEVENT
+END:VCALENDAR

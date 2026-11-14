@@ -1,0 +1,479 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Петросян Р.С. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178874@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174078@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174079@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178875@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174080@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174081@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178876@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174082@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178877@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178878@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174083@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174084@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178879@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178880@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174085@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174086@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178881@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174087@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174088@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174089@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178882@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174090@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174091@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178883@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174092@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178884@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174093@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174094@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178885@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174095@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178886@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174096@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178887@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174097@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174098@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178888@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174099@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178889@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174100@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174101@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178890@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174102@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174103@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178891@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174104@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nПетросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petrosyan-r-s.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,303 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Бирюкова Н.А. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t173055@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T103000Z
+DTEND:20260902T120000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173056@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T121000Z
+DTEND:20260902T134000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173057@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173058@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173059@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173060@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T121000Z
+DTEND:20260903T134000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173061@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T103000Z
+DTEND:20260904T120000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173062@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T121000Z
+DTEND:20260904T134000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173063@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260905T064000Z
+DTEND:20260905T081000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173064@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260905T085000Z
+DTEND:20260905T102000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173065@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173066@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173067@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173068@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T121000Z
+DTEND:20260907T134000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173069@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173070@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173071@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173072@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173073@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173074@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173075@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T121000Z
+DTEND:20260909T134000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173076@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173077@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173078@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173079@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T103000Z
+DTEND:20260911T120000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173080@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T121000Z
+DTEND:20260911T134000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173082@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260912T103000Z
+DTEND:20260912T120000Z
+SUMMARY:ЗАЧЁТ: История международных отноше
+ ний
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173083@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260912T121000Z
+DTEND:20260912T134000Z
+SUMMARY:ЗАЧЁТ: История международных отноше
+ ний
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173081@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T153000Z
+DTEND:20261012T170000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 103\nБирюкова Н.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/biryukova-n-a.html
+END:VEVENT
+END:VCALENDAR

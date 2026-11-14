@@ -1,0 +1,605 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Хачатрян А.В. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t175787@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T103000Z
+DTEND:20260901T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175788@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175789@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260905T064000Z
+DTEND:20260905T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175790@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175791@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175792@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175793@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175794@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175795@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175796@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T050000Z
+DTEND:20260919T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175797@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T064000Z
+DTEND:20260919T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175798@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175799@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175800@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175801@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175802@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175803@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175804@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175805@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175806@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175807@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T064000Z
+DTEND:20261017T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175808@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175809@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175810@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175811@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261024T064000Z
+DTEND:20261024T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175812@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175813@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175814@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261031T064000Z
+DTEND:20261031T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175815@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175816@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175817@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175818@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175819@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175820@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175821@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175822@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175823@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175824@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175825@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175826@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175827@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175828@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175829@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175830@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175831@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175832@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175833@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175834@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175835@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175836@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175837@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175838@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175839@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175840@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T103000Z
+DTEND:20261229T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nХачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachatryan-a-v.html
+END:VEVENT
+END:VCALENDAR

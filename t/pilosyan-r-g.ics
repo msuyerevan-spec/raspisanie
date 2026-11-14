@@ -1,0 +1,641 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Пилосян Р.Г. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t176575@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171745@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174912@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176576@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171746@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176577@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174913@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176578@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174914@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171747@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176579@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176580@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171748@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171749@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176581@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174915@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171750@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176582@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174916@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171751@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174917@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176583@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174918@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176584@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176585@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174919@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171752@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176586@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174920@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171753@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176587@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176588@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174921@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171754@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176589@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176590@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174922@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171755@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176591@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171756@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174923@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171757@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176592@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176593@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174924@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176594@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176595@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174925@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171758@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176596@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176597@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174926@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171759@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176598@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176599@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174927@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171760@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171761@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174928@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171762@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176600@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176601@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:Иностранный язык (профессиональный)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174929@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nПилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pilosyan-r-g.html
+END:VEVENT
+END:VCALENDAR

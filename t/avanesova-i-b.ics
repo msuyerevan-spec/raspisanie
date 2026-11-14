@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Аванесова И.Б. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178552@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T121000Z
+DTEND:20260907T134000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178553@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T121000Z
+DTEND:20260914T134000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178554@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T121000Z
+DTEND:20261019T134000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178555@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T121000Z
+DTEND:20261026T134000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178556@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178557@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178558@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178559@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178560@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178561@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178562@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178563@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178564@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T121000Z
+DTEND:20261125T134000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178565@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178566@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178567@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178568@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T121000Z
+DTEND:20261126T134000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178569@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Теория переходных экономических про
+ цессов
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178570@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T103000Z
+DTEND:20261127T120000Z
+SUMMARY:ЗАЧЁТ: Теория переходных экономичес
+ ких процессов
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178571@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T121000Z
+DTEND:20261127T134000Z
+SUMMARY:ЗАЧЁТ: Теория переходных экономичес
+ ких процессов
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАванесова И.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avanesova-i-b.html
+END:VEVENT
+END:VCALENDAR

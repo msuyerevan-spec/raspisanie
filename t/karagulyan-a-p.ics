@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Карагулян А.П. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t172740@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172741@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172742@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172743@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172744@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172745@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172746@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172747@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172748@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172749@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172750@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172751@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172752@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172753@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172754@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172755@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172756@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172757@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172758@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172759@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172760@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172761@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172762@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172763@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172764@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172765@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172766@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172767@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172768@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172769@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172770@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172771@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172772@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172773@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172774@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172775@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКарагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karagulyan-a-p.html
+END:VEVENT
+END:VCALENDAR

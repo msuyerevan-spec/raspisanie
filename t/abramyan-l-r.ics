@@ -1,0 +1,308 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Абрамян Л.Р. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t176953@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176954@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176955@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176956@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176957@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176958@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176959@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176960@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176961@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176962@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176963@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176964@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176965@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176966@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176967@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T103000Z
+DTEND:20261028T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176968@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176969@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176970@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176971@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176972@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176973@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176974@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176975@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176976@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176977@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176978@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176979@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:Основы математического моделирован
+ ия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nАбрамян Л.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-l-r.html
+END:VEVENT
+END:VCALENDAR

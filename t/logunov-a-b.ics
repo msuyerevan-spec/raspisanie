@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Логунов А.Б. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179473@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T153000Z
+DTEND:20260903T170000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179474@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T153000Z
+DTEND:20260910T170000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179475@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T135000Z
+DTEND:20260917T152000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179476@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T153000Z
+DTEND:20260917T170000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179477@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T135000Z
+DTEND:20261001T152000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн (группа подключается из ауд. 2
+ 09)
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179478@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T135000Z
+DTEND:20261015T152000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179479@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T153000Z
+DTEND:20261015T170000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179480@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T153000Z
+DTEND:20261022T170000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179481@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T135000Z
+DTEND:20261029T152000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179482@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T153000Z
+DTEND:20261029T170000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179483@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T135000Z
+DTEND:20261105T152000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179484@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T153000Z
+DTEND:20261105T170000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179485@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T135000Z
+DTEND:20261112T152000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179486@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T153000Z
+DTEND:20261112T170000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179487@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T135000Z
+DTEND:20261119T152000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179488@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T153000Z
+DTEND:20261119T170000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179489@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T135000Z
+DTEND:20261126T152000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179490@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T153000Z
+DTEND:20261126T170000Z
+SUMMARY:ДПВ2 Проблемы войны и мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЛогунов А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/logunov-a-b.html
+END:VEVENT
+END:VCALENDAR

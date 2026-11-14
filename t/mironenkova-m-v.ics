@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Мироненкова М.В. — МГУ
+  Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t180331@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:ДПВ2 Анализ качества и образа жизни н
+ аселения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМироненкова М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mironenkova-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180332@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:ДПВ2 Анализ качества и образа жизни н
+ аселения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМироненкова М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mironenkova-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180333@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:ДПВ2 Анализ качества и образа жизни н
+ аселения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМироненкова М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mironenkova-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180334@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:ДПВ2 Анализ качества и образа жизни н
+ аселения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМироненкова М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mironenkova-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180335@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:ДПВ2 Анализ качества и образа жизни н
+ аселения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМироненкова М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mironenkova-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180336@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:ДПВ2 Анализ качества и образа жизни н
+ аселения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМироненкова М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mironenkova-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180337@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:ДПВ2 Анализ качества и образа жизни н
+ аселения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМироненкова М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mironenkova-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180338@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:ДПВ2 Анализ качества и образа жизни н
+ аселения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМироненкова М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mironenkova-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180339@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:ДПВ2 Анализ качества и образа жизни н
+ аселения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМироненкова М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mironenkova-m-v.html
+END:VEVENT
+END:VCALENDAR

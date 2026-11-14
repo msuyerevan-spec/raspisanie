@@ -1,0 +1,407 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Гарибян Н.О. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t176228@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173736@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176229@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176230@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176231@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173737@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176232@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173738@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176233@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173739@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173740@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176234@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173741@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176235@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176236@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173742@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176237@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173743@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176238@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173744@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176239@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173745@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173746@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176240@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173747@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176241@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173748@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173749@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176242@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173750@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176243@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173751@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176244@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173752@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173753@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176245@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/garibyan-n-o.html
+END:VEVENT
+END:VCALENDAR

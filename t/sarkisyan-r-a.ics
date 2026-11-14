@@ -1,0 +1,461 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Саркисян Р.А. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t173427@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173445@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172476@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172477@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172478@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173428@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173429@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173446@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173430@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172479@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172480@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172481@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173431@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173432@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172482@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172483@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173433@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172484@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173434@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172485@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173447@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172486@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173435@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173448@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173436@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173449@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172487@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173437@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173438@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173439@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173450@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172488@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173440@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173441@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173451@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172489@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173452@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173442@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172490@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172491@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173443@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172492@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T103000Z
+DTEND:20261225T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172493@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173444@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Теория литературы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173453@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСаркисян Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-r-a.html
+END:VEVENT
+END:VCALENDAR

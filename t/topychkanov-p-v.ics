@@ -1,0 +1,330 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Топычканов П.В. — МГУ 
+ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179386@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179387@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179388@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179389@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T121000Z
+DTEND:20260922T134000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179390@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179391@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179392@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179393@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T121000Z
+DTEND:20260923T134000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179394@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179395@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179396@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T121000Z
+DTEND:20260924T134000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179397@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179398@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179399@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179400@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T121000Z
+DTEND:20260925T134000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179401@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179402@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179403@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179404@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T121000Z
+DTEND:20260928T134000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179405@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179406@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179407@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179408@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T121000Z
+DTEND:20260929T134000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179409@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179410@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179411@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T121000Z
+DTEND:20260930T134000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179412@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Региональные аспекты международных 
+ отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179413@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Консультация: Региональные аспекты 
+ международных отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179414@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T121000Z
+DTEND:20261001T134000Z
+SUMMARY:ЭКЗАМЕН: Региональные аспекты между
+ народных отношений: Восток
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТопычканов П.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/topychkanov-p-v.html
+END:VEVENT
+END:VCALENDAR

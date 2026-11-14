@@ -1,0 +1,385 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Селезнев А.И. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t180232@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180233@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T121000Z
+DTEND:20260903T134000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180234@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180235@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T121000Z
+DTEND:20260910T134000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180236@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180237@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T121000Z
+DTEND:20260917T134000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180238@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180239@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180240@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T121000Z
+DTEND:20260924T134000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180241@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180242@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T121000Z
+DTEND:20261001T134000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180243@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180244@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T121000Z
+DTEND:20261008T134000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180245@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T050000Z
+DTEND:20261010T063000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180246@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180247@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T121000Z
+DTEND:20261015T134000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180248@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180249@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180250@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T121000Z
+DTEND:20261022T134000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180251@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180252@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T121000Z
+DTEND:20261029T134000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180253@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180254@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T121000Z
+DTEND:20261105T134000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180255@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T121000Z
+DTEND:20261112T134000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180256@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261114T050000Z
+DTEND:20261114T063000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180257@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180258@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T121000Z
+DTEND:20261119T134000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180259@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180260@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T121000Z
+DTEND:20261126T134000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180261@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180262@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T121000Z
+DTEND:20261203T134000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180263@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180264@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180265@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T121000Z
+DTEND:20261210T134000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180266@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180267@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T121000Z
+DTEND:20261217T134000Z
+SUMMARY:Теория отраслевых рынков
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nСелезнев А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/seleznev-a-i.html
+END:VEVENT
+END:VCALENDAR

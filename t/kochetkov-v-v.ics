@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Кочетков В.В. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t173334@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T153000Z
+DTEND:20260902T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173335@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T153000Z
+DTEND:20260909T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173336@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T153000Z
+DTEND:20260916T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173337@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T153000Z
+DTEND:20260923T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173338@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T153000Z
+DTEND:20260930T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173339@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T153000Z
+DTEND:20261007T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173340@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T153000Z
+DTEND:20261010T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173341@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T153000Z
+DTEND:20261014T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173342@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T153000Z
+DTEND:20261021T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173343@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261024T153000Z
+DTEND:20261024T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173344@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T153000Z
+DTEND:20261028T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173345@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T153000Z
+DTEND:20261111T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173346@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T153000Z
+DTEND:20261118T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173347@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T153000Z
+DTEND:20261125T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173348@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T153000Z
+DTEND:20261202T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173349@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T153000Z
+DTEND:20261209T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173350@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T153000Z
+DTEND:20261216T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173351@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T153000Z
+DTEND:20261219T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetkov-v-v.html
+END:VEVENT
+END:VCALENDAR

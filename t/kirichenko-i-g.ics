@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Кириченко И.Г. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t176440@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176441@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176442@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176443@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176444@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176445@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176446@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176447@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176448@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176449@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176450@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176451@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176452@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176453@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176454@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176455@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176456@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176457@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176458@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176459@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176460@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176461@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176462@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176463@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176464@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176465@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176466@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКириченко И.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirichenko-i-g.html
+END:VEVENT
+END:VCALENDAR

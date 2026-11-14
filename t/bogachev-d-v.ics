@@ -1,0 +1,428 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Богачев Д.В. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t173499@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179822@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173500@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T103000Z
+DTEND:20260902T120000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173501@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173502@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173503@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173504@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179823@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173505@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179824@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179825@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173506@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173507@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173508@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179826@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179827@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173509@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179828@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173510@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179829@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T103000Z
+DTEND:20261028T120000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173511@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179830@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173512@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179831@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179832@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179833@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179834@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173513@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179835@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179836@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173514@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179837@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179838@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173515@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173516@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179839@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБогачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogachev-d-v.html
+END:VEVENT
+END:VCALENDAR

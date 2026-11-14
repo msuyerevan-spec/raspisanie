@@ -1,0 +1,2983 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание 305 — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:g305-178108@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178337@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178210@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T103000Z
+DTEND:20260902T120000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178355@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178265@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178356@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178211@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T103000Z
+DTEND:20260904T120000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178164@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T153000Z
+DTEND:20260904T170000Z
+SUMMARY:Практикум по переводу
+LOCATION:онлайн
+DESCRIPTION:Соловьева Ю.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178144@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178266@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178267@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178145@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178338@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178126@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178212@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178213@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178214@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178201@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 106
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178268@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178269@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178319@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178357@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178202@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 106
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178215@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:ауд. 106
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178203@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 106
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178204@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 106
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178205@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 106
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178216@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:ауд. 106
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178339@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178217@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:ауд. 106
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178206@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 106
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178292@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178218@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:ауд. 106
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178219@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T121000Z
+DTEND:20260916T134000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:ауд. 106
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178220@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:ауд. 106
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178207@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 106
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178270@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178293@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178208@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T121000Z
+DTEND:20260918T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 106
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178146@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T085000Z
+DTEND:20260919T102000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178209@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T121000Z
+DTEND:20260919T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 106
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178147@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178340@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178221@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:ауд. 106
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178320@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178127@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178294@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178295@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178183@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T121000Z
+DTEND:20260923T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178296@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178109@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178271@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178222@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T121000Z
+DTEND:20260924T134000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:ауд. 106
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178321@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178223@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:ауд. 106
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178224@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:ауд. 106
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178165@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178166@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178167@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178168@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178341@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178169@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178170@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T121000Z
+DTEND:20260929T134000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178171@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178128@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178172@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178173@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178184@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T121000Z
+DTEND:20260930T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178110@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178174@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178175@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178272@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178322@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178358@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178148@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178176@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T103000Z
+DTEND:20261002T120000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178177@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T121000Z
+DTEND:20261002T134000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178178@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T085000Z
+DTEND:20261003T102000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178179@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T103000Z
+DTEND:20261003T120000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178149@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178273@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178274@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178185@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178111@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178180@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178237@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Сахарова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178181@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178225@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178182@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:ЗАЧЁТ: Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178226@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178186@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T121000Z
+DTEND:20261007T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178238@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178239@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178240@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178241@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178297@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178242@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178243@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178244@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178245@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T121000Z
+DTEND:20261009T134000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178298@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178246@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178247@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178248@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178249@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178250@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178251@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178252@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178253@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178299@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178254@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178255@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178256@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178257@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178258@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178129@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178259@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178260@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178261@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T121000Z
+DTEND:20261015T134000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178359@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178262@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178263@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178264@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T121000Z
+DTEND:20261016T134000Z
+SUMMARY:ЗАЧЁТ: ДПВ2 Язык средств массовой инф
+ ормации//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Сахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178150@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178275@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178323@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178300@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178342@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178130@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178227@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178301@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178187@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T121000Z
+DTEND:20261021T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178360@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178112@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178276@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178361@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178151@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178152@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178277@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178324@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178188@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T121000Z
+DTEND:20261026T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178113@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178302@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178343@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178131@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178132@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178228@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T103000Z
+DTEND:20261028T120000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178189@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T121000Z
+DTEND:20261028T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178362@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178133@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178278@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178344@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178325@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178363@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178153@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178190@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178303@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178304@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178154@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178155@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178156@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178157@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178345@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178158@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178159@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178160@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178114@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178115@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178279@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178161@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T121000Z
+DTEND:20261105T134000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178326@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178364@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178229@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178162@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Консультация: Теория и практика рече
+ вого общения (2-ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178163@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T121000Z
+DTEND:20261106T134000Z
+SUMMARY:ЭКЗАМЕН: Теория и практика речевого 
+ общения (2-ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178305@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178280@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178281@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178191@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T121000Z
+DTEND:20261109T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178116@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178346@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178134@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178306@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178307@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178308@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178192@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T121000Z
+DTEND:20261111T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178135@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178136@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178282@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178347@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178327@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178365@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178230@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178193@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178283@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178328@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178194@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T121000Z
+DTEND:20261116T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178117@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178309@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178348@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178118@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178119@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178310@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178137@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178311@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178329@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178366@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178231@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T085000Z
+DTEND:20261120T102000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178284@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178285@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178195@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T121000Z
+DTEND:20261123T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178138@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178349@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178139@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178140@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178196@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T121000Z
+DTEND:20261125T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178141@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178312@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178286@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178350@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178330@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178367@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178232@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T103000Z
+DTEND:20261127T120000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178313@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178331@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178314@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178351@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178315@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178233@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178368@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178120@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178332@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178369@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178197@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178234@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T103000Z
+DTEND:20261204T120000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178316@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178287@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178333@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178121@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178317@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 4
+ 01)
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178352@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 401
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178122@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178235@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178236@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:ДПВ1 Использование современной худо
+ жественной литературы в обучении иностр
+ анному языку
+LOCATION:онлайн
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178123@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178288@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178289@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178334@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178370@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178198@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T103000Z
+DTEND:20261211T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178290@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178335@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178142@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178353@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178143@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178336@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн
+DESCRIPTION:Сорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178318@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Корчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178199@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T121000Z
+DTEND:20261216T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178371@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178124@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178291@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:ДПВ3 Лингводидактика и адаптация худ
+ ожественного текста
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Брыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178372@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Гиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178200@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Авагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178125@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Великобритании
+LOCATION:онлайн
+DESCRIPTION:Барсукова Е.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g305-178354@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/305.html
+END:VEVENT
+END:VCALENDAR

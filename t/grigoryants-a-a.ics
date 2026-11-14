@@ -1,0 +1,1092 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Григорянц А.А. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t171799@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T103000Z
+DTEND:20260901T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171691@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174930@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174931@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171692@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171800@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T121000Z
+DTEND:20260907T134000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171801@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174932@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171693@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174933@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171802@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174934@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171694@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171803@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171695@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T121000Z
+DTEND:20260915T134000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171696@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174935@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171697@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171804@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171698@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174936@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171805@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171699@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171806@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T121000Z
+DTEND:20260928T134000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171807@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171808@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174937@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171700@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171809@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T121000Z
+DTEND:20261005T134000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171810@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174938@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171701@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174939@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174940@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171702@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171811@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171812@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171703@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174941@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171813@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171704@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171814@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174942@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171705@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174943@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174944@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171706@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171707@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171815@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174945@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174946@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171708@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171816@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T121000Z
+DTEND:20261102T134000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171817@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171709@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T121000Z
+DTEND:20261103T134000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171710@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174947@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171818@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T121000Z
+DTEND:20261105T134000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174948@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171819@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174949@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171711@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T121000Z
+DTEND:20261110T134000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171820@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174950@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174951@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171712@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171713@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171714@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174952@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171821@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261121T050000Z
+DTEND:20261121T063000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно\nпер
+ енесено\, изменено 13.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174953@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171715@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171822@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T121000Z
+DTEND:20261123T134000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174954@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171823@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171716@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174955@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171717@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T121000Z
+DTEND:20261126T134000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174956@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171824@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171825@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171718@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174957@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174958@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171719@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171826@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T121000Z
+DTEND:20261207T134000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171827@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171720@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174959@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171828@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T121000Z
+DTEND:20261210T134000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174960@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171721@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171829@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T121000Z
+DTEND:20261214T134000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171830@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171722@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174961@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174962@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171723@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171831@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T121000Z
+DTEND:20261221T134000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174963@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171832@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171724@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174964@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174965@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:Математический анализ III (семинары)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171725@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T103000Z
+DTEND:20261228T120000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171833@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T121000Z
+DTEND:20261228T134000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171726@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171834@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T103000Z
+DTEND:20261229T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nГригорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/grigoryants-a-a.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,605 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Казарян М.С. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t172776@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T085000Z
+DTEND:20260904T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172777@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172778@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172779@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172780@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172781@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172782@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172783@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172784@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172785@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172786@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172787@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172788@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172789@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172790@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172791@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172792@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172793@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172794@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172795@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172796@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172797@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172798@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172799@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172800@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172801@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172802@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172803@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172804@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172805@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172806@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172807@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172808@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172809@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172810@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172811@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172812@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172813@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T085000Z
+DTEND:20261120T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172814@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172815@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172816@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172817@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172818@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172819@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172820@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172821@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172822@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172823@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172824@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172825@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172826@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172827@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172828@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T085000Z
+DTEND:20261225T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172829@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T050000Z
+DTEND:20261228T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nКазарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kazaryan-m-s.html
+END:VEVENT
+END:VCALENDAR

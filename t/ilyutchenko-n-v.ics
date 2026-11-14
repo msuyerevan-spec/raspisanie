@@ -1,0 +1,402 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Ильютченко Н.В. — МГУ 
+ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t175393@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175394@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175395@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T103000Z
+DTEND:20260911T120000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175396@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175397@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175398@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175399@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175400@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175401@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175402@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175403@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T121000Z
+DTEND:20260915T134000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175404@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175405@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175406@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175407@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175408@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175409@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T121000Z
+DTEND:20260917T134000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175410@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175411@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175412@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T103000Z
+DTEND:20260918T120000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175413@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T050000Z
+DTEND:20260919T063000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175414@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T064000Z
+DTEND:20260919T081000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175415@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T085000Z
+DTEND:20260919T102000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175416@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T103000Z
+DTEND:20260919T120000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175417@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175418@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175419@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175420@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T121000Z
+DTEND:20260922T134000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175421@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175422@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175423@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175424@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T121000Z
+DTEND:20260923T134000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175425@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175426@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175427@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175428@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T121000Z
+DTEND:20260924T134000Z
+SUMMARY:Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175429@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Консультация: Правоохранительные ор
+ ганы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175430@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:ЭКЗАМЕН: Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175431@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:ЭКЗАМЕН: Правоохранительные органы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nИльютченко Н.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ilyutchenko-n-v.html
+END:VEVENT
+END:VCALENDAR

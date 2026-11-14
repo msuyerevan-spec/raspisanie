@@ -1,0 +1,311 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Филиппова С.Ю. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179114@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179115@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179116@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T121000Z
+DTEND:20261130T134000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179117@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179118@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179119@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179120@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T121000Z
+DTEND:20261201T134000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179121@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179122@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179123@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T121000Z
+DTEND:20261202T134000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179124@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179125@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179126@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179127@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T121000Z
+DTEND:20261203T134000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179128@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179129@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179130@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T103000Z
+DTEND:20261204T120000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179131@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T121000Z
+DTEND:20261204T134000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179132@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261205T103000Z
+DTEND:20261205T120000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179133@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179134@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179135@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179136@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T121000Z
+DTEND:20261207T134000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179137@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179138@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179139@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179140@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179141@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Консультация: Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179142@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:ЭКЗАМЕН: Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179143@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T121000Z
+DTEND:20261210T134000Z
+SUMMARY:ЭКЗАМЕН: Коммерческое право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nФилиппова С.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filippova-s-yu.html
+END:VEVENT
+END:VCALENDAR

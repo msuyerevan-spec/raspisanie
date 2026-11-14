@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Липоватая М.С. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t176192@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260905T085000Z
+DTEND:20260905T102000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176193@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261024T085000Z
+DTEND:20261024T102000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176194@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261114T085000Z
+DTEND:20261114T102000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176195@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261121T085000Z
+DTEND:20261121T102000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176196@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176197@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261205T064000Z
+DTEND:20261205T081000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176198@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261205T085000Z
+DTEND:20261205T102000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176199@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T085000Z
+DTEND:20261212T102000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176200@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T085000Z
+DTEND:20261219T102000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+END:VCALENDAR

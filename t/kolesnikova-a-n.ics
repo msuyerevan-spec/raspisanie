@@ -1,0 +1,310 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Колесникова А.Н. — МГУ
+  Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t180002@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180003@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180004@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180005@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T121000Z
+DTEND:20261008T134000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180006@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180007@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180008@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180009@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180010@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T085000Z
+DTEND:20261010T102000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180011@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180012@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180013@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180014@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180015@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180016@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180017@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180018@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180019@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180020@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180021@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T121000Z
+DTEND:20261015T134000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180022@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180023@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180024@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T121000Z
+DTEND:20261016T134000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180025@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180026@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180027@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T103000Z
+DTEND:20261120T120000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180028@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nКолесникова А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolesnikova-a-n.html
+END:VEVENT
+END:VCALENDAR

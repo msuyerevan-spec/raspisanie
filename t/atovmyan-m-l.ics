@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Атовмян М.Л. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t180156@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173481@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180157@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180158@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173482@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173483@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173484@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173485@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173486@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173487@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180159@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173488@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180160@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173489@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180161@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180162@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180163@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180164@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173490@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180165@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173491@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173492@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173493@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180166@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180167@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173494@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180168@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173495@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180169@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173496@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180170@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173497@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180171@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173498@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180172@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180173@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАтовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/atovmyan-m-l.html
+END:VEVENT
+END:VCALENDAR

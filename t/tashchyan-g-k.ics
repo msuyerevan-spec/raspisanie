@@ -1,0 +1,884 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Тащян Г.К. — МГУ Ерева
+ н
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178026@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178572@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173231@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178573@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178027@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178028@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173232@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178574@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178029@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173233@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178030@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178575@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178031@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178576@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178577@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178032@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173234@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178033@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178578@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178579@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178034@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178035@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178580@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178036@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173235@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178581@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173236@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178582@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178037@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178038@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173237@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178039@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173238@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178040@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178583@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173239@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178584@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173240@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178041@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178585@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178586@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178042@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178043@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173241@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178587@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178044@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178045@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173242@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173243@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178588@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178046@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173244@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178589@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178590@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173245@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178047@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178591@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178592@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173246@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178048@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178593@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178594@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173247@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178049@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178595@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178596@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178050@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178051@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178597@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173248@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T050000Z
+DTEND:20261228T063000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178598@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T064000Z
+DTEND:20261228T081000Z
+SUMMARY:Политология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178052@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:ДПВ2 Внешняя политика Республики Арм
+ ения: приоритетные направления и основн
+ ые задачи//Правовые основы международно
+ й и национальной безопасности//Публична
+ я дипломатия как инструмент "мягкой силы
+ "
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nТащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tashchyan-g-k.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1680 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Маргарян Г.Ю. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t172422@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T121000Z
+DTEND:20260901T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 103\, 201\, 203\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171835@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T103000Z
+DTEND:20260902T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 201\, 205\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173943@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T121000Z
+DTEND:20260902T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\, 106\, 202\, 203\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174286@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 106\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175870@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T121000Z
+DTEND:20260903T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Группы: 203\, 207\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172423@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T103000Z
+DTEND:20260904T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 105\, 106\, 107\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171836@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T121000Z
+DTEND:20260904T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 202\, 205\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176523@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 205\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172424@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T121000Z
+DTEND:20260907T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 105\, 107\, 203\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172425@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T121000Z
+DTEND:20260908T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 103\, 107\, 201\, 206\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171837@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 104\, 201\, 206\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172426@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T121000Z
+DTEND:20260909T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 105\, 202\, 205\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174288@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 106\, 107\, 205\, 206\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173021@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T121000Z
+DTEND:20260910T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 104\, 203\, 207\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173947@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T103000Z
+DTEND:20260911T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171838@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T121000Z
+DTEND:20260911T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 107\, 202\, 205\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171839@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173627@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T121000Z
+DTEND:20260914T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 104\, 105\, 107\, 201\, 203\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174289@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 106\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172427@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T121000Z
+DTEND:20260915T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 103\, 201\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171840@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 103\, 104\, 201\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173949@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T121000Z
+DTEND:20260916T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\, 202\, 205\, 207\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176807@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 206\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173024@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T121000Z
+DTEND:20260917T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 104\, 106\, 203\, 207\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174291@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T103000Z
+DTEND:20260918T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 106\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174697@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T121000Z
+DTEND:20260918T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 107\, 202\, 206\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171841@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T121000Z
+DTEND:20260922T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 102\, 201\, 203\, 206\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171842@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 104\, 205\, 206\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172429@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T121000Z
+DTEND:20260923T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 105\, 207\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174292@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 106\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173025@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T121000Z
+DTEND:20260924T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 104\, 207\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174293@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 106\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174698@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T121000Z
+DTEND:20260925T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 107\, 202\, 205\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174699@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T121000Z
+DTEND:20260928T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 107\, 203\, 206\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173026@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T121000Z
+DTEND:20260929T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 201\, 203\, 206\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171843@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 104\, 201\, 205\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173027@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T121000Z
+DTEND:20260930T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 105\, 106\, 202\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176813@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 206\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173028@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T121000Z
+DTEND:20261001T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 104\, 203\, 207\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173952@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T103000Z
+DTEND:20261002T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\, 106\, 107\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175539@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T121000Z
+DTEND:20261002T134000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 202\, 205\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174701@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T121000Z
+DTEND:20261005T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 107\, 203\, 207\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172430@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 103\, 206\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171844@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 104\, 201\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172431@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T121000Z
+DTEND:20261007T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 105\, 202\, 207\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171845@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 106\, 206\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173030@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T121000Z
+DTEND:20261008T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 104\, 201\, 203\, 207\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173031@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 105\, 106\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171846@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T121000Z
+DTEND:20261009T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 107\, 202\, 205\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174703@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 107\, 203\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173955@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171847@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 103\, 201\, 206\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171848@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 201\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172432@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 107\, 202\, 205\, 207\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176817@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 206\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172433@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T121000Z
+DTEND:20261015T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 103\, 104\, 203\, 207\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173956@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\, 202\, 207\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174705@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T121000Z
+DTEND:20261016T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 107\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174298@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 106\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172434@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T121000Z
+DTEND:20261019T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 107\, 203\, 205\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171849@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 106\, 205\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172435@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T121000Z
+DTEND:20261020T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 103\, 104\, 201\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171850@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 104\, 107\, 201\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172436@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T121000Z
+DTEND:20261021T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 105\, 106\, 205\, 207\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176537@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 205\, 206\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173035@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T121000Z
+DTEND:20261022T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 104\, 203\, 207\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173958@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T103000Z
+DTEND:20261023T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\, 106\, 205\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174708@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T121000Z
+DTEND:20261023T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 107\, 202\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171851@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T121000Z
+DTEND:20261026T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 102\, 104\, 105\, 107\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171852@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T121000Z
+DTEND:20261027T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 102\, 103\, 201\, 206\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171853@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T103000Z
+DTEND:20261028T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 104\, 201\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172439@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T121000Z
+DTEND:20261028T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 105\, 107\, 202\, 207\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174711@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 107\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173037@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T121000Z
+DTEND:20261029T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 203\, 207\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173961@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\, 106\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175546@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T121000Z
+DTEND:20261030T134000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 202\, 205\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172440@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T121000Z
+DTEND:20261102T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 107\, 203\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172441@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T121000Z
+DTEND:20261103T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 103\, 106\, 201\, 206\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173642@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 104\, 201\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173039@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T121000Z
+DTEND:20261104T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 202\, 207\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176821@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 206\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173643@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T121000Z
+DTEND:20261105T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 104\, 105\, 203\, 207\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174304@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 106\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171854@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T121000Z
+DTEND:20261106T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 202\, 205\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175549@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 202\, 203\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171855@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T121000Z
+DTEND:20261109T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 107\, 206\, 207\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174305@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 106\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173040@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T121000Z
+DTEND:20261110T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 105\, 201\, 206\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171856@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 104\, 201\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172442@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T121000Z
+DTEND:20261111T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 105\, 202\, 205\, 207\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176824@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 206\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173041@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T121000Z
+DTEND:20261112T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 104\, 202\, 203\, 207\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174306@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 106\, 202\, 206\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172443@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T121000Z
+DTEND:20261113T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 107\, 205\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171857@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T121000Z
+DTEND:20261116T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 104\, 203\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174307@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 106\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172444@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T121000Z
+DTEND:20261117T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 103\, 205\, 206\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171858@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 104\, 201\, 206\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172445@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T121000Z
+DTEND:20261118T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 105\, 202\, 205\, 207\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176828@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 206\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173043@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T121000Z
+DTEND:20261119T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 104\, 106\, 203\, 207\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173966@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T103000Z
+DTEND:20261120T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\, 106\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172446@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T121000Z
+DTEND:20261120T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 201\, 202\, 205\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176546@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 205\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172447@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T121000Z
+DTEND:20261123T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 104\, 105\, 203\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174310@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 106\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172448@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 103\, 201\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171859@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 104\, 201\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172449@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T121000Z
+DTEND:20261125T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 105\, 107\, 202\, 207\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176829@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 206\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173045@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T121000Z
+DTEND:20261126T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 104\, 203\, 207\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173969@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T103000Z
+DTEND:20261127T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\, 106\, 107\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175556@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T121000Z
+DTEND:20261127T134000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 202\, 205\, 206\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171860@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T121000Z
+DTEND:20261130T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 107\, 203\, 206\, 207\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172450@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T121000Z
+DTEND:20261201T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 103\, 107\, 201\, 206\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171861@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 104\, 201\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172451@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T121000Z
+DTEND:20261202T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 202\, 205\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173047@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T121000Z
+DTEND:20261203T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 104\, 106\, 203\, 207\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173970@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T103000Z
+DTEND:20261204T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\, 201\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174719@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T121000Z
+DTEND:20261204T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 107\, 202\, 205\, 206\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175896@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T121000Z
+DTEND:20261207T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Группы: 203\, 207\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174313@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 106\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172452@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T121000Z
+DTEND:20261208T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 103\, 107\, 201\, 206\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173049@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 104\, 201\, 206\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171862@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T121000Z
+DTEND:20261209T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 105\, 202\, 205\, 207\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173655@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T121000Z
+DTEND:20261210T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 104\, 203\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173972@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T103000Z
+DTEND:20261211T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\, 106\, 205\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171863@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T121000Z
+DTEND:20261211T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 202\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174721@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T121000Z
+DTEND:20261214T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 107\, 203\, 207\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175561@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 202\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171864@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T121000Z
+DTEND:20261215T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 102\, 103\, 201\, 206\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171865@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 104\, 107\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173973@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T121000Z
+DTEND:20261216T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\, 106\, 205\, 207\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171866@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173051@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T121000Z
+DTEND:20261217T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 104\, 203\, 207\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173974@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T103000Z
+DTEND:20261218T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\, 106\, 205\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174723@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T121000Z
+DTEND:20261218T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 107\, 202\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173975@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T121000Z
+DTEND:20261221T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\, 106\, 107\, 203\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175563@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 202\nКазарян Ш.С.\, Маргарян Г.
+ Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171867@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T121000Z
+DTEND:20261222T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 102\, 103\, 201\, 206\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171868@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 104\, 107\, 201\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173976@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T121000Z
+DTEND:20261223T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\, 202\, 205\, 207\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171869@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 106\, 107\, 205\nКазарян Ш.С.\, М
+ аргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173053@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T121000Z
+DTEND:20261224T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 103\, 104\, 201\, 203\, 207\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173977@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T103000Z
+DTEND:20261225T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 105\, 106\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172455@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T121000Z
+DTEND:20261225T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 202\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175037@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T103000Z
+DTEND:20261228T120000Z
+SUMMARY:Элективные курсы по физической куль
+ туре
+LOCATION:спортзал
+DESCRIPTION:Группы: 201\, 205\, 206\nКазарян Ш.С.\, Марг
+ арян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172456@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T121000Z
+DTEND:20261228T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 102\, 104\, 105\, 203\, 207\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174320@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T103000Z
+DTEND:20261229T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 106\, 202\nКазарян Ш.С.\, Маргаря
+ н Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171870@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T121000Z
+DTEND:20261229T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Группы: 101\, 102\, 103\, 203\, 206\nКазарян Ш.С
+ .\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/margaryan-g-yu.html
+END:VEVENT
+END:VCALENDAR

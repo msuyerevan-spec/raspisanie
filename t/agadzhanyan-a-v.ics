@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Агаджанян А.В. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t176602@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176603@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176604@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176605@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176606@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176607@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176608@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176609@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176610@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176611@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176612@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176613@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176614@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176615@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176616@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176617@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176618@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176619@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Мировая экономика и международные э
+ кономические отношения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаджанян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agadzhanyan-a-v.html
+END:VEVENT
+END:VCALENDAR

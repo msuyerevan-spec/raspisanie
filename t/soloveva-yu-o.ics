@@ -1,0 +1,382 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Соловьева Ю.О. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178164@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T153000Z
+DTEND:20260904T170000Z
+SUMMARY:Практикум по переводу
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179948@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T121000Z
+DTEND:20260908T134000Z
+SUMMARY:Практикум по переводу
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179949@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T153000Z
+DTEND:20260922T170000Z
+SUMMARY:Практикум по переводу
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178165@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178166@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179950@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178167@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178168@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178169@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178170@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T121000Z
+DTEND:20260929T134000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178171@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179951@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178172@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178173@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179952@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178174@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178175@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179953@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T121000Z
+DTEND:20261001T134000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179954@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179955@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178176@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T103000Z
+DTEND:20261002T120000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178177@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T121000Z
+DTEND:20261002T134000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179956@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T064000Z
+DTEND:20261003T081000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178178@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T085000Z
+DTEND:20261003T102000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178179@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T103000Z
+DTEND:20261003T120000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179957@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179958@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179959@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179960@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T121000Z
+DTEND:20261005T134000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178180@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179961@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178181@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179962@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178182@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:ЗАЧЁТ: Практикум по переводу
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179963@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179964@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T121000Z
+DTEND:20261007T134000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179965@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T153000Z
+DTEND:20261125T170000Z
+SUMMARY:Практикум по переводу
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nСоловьева Ю.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/soloveva-yu-o.html
+END:VEVENT
+END:VCALENDAR

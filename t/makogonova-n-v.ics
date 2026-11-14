@@ -1,0 +1,329 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Макогонова Н.В. — МГУ 
+ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178682@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178683@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178684@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178685@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178686@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178687@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178688@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178689@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178690@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178691@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178692@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178693@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178694@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178695@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178696@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178697@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178698@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178699@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178700@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178701@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178702@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178703@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178704@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178705@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178706@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178707@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178708@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nМакогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/makogonova-n-v.html
+END:VEVENT
+END:VCALENDAR

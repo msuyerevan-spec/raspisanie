@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Абрамян К.Ш. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178337@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173862@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T103000Z
+DTEND:20260901T120000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173863@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178338@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173864@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178339@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173865@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173866@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178340@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173867@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178341@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173868@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173869@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178342@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173870@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178343@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173871@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173872@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178344@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178345@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173873@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178346@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173874@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173875@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178347@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178348@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178349@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173876@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178350@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178351@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173877@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178352@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 401
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178353@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173878@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178354@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Культурология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173879@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАбрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-k-sh.html
+END:VEVENT
+END:VCALENDAR

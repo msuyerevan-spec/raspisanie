@@ -1,0 +1,374 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Артемьева Л.А. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t177416@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177417@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177418@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177419@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177420@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177421@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177422@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177423@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177424@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн (группа подключается из ауд. 4
+ 02)
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177425@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177426@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177427@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177428@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177429@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177430@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177431@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177432@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177433@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177434@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177435@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177436@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177437@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177438@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177439@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177440@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177441@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177442@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177443@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177444@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177445@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177446@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177447@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177448@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177449@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177450@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177451@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАртемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/artemeva-l-a.html
+END:VEVENT
+END:VCALENDAR

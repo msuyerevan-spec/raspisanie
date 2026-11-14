@@ -1,0 +1,1326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание 202M — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:g202M-175655@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:ДПВ2 Ораторское искусство в судебном
+  разбирательстве//Бизнес и власть: пробл
+ емы взаимодействия
+LOCATION:онлайн
+DESCRIPTION:Малютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175656@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:ДПВ2 Ораторское искусство в судебном
+  разбирательстве//Бизнес и власть: пробл
+ емы взаимодействия
+LOCATION:онлайн
+DESCRIPTION:Малютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175639@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Институт конституционного контроля 
+ в России и зарубежных странах
+LOCATION:онлайн
+DESCRIPTION:Малютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175567@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260905T064000Z
+DTEND:20260905T081000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175568@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260905T085000Z
+DTEND:20260905T102000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175663@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 103
+DESCRIPTION:Худоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175631@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Защита публичных прав в международн
+ ых институтах
+LOCATION:онлайн
+DESCRIPTION:Машкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175664@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T103000Z
+DTEND:20260911T120000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Худоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175657@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T135000Z
+DTEND:20260911T152000Z
+SUMMARY:ДПВ2 Ораторское искусство в судебном
+  разбирательстве//Бизнес и власть: пробл
+ емы взаимодействия
+LOCATION:онлайн
+DESCRIPTION:Малютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175569@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260912T050000Z
+DTEND:20260912T063000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175658@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260912T064000Z
+DTEND:20260912T081000Z
+SUMMARY:ДПВ2 Ораторское искусство в судебном
+  разбирательстве//Бизнес и власть: пробл
+ емы взаимодействия
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Малютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175570@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260912T085000Z
+DTEND:20260912T102000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175640@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Институт конституционного контроля 
+ в России и зарубежных странах
+LOCATION:онлайн
+DESCRIPTION:Малютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175659@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T135000Z
+DTEND:20260914T152000Z
+SUMMARY:ДПВ2 Ораторское искусство в судебном
+  разбирательстве//Бизнес и власть: пробл
+ емы взаимодействия
+LOCATION:онлайн
+DESCRIPTION:Малютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175599@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T135000Z
+DTEND:20260915T152000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Томсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175600@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T153000Z
+DTEND:20260915T170000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Томсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175641@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Институт конституционного контроля 
+ в России и зарубежных странах
+LOCATION:онлайн
+DESCRIPTION:Малютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175642@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T103000Z
+DTEND:20260918T120000Z
+SUMMARY:Институт конституционного контроля 
+ в России и зарубежных странах
+LOCATION:онлайн
+DESCRIPTION:Малютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175643@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T153000Z
+DTEND:20260918T170000Z
+SUMMARY:Институт конституционного контроля 
+ в России и зарубежных странах
+LOCATION:онлайн
+DESCRIPTION:Малютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175571@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T050000Z
+DTEND:20260919T063000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108B
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175572@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T064000Z
+DTEND:20260919T081000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108B
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175665@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Худоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175644@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Институт конституционного контроля 
+ в России и зарубежных странах
+LOCATION:онлайн (группа подключается из ауд. 1
+ 03)
+DESCRIPTION:Малютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175645@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Институт конституционного контроля 
+ в России и зарубежных странах
+LOCATION:онлайн
+DESCRIPTION:Малютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175573@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 107
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175660@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T135000Z
+DTEND:20260925T152000Z
+SUMMARY:ДПВ2 Ораторское искусство в судебном
+  разбирательстве//Бизнес и власть: пробл
+ емы взаимодействия
+LOCATION:онлайн
+DESCRIPTION:Малютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175574@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T064000Z
+DTEND:20260926T081000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175661@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T103000Z
+DTEND:20260926T120000Z
+SUMMARY:ДПВ2 Ораторское искусство в судебном
+  разбирательстве//Бизнес и власть: пробл
+ емы взаимодействия
+LOCATION:онлайн
+DESCRIPTION:Малютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175666@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 103
+DESCRIPTION:Худоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175615@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Прудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175575@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T050000Z
+DTEND:20261003T063000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108B
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175576@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T064000Z
+DTEND:20261003T081000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108B
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175647@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:ДПВ1 Нотариат в Республике Армения//П
+ рецедент Европейского суда в уголовно-п
+ роцессуальном праве Республики Армения/
+ /Актуальные проблемы административного 
+ права
+LOCATION:ауд. 210A
+DESCRIPTION:Давтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175601@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T135000Z
+DTEND:20261006T152000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Томсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175602@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T153000Z
+DTEND:20261006T170000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Томсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175616@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Прудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175662@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:ЗАЧЁТ: ДПВ2 Ораторское искусство в су
+ дебном разбирательстве//Бизнес и власть:
+  проблемы взаимодействия
+LOCATION:ауд. 105
+DESCRIPTION:Малютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175646@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T121000Z
+DTEND:20261009T134000Z
+SUMMARY:ЗАЧЁТ: Институт конституционного ко
+ нтроля в России и зарубежных странах
+LOCATION:ауд. 103
+DESCRIPTION:Малютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175577@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T085000Z
+DTEND:20261010T102000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175578@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T103000Z
+DTEND:20261010T120000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175617@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Прудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175603@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T135000Z
+DTEND:20261013T152000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Томсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175604@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T153000Z
+DTEND:20261013T170000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Томсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175667@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Худоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175632@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Защита публичных прав в международн
+ ых институтах
+LOCATION:онлайн
+DESCRIPTION:Машкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175618@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Прудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175579@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T050000Z
+DTEND:20261017T063000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175580@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T064000Z
+DTEND:20261017T081000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175619@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Прудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175605@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T135000Z
+DTEND:20261020T152000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Томсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175606@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T153000Z
+DTEND:20261020T170000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Томсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175668@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Худоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175633@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Защита публичных прав в международн
+ ых институтах
+LOCATION:онлайн
+DESCRIPTION:Машкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175620@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Прудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175621@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Прудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175648@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:ДПВ1 Нотариат в Республике Армения//П
+ рецедент Европейского суда в уголовно-п
+ роцессуальном праве Республики Армения/
+ /Актуальные проблемы административного 
+ права
+LOCATION:ауд. 107
+DESCRIPTION:Давтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175607@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T153000Z
+DTEND:20261027T170000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Томсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175669@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Худоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175622@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Прудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175581@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261031T050000Z
+DTEND:20261031T063000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175582@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261031T064000Z
+DTEND:20261031T081000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175623@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Прудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175649@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:ДПВ1 Нотариат в Республике Армения//П
+ рецедент Европейского суда в уголовно-п
+ роцессуальном праве Республики Армения/
+ /Актуальные проблемы административного 
+ права
+LOCATION:ауд. 208
+DESCRIPTION:Давтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175583@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261107T050000Z
+DTEND:20261107T063000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175584@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261107T064000Z
+DTEND:20261107T081000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175624@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Прудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175650@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:ДПВ1 Нотариат в Республике Армения//П
+ рецедент Европейского суда в уголовно-п
+ роцессуальном праве Республики Армения/
+ /Актуальные проблемы административного 
+ права
+LOCATION:ауд. 205
+DESCRIPTION:Давтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175608@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T153000Z
+DTEND:20261110T170000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Томсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175670@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 106
+DESCRIPTION:Худоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175634@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Защита публичных прав в международн
+ ых институтах
+LOCATION:онлайн (группа подключается из ауд. 1
+ 05)
+DESCRIPTION:Машкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175625@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Прудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175651@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:ДПВ1 Нотариат в Республике Армения//П
+ рецедент Европейского суда в уголовно-п
+ роцессуальном праве Республики Армения/
+ /Актуальные проблемы административного 
+ права
+LOCATION:ауд. 208
+DESCRIPTION:Давтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175609@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T153000Z
+DTEND:20261117T170000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Томсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175671@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Худоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175635@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Защита публичных прав в международн
+ ых институтах
+LOCATION:онлайн
+DESCRIPTION:Машкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175585@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261121T050000Z
+DTEND:20261121T063000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175586@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261121T064000Z
+DTEND:20261121T081000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175652@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:ДПВ1 Нотариат в Республике Армения//П
+ рецедент Европейского суда в уголовно-п
+ роцессуальном праве Республики Армения/
+ /Актуальные проблемы административного 
+ права
+LOCATION:ауд. 205
+DESCRIPTION:Давтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175610@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T153000Z
+DTEND:20261124T170000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Томсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175672@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Худоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175636@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Защита публичных прав в международн
+ ых институтах
+LOCATION:онлайн
+DESCRIPTION:Машкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175587@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 105
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175673@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 103
+DESCRIPTION:Худоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175588@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261128T050000Z
+DTEND:20261128T063000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175589@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 101
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175653@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:ДПВ1 Нотариат в Республике Армения//П
+ рецедент Европейского суда в уголовно-п
+ роцессуальном праве Республики Армения/
+ /Актуальные проблемы административного 
+ права
+LOCATION:ауд. 203
+DESCRIPTION:Давтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175611@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T153000Z
+DTEND:20261201T170000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Томсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175674@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 105
+DESCRIPTION:Худоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175637@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Защита публичных прав в международн
+ ых институтах
+LOCATION:онлайн (группа подключается из ауд. 1
+ 05)
+DESCRIPTION:Машкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175675@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 108B
+DESCRIPTION:Худоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175626@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Прудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175590@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261205T050000Z
+DTEND:20261205T063000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175591@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261205T064000Z
+DTEND:20261205T081000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175627@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Прудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175654@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:ДПВ1 Нотариат в Республике Армения//П
+ рецедент Европейского суда в уголовно-п
+ роцессуальном праве Республики Армения/
+ /Актуальные проблемы административного 
+ права
+LOCATION:ауд. 202
+DESCRIPTION:Давтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175612@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T153000Z
+DTEND:20261208T170000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Томсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175676@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Худоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175638@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Защита публичных прав в международн
+ ых институтах
+LOCATION:онлайн
+DESCRIPTION:Машкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175628@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Прудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175592@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 103
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175677@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 105
+DESCRIPTION:Худоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175593@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T064000Z
+DTEND:20261212T081000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108B
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175594@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T103000Z
+DTEND:20261212T120000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175629@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Прудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175613@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T153000Z
+DTEND:20261215T170000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Томсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175678@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Худоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175630@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Сравнительно-правовые аспекты госуд
+ арственного контроля (на английском язы
+ ке)
+LOCATION:онлайн
+DESCRIPTION:Прудентов Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175595@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T050000Z
+DTEND:20261219T063000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175596@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T064000Z
+DTEND:20261219T081000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175614@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T153000Z
+DTEND:20261222T170000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Томсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175597@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261226T050000Z
+DTEND:20261226T063000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g202M-175598@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261226T064000Z
+DTEND:20261226T081000Z
+SUMMARY:Иностранный язык (Иностранный язык в
+  правоведении)
+LOCATION:ауд. 108A
+DESCRIPTION:Ягубян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/202M.html
+END:VEVENT
+END:VCALENDAR

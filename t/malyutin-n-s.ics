@@ -1,0 +1,1104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Малютин Н.С. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t175655@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:ДПВ2 Ораторское искусство в судебном
+  разбирательстве//Бизнес и власть: пробл
+ емы взаимодействия
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175656@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:ДПВ2 Ораторское искусство в судебном
+  разбирательстве//Бизнес и власть: пробл
+ емы взаимодействия
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175639@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Институт конституционного контроля 
+ в России и зарубежных странах
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172612@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T121000Z
+DTEND:20260903T134000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172613@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T135000Z
+DTEND:20260903T152000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172614@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T153000Z
+DTEND:20260903T170000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172722@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260905T121000Z
+DTEND:20260905T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172723@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260905T153000Z
+DTEND:20260905T170000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172724@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172725@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172726@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172727@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172615@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 03)
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172616@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175657@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T135000Z
+DTEND:20260911T152000Z
+SUMMARY:ДПВ2 Ораторское искусство в судебном
+  разбирательстве//Бизнес и власть: пробл
+ емы взаимодействия
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175658@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260912T064000Z
+DTEND:20260912T081000Z
+SUMMARY:ДПВ2 Ораторское искусство в судебном
+  разбирательстве//Бизнес и власть: пробл
+ емы взаимодействия
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 202M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172728@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260912T135000Z
+DTEND:20260912T152000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172729@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260912T153000Z
+DTEND:20260912T170000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175640@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Институт конституционного контроля 
+ в России и зарубежных странах
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175659@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T135000Z
+DTEND:20260914T152000Z
+SUMMARY:ДПВ2 Ораторское искусство в судебном
+  разбирательстве//Бизнес и власть: пробл
+ емы взаимодействия
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172617@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T153000Z
+DTEND:20260914T170000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172730@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172731@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172732@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172733@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179093@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T121000Z
+DTEND:20260915T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179094@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T135000Z
+DTEND:20260915T152000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175641@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Институт конституционного контроля 
+ в России и зарубежных странах
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175642@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T103000Z
+DTEND:20260918T120000Z
+SUMMARY:Институт конституционного контроля 
+ в России и зарубежных странах
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172618@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T135000Z
+DTEND:20260918T152000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175643@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T153000Z
+DTEND:20260918T170000Z
+SUMMARY:Институт конституционного контроля 
+ в России и зарубежных странах
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172734@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T135000Z
+DTEND:20260919T152000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172735@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T153000Z
+DTEND:20260919T170000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172736@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172737@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172738@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172739@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175644@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Институт конституционного контроля 
+ в России и зарубежных странах
+LOCATION:онлайн (группа подключается из ауд. 1
+ 03)
+DESCRIPTION:Группы: 202M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172619@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T121000Z
+DTEND:20260923T134000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175645@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Институт конституционного контроля 
+ в России и зарубежных странах
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175660@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T135000Z
+DTEND:20260925T152000Z
+SUMMARY:ДПВ2 Ораторское искусство в судебном
+  разбирательстве//Бизнес и власть: пробл
+ емы взаимодействия
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172620@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T153000Z
+DTEND:20260925T170000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175661@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T103000Z
+DTEND:20260926T120000Z
+SUMMARY:ДПВ2 Ораторское искусство в судебном
+  разбирательстве//Бизнес и власть: пробл
+ емы взаимодействия
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМалютин Н.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172621@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172622@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172623@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172624@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T121000Z
+DTEND:20260928T134000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172625@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172626@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179095@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179096@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T121000Z
+DTEND:20260929T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172627@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172628@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172629@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172630@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T121000Z
+DTEND:20260930T134000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172631@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172632@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179097@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172633@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172634@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T121000Z
+DTEND:20261001T134000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172635@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172636@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172637@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T103000Z
+DTEND:20261002T120000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172638@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T121000Z
+DTEND:20261002T134000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172639@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T050000Z
+DTEND:20261003T063000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172640@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T064000Z
+DTEND:20261003T081000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179098@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T103000Z
+DTEND:20261003T120000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172641@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T121000Z
+DTEND:20261003T134000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179099@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172642@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172643@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172644@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T121000Z
+DTEND:20261005T134000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179100@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179101@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179102@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179103@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179104@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179105@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172645@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172646@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179106@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T121000Z
+DTEND:20261007T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172647@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Основные проблемы современного разв
+ ития конституционного и муниципального 
+ права и организации публичной власти в Р
+ оссийской Федерации
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179107@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179108@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179109@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T121000Z
+DTEND:20261008T134000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172648@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Консультация: Основные проблемы сов
+ ременного развития конституционного и м
+ униципального права и организации публи
+ чной власти в Российской Федерации
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172649@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:ЭКЗАМЕН: Основные проблемы современ
+ ного развития конституционного и муници
+ пального права и организации публичной 
+ власти в Российской Федерации
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175662@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:ЗАЧЁТ: ДПВ2 Ораторское искусство в су
+ дебном разбирательстве//Бизнес и власть:
+  проблемы взаимодействия
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 202M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175646@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T121000Z
+DTEND:20261009T134000Z
+SUMMARY:ЗАЧЁТ: Институт конституционного ко
+ нтроля в России и зарубежных странах
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 202M\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179110@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T050000Z
+DTEND:20261010T063000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179111@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:Консультация: Конституционное (госу
+ дарственное) право зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179112@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T085000Z
+DTEND:20261010T102000Z
+SUMMARY:ЭКЗАМЕН: Конституционное (государст
+ венное) право зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179113@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T121000Z
+DTEND:20261010T134000Z
+SUMMARY:ЭКЗАМЕН: Конституционное (государст
+ венное) право зарубежных стран
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМалютин Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/malyutin-n-s.html
+END:VEVENT
+END:VCALENDAR

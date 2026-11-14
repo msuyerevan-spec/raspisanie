@@ -1,0 +1,578 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Мартиросян А.С. — МГУ 
+ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t177954@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173114@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173115@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173116@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T085000Z
+DTEND:20260904T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177955@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177956@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173117@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177957@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177958@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173118@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177959@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177960@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173119@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177961@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173120@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173121@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177962@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173122@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177963@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173123@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173124@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177964@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177965@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173125@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177966@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177967@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173126@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177968@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173127@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173128@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173129@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173130@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177969@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177970@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173131@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T085000Z
+DTEND:20261120T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177971@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177972@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173132@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177973@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173133@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173134@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177974@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173135@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173136@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173137@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177975@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173138@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173139@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177976@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177977@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177978@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173140@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T085000Z
+DTEND:20261225T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177979@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T064000Z
+DTEND:20261228T081000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177980@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Теория и практика дипломатии
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-a-s.html
+END:VEVENT
+END:VCALENDAR

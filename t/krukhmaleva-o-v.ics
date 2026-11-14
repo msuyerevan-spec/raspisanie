@@ -1,0 +1,199 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Крухмалева О.В. — МГУ 
+ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t173316@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T121000Z
+DTEND:20260902T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173317@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T121000Z
+DTEND:20260909T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173318@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T121000Z
+DTEND:20260916T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173319@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T121000Z
+DTEND:20260923T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173320@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173321@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 03)
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173322@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T121000Z
+DTEND:20261021T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173323@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173324@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T121000Z
+DTEND:20261028T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173325@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173326@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173327@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T121000Z
+DTEND:20261118T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173328@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T121000Z
+DTEND:20261125T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173329@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173330@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T121000Z
+DTEND:20261202T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173331@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173332@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T121000Z
+DTEND:20261216T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173333@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 103M\nКрухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krukhmaleva-o-v.html
+END:VEVENT
+END:VCALENDAR

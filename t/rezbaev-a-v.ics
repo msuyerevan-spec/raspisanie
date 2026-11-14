@@ -1,0 +1,621 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Резбаев А.В. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178427@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T085000Z
+DTEND:20260904T102000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178428@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T103000Z
+DTEND:20260904T120000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178466@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178467@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178429@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T121000Z
+DTEND:20260911T134000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178430@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178468@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178431@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178432@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T121000Z
+DTEND:20260918T134000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178469@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178470@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178433@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T121000Z
+DTEND:20260925T134000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178471@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178434@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178435@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T121000Z
+DTEND:20261002T134000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178472@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178436@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178473@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178474@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T121000Z
+DTEND:20261016T134000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178437@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178475@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178476@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T103000Z
+DTEND:20261023T120000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178438@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T121000Z
+DTEND:20261023T134000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178439@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178440@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178477@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178478@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178441@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178442@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T121000Z
+DTEND:20261030T134000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178479@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178443@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178444@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178445@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T121000Z
+DTEND:20261106T134000Z
+SUMMARY:Эконометрика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02)
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178480@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178481@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178446@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178447@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T121000Z
+DTEND:20261112T134000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178448@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178449@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178450@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178451@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T121000Z
+DTEND:20261113T134000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178452@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178453@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178454@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T121000Z
+DTEND:20261116T134000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178455@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178456@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178457@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T121000Z
+DTEND:20261117T134000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178482@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:ауд. БК2
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178458@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178459@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178460@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T121000Z
+DTEND:20261118T134000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178483@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Практикум по эконометрике
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178461@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178462@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T121000Z
+DTEND:20261119T134000Z
+SUMMARY:Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178484@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:ЗАЧЁТ: Практикум по эконометрике
+LOCATION:ауд. БК2
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178463@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T085000Z
+DTEND:20261120T102000Z
+SUMMARY:Консультация: Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178464@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T103000Z
+DTEND:20261120T120000Z
+SUMMARY:ЭКЗАМЕН: Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178485@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261121T050000Z
+DTEND:20261121T063000Z
+SUMMARY:ЗАЧЁТ: Практикум по эконометрике
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178465@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261121T064000Z
+DTEND:20261121T081000Z
+SUMMARY:ЭКЗАМЕН: Эконометрика
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nРезбаев А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rezbaev-a-v.html
+END:VEVENT
+END:VCALENDAR

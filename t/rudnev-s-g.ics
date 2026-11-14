@@ -1,0 +1,562 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Руднев С.Г. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179047@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179048@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02а)
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171871@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179049@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179050@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179051@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179052@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179053@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171872@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T050000Z
+DTEND:20260926T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179054@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171873@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179055@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179056@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02а)
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171874@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179057@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179058@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179059@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02а)
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179060@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179061@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179062@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02а)
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179063@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179064@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02а)
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171875@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179065@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179066@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T121000Z
+DTEND:20261102T134000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179067@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179068@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171876@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179069@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179070@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171877@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T121000Z
+DTEND:20261104T134000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179071@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171878@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179072@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T121000Z
+DTEND:20261105T134000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171879@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171880@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171881@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171882@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261107T121000Z
+DTEND:20261107T134000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171883@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171884@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171885@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179073@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:ДПВ3 Мат. модели в иммунологии и эпид
+ емиологии// Обратные задачи//Математичес
+ кие методы распознавания образов. Допол
+ нительные главы Уравнений Матем. физики
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171886@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171887@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171888@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179074@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T121000Z
+DTEND:20261110T134000Z
+SUMMARY:ЗАЧЁТ: ДПВ3 Мат. модели в иммунологии 
+ и эпидемиологии// Обратные задачи//Матем
+ атические методы распознавания образов.
+  Дополнительные главы Уравнений Матем. ф
+ изики
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+END:VCALENDAR

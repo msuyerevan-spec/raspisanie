@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Лобанов М.М. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t174388@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Экономическая география
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174389@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174390@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174391@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174392@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T121000Z
+DTEND:20260907T134000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174393@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174394@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T121000Z
+DTEND:20260908T134000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174395@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174396@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174397@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T121000Z
+DTEND:20260909T134000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174398@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174399@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174400@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174401@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T103000Z
+DTEND:20260911T120000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174402@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T121000Z
+DTEND:20260911T134000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174403@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174404@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174405@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T121000Z
+DTEND:20260914T134000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174406@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:ЗАЧЁТ: Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174407@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:ЗАЧЁТ: Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nЛобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lobanov-m-m.html
+END:VEVENT
+END:VCALENDAR

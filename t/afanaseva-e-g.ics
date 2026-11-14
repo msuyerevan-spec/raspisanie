@@ -1,0 +1,416 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Афанасьева Е.Г. — МГУ 
+ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179144@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T121000Z
+DTEND:20261009T134000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179145@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179146@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T064000Z
+DTEND:20261017T081000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179147@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T121000Z
+DTEND:20261019T134000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179148@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179149@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T135000Z
+DTEND:20261022T152000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179150@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T121000Z
+DTEND:20261023T134000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179151@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261024T103000Z
+DTEND:20261024T120000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179152@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179153@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179154@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261031T064000Z
+DTEND:20261031T081000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179155@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179156@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T135000Z
+DTEND:20261105T152000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179157@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T121000Z
+DTEND:20261106T134000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179158@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261107T103000Z
+DTEND:20261107T120000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179159@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T121000Z
+DTEND:20261109T134000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179160@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179161@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179162@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261121T064000Z
+DTEND:20261121T081000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179163@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179164@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T064000Z
+DTEND:20261212T081000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179165@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T121000Z
+DTEND:20261218T134000Z
+SUMMARY:Предпринимательское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179166@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Предпринимательское право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179167@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Предпринимательское право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179168@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Предпринимательское право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179169@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T121000Z
+DTEND:20261221T134000Z
+SUMMARY:Предпринимательское право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179170@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Предпринимательское право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179171@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Предпринимательское право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179172@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Предпринимательское право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179173@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T121000Z
+DTEND:20261222T134000Z
+SUMMARY:Предпринимательское право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179174@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Предпринимательское право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179175@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:Предпринимательское право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179176@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:Предпринимательское право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179177@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Предпринимательское право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179178@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Предпринимательское право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179179@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T121000Z
+DTEND:20261224T134000Z
+SUMMARY:Предпринимательское право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179180@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Консультация: Предпринимательское п
+ раво
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179181@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T085000Z
+DTEND:20261225T102000Z
+SUMMARY:ЭКЗАМЕН: Предпринимательское право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179182@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T103000Z
+DTEND:20261225T120000Z
+SUMMARY:ЭКЗАМЕН: Предпринимательское право
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАфанасьева Е.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/afanaseva-e-g.html
+END:VEVENT
+END:VCALENDAR

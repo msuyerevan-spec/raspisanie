@@ -1,0 +1,289 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Зарайская О.А. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178655@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178656@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178657@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T135000Z
+DTEND:20260924T152000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178658@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178659@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T135000Z
+DTEND:20261001T152000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178660@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178661@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T121000Z
+DTEND:20261008T134000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178662@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T135000Z
+DTEND:20261008T152000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178663@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178664@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178665@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T121000Z
+DTEND:20261022T134000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178666@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T135000Z
+DTEND:20261022T152000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178667@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178668@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T135000Z
+DTEND:20261029T152000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178669@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T121000Z
+DTEND:20261105T134000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178670@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T135000Z
+DTEND:20261105T152000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178671@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178672@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178673@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T121000Z
+DTEND:20261112T134000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178674@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178675@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T121000Z
+DTEND:20261119T134000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178676@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178677@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178678@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T135000Z
+DTEND:20261210T152000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178679@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178680@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T121000Z
+DTEND:20261217T134000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178681@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T135000Z
+DTEND:20261217T152000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nЗарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zarayskaya-o-a.html
+END:VEVENT
+END:VCALENDAR

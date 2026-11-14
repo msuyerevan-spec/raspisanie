@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Левицкий А.Э. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t176284@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T121000Z
+DTEND:20260901T134000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176285@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T121000Z
+DTEND:20260908T134000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176286@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T121000Z
+DTEND:20260915T134000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176287@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T121000Z
+DTEND:20260922T134000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176288@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T121000Z
+DTEND:20260929T134000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176289@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176290@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261024T064000Z
+DTEND:20261024T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176291@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T121000Z
+DTEND:20261027T134000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176292@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261031T064000Z
+DTEND:20261031T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176293@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T121000Z
+DTEND:20261103T134000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176294@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176295@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176296@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T121000Z
+DTEND:20261201T134000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176297@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261205T064000Z
+DTEND:20261205T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176298@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T121000Z
+DTEND:20261208T134000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176299@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T121000Z
+DTEND:20261215T134000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176300@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T103000Z
+DTEND:20261219T120000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176301@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T121000Z
+DTEND:20261222T134000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЛевицкий А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levitskiy-a-e.html
+END:VEVENT
+END:VCALENDAR

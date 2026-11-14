@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Симановская М.Л. — МГУ
+  Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178775@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T135000Z
+DTEND:20260911T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178776@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178777@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178778@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T135000Z
+DTEND:20260925T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178779@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T135000Z
+DTEND:20260928T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178780@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T135000Z
+DTEND:20261002T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178781@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T135000Z
+DTEND:20261005T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178782@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T135000Z
+DTEND:20261019T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178783@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T121000Z
+DTEND:20261023T134000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178784@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T135000Z
+DTEND:20261023T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178785@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T135000Z
+DTEND:20261026T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178786@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178787@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178788@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T121000Z
+DTEND:20261030T134000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178789@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T135000Z
+DTEND:20261030T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178790@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T121000Z
+DTEND:20261113T134000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178791@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T135000Z
+DTEND:20261116T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178792@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T103000Z
+DTEND:20261120T120000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178793@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T121000Z
+DTEND:20261120T134000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178794@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T135000Z
+DTEND:20261120T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178795@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T135000Z
+DTEND:20261127T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178796@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T121000Z
+DTEND:20261204T134000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178797@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T121000Z
+DTEND:20261211T134000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178798@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T135000Z
+DTEND:20261211T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178799@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T135000Z
+DTEND:20261214T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178800@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T121000Z
+DTEND:20261218T134000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178801@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T135000Z
+DTEND:20261221T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСимановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/simanovskaya-m-l.html
+END:VEVENT
+END:VCALENDAR

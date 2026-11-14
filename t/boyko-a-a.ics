@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Бойко А.А. — МГУ Ерева
+ н
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t173296@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173297@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T121000Z
+DTEND:20261005T134000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173298@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173299@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173300@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173301@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173302@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173303@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173304@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T121000Z
+DTEND:20261008T134000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173305@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173306@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173307@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T121000Z
+DTEND:20261009T134000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173308@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173309@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173310@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173311@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173312@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173313@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173314@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Консультация: Мегатренды мирового (г
+ лобального) развития и современные глоб
+ альные проблемы
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173315@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:ЭКЗАМЕН: Мегатренды мирового (глобал
+ ьного) развития и современные глобальны
+ е проблемы
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nБойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/boyko-a-a.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,199 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Говряков И.Ю. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179639@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T121000Z
+DTEND:20260903T134000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179640@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T121000Z
+DTEND:20260910T134000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179641@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T121000Z
+DTEND:20260917T134000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179642@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T121000Z
+DTEND:20260924T134000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179643@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179644@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T121000Z
+DTEND:20261001T134000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179645@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T121000Z
+DTEND:20261015T134000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179646@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T121000Z
+DTEND:20261022T134000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179647@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179648@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T121000Z
+DTEND:20261029T134000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179649@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T121000Z
+DTEND:20261105T134000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179650@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T121000Z
+DTEND:20261112T134000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179651@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T121000Z
+DTEND:20261119T134000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179652@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179653@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T121000Z
+DTEND:20261126T134000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179654@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179655@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T121000Z
+DTEND:20261203T134000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179656@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T121000Z
+DTEND:20261210T134000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nГовряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/govryakov-i-yu.html
+END:VEVENT
+END:VCALENDAR

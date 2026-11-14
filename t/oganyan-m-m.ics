@@ -1,0 +1,821 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Оганян М.М. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t172332@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174105@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T103000Z
+DTEND:20260902T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174106@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172333@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172334@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172335@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174107@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172336@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172337@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172338@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172339@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174108@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172340@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172341@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172342@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174109@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172343@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174110@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172344@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172345@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174111@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172346@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174112@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172347@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172348@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174113@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174114@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172349@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172350@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174115@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172351@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172352@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172353@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174116@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172354@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172355@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172356@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174117@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172357@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T103000Z
+DTEND:20261028T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172358@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172359@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172360@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174118@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174119@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172361@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172362@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174120@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172363@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174121@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172364@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172365@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172366@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174122@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172367@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174123@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172368@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172369@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174124@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172370@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174125@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172371@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172372@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174126@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172373@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174127@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172374@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172375@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174128@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172376@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174129@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172377@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172378@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172379@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172380@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172381@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172382@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174130@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172383@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172384@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T103000Z
+DTEND:20261228T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172385@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174131@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nОганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganyan-m-m.html
+END:VEVENT
+END:VCALENDAR

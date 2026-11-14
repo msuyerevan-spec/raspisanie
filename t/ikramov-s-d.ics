@@ -1,0 +1,208 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Икрамов С.Д. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t175056@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175057@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175058@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175059@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175060@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175061@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175062@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175063@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175064@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175065@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175066@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175067@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175068@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175069@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175070@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175071@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175072@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175073@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Математический анализ III (лекции)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nИкрамов С.Д.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ikramov-s-d.html
+END:VEVENT
+END:VCALENDAR

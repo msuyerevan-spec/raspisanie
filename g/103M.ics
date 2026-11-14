@@ -1,0 +1,2673 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание 103M — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:g103M-173159@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173213@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 108B
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173160@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173114@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 103
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173316@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T121000Z
+DTEND:20260902T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173334@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T153000Z
+DTEND:20260902T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173115@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 103
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173267@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T121000Z
+DTEND:20260903T134000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:онлайн
+DESCRIPTION:Делов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173161@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 102
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173141@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173116@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T085000Z
+DTEND:20260904T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173231@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108B
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173162@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173249@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 108A
+DESCRIPTION:Карапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173163@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173214@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 108B
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173164@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173317@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T121000Z
+DTEND:20260909T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173335@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T153000Z
+DTEND:20260909T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173165@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173268@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:онлайн
+DESCRIPTION:Делов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173269@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T121000Z
+DTEND:20260910T134000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:онлайн
+DESCRIPTION:Делов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173166@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173232@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 102
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173117@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 101
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173167@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173233@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 103
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173215@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 108B
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173168@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173318@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T121000Z
+DTEND:20260916T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173336@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T153000Z
+DTEND:20260916T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173169@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 102
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173142@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 03)
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173118@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 106
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173352@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T121000Z
+DTEND:20260918T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173170@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173270@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T135000Z
+DTEND:20260922T152000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:онлайн
+DESCRIPTION:Делов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173319@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T121000Z
+DTEND:20260923T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173337@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T153000Z
+DTEND:20260923T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173171@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 102
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173143@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173119@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173320@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173172@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173234@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 103
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173251@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 103
+DESCRIPTION:Карапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173216@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 101
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173173@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173338@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T153000Z
+DTEND:20260930T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173120@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 103
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173271@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T121000Z
+DTEND:20261001T134000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:онлайн
+DESCRIPTION:Делов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173174@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 102
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173144@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173121@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 103
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173353@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T103000Z
+DTEND:20261002T120000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173354@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T121000Z
+DTEND:20261002T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173321@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 03)
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173175@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173253@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 105
+DESCRIPTION:Карапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173296@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 106
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173297@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T121000Z
+DTEND:20261005T134000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 102
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173176@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173298@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 103
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173299@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 102
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173300@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 102
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173301@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 103
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173339@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T153000Z
+DTEND:20261007T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173302@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 107
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173122@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 107
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173303@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 103
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173304@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T121000Z
+DTEND:20261008T134000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 101
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173305@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 103
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173306@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 107
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173355@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173307@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T121000Z
+DTEND:20261009T134000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 102
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173340@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T153000Z
+DTEND:20261010T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173308@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 101
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173177@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173255@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 108A
+DESCRIPTION:Карапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173309@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 105
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173310@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 101
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173311@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 108B
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173217@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 103
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173257@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 101
+DESCRIPTION:Карапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173312@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 108B
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173313@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:Мегатренды мирового (глобального) ра
+ звития и современные глобальные проблем
+ ы
+LOCATION:ауд. 108B
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173314@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Консультация: Мегатренды мирового (г
+ лобального) развития и современные глоб
+ альные проблемы
+LOCATION:ауд. 105
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173315@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:ЭКЗАМЕН: Мегатренды мирового (глобал
+ ьного) развития и современные глобальны
+ е проблемы
+LOCATION:ауд. 101
+DESCRIPTION:Бойко А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173341@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T153000Z
+DTEND:20261014T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173145@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173123@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 103
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173235@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 102
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173178@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173124@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 101
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173356@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T121000Z
+DTEND:20261016T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173236@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108B
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173179@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173259@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 108A
+DESCRIPTION:Карапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173180@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173218@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 108B
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173181@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173322@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T121000Z
+DTEND:20261021T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173342@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T153000Z
+DTEND:20261021T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173146@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173147@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173182@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173237@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 101
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173125@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 101
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173357@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T121000Z
+DTEND:20261023T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173343@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261024T153000Z
+DTEND:20261024T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173323@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173183@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173238@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108A
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173358@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173219@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 108B
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173184@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173324@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T121000Z
+DTEND:20261028T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173344@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T153000Z
+DTEND:20261028T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173185@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173272@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:онлайн
+DESCRIPTION:Делов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173186@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173148@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 03)
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173126@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173359@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173360@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T121000Z
+DTEND:20261030T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173239@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108B
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173187@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173240@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108B
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173273@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 105
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173274@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 101
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173220@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 107
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173188@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173275@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 103
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173276@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T121000Z
+DTEND:20261103T134000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 108B
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173277@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 103
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173278@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 108B
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173279@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 108B
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173280@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T121000Z
+DTEND:20261104T134000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 108A
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173281@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 108A
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173282@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 103
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173127@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 106
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173283@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 108B
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173189@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173284@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 101
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173128@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173361@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173285@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T121000Z
+DTEND:20261106T134000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 108B
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173325@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173190@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173286@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 108A
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173287@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 108A
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173288@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T121000Z
+DTEND:20261109T134000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 108A
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173289@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 101
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173221@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 105
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173191@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173290@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 108B
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173291@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T121000Z
+DTEND:20261110T134000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 101
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173292@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 101
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173293@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:История и методология мирополитичес
+ ких и глобальных исследований
+LOCATION:ауд. 102
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173294@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Консультация: История и методология 
+ мирополитических и глобальных исследов
+ аний
+LOCATION:ауд. 105
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173295@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:ЭКЗАМЕН: История и методология мироп
+ олитических и глобальных исследований
+LOCATION:ауд. 101
+DESCRIPTION:Делов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173345@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T153000Z
+DTEND:20261111T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173149@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173129@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173192@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173241@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 102
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173130@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 101
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173362@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173326@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173193@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173261@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 108B
+DESCRIPTION:Карапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173222@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 107
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173194@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173327@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T121000Z
+DTEND:20261118T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173346@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T153000Z
+DTEND:20261118T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173150@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173195@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173242@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 101
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173131@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T085000Z
+DTEND:20261120T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173363@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T103000Z
+DTEND:20261120T120000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173243@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108B
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173196@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173263@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 108B
+DESCRIPTION:Карапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173223@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 105
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173197@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173328@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T121000Z
+DTEND:20261125T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173347@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T153000Z
+DTEND:20261125T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173198@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173151@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173244@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 101
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173199@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173132@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 101
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173364@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T121000Z
+DTEND:20261127T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173329@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173200@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173245@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108B
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173224@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 105
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173201@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 105
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173225@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 107
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173330@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T121000Z
+DTEND:20261202T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173348@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T153000Z
+DTEND:20261202T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173152@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173133@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173202@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173153@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 03)
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173134@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173365@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T121000Z
+DTEND:20261204T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173203@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173246@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 103
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173226@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 107
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173204@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173135@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173349@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T153000Z
+DTEND:20261209T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173154@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173136@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 103
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173137@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 103
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173366@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T103000Z
+DTEND:20261211T120000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173367@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T121000Z
+DTEND:20261211T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173331@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173205@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173247@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108A
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173227@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 103
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173206@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173332@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T121000Z
+DTEND:20261216T134000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173350@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T153000Z
+DTEND:20261216T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173155@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173138@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173207@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 102
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173156@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173139@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173368@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T103000Z
+DTEND:20261218T120000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173369@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T121000Z
+DTEND:20261218T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173351@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T153000Z
+DTEND:20261219T170000Z
+SUMMARY:Современные международные отношени
+ я
+LOCATION:онлайн
+DESCRIPTION:Кочетков В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173333@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Крухмалева О.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173208@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173265@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 108A
+DESCRIPTION:Карапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173228@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 108A
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173229@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 108B
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173209@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173157@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173210@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173158@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Багратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173140@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T085000Z
+DTEND:20261225T102000Z
+SUMMARY:Дипломатия и дипломатическая служба
+  в глобальном мире
+LOCATION:ауд. 108B
+DESCRIPTION:Мартиросян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173248@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T050000Z
+DTEND:20261228T063000Z
+SUMMARY:ДПВ Южный Кавказ в мировой политике//
+ Биополитика
+LOCATION:ауд. 108A
+DESCRIPTION:Тащян Г.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173211@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T064000Z
+DTEND:20261228T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173230@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 108B
+DESCRIPTION:Немишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103M-173212@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103M.html
+END:VEVENT
+END:VCALENDAR

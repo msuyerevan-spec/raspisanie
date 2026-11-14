@@ -1,0 +1,551 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Степанянц С.М. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t173907@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180424@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173589@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180425@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173908@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180426@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173590@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180427@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173909@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173591@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173592@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173910@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180428@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173911@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173593@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173912@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180429@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173913@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173594@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173914@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180430@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173595@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173915@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180431@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173596@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173597@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180432@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173598@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173916@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173599@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173600@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173917@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180433@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173918@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173919@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180434@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173601@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180435@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173602@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173603@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180436@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173604@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180437@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173920@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180438@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173605@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173921@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180439@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173922@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173923@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180440@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173924@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180441@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:Экономическая история
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173606@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T103000Z
+DTEND:20261228T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nСтепанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanyants-s-m.html
+END:VEVENT
+END:VCALENDAR

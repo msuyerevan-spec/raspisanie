@@ -1,0 +1,376 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Громов А.А. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t175283@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177506@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175284@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177507@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177508@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177509@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175285@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175286@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175287@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175288@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175289@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177510@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175290@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177511@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177512@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175291@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177513@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T121000Z
+DTEND:20261007T134000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175292@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177514@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175293@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T121000Z
+DTEND:20261008T134000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175294@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175295@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177515@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175296@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nГромов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175297@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175298@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177516@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175299@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177517@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177518@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177519@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177520@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177521@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177522@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175300@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177523@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nГромов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gromov-a-a.html
+END:VEVENT
+END:VCALENDAR

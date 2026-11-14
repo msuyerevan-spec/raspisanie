@@ -1,0 +1,641 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Сукиасян А.Р. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t176485@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176486@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174051@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178856@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176487@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178857@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178858@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174052@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176488@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178859@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174069@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174070@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174060@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174053@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176489@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174061@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174071@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178860@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174054@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176490@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174062@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178861@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174055@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176491@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178862@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174056@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176492@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174063@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178863@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174064@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174072@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178864@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174073@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176493@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176494@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174074@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178865@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174065@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176495@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178866@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178867@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176496@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174075@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178868@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174057@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176497@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174076@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178869@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174058@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176498@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174059@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178870@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174066@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176499@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174077@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178871@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176500@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178872@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174067@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176501@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174068@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178873@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176502@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nСукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sukiasyan-a-r.html
+END:VEVENT
+END:VCALENDAR

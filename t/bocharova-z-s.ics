@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Бочарова З.С. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t176156@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176157@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176158@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176159@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176160@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176161@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 03)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176162@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176163@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176164@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176165@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176166@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176167@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176168@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176169@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176170@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176171@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176172@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176173@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:ДПВ1 Политические риски глобализаци
+ и//Управление международной миграцией в 
+ условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+END:VCALENDAR

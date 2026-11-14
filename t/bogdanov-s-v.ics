@@ -1,0 +1,386 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Богданов С.В. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t174426@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Теория управления
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nБогданов С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174858@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T135000Z
+DTEND:20260907T152000Z
+SUMMARY:Лидерство
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174859@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Лидерство
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174427@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Теория управления
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nБогданов С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174860@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:Лидерство
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174861@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T135000Z
+DTEND:20260914T152000Z
+SUMMARY:Лидерство
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174428@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Теория управления
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nБогданов С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174429@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Теория управления
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nБогданов С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174862@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Лидерство
+LOCATION:онлайн (группа подключается из ауд. 1
+ 05)
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174430@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Теория управления
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174431@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Теория управления
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174432@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Теория управления
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174863@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:Лидерство
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174864@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Лидерство
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174433@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Теория управления
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174434@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Теория управления
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174865@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:Лидерство
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174435@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Теория управления
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174866@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Лидерство
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174436@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Теория управления
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174867@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Лидерство
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174868@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:Лидерство
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174869@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Лидерство
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174437@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Теория управления
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174870@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Лидерство
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174438@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T121000Z
+DTEND:20261015T134000Z
+SUMMARY:Теория управления
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174439@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Теория управления
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174871@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Лидерство
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174875@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:ЗАЧЁТ: Лидерство
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174440@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Теория управления
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174441@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T064000Z
+DTEND:20261017T081000Z
+SUMMARY:Теория управления
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174442@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T085000Z
+DTEND:20261017T102000Z
+SUMMARY:Теория управления
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174443@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T103000Z
+DTEND:20261017T120000Z
+SUMMARY:ЗАЧЁТ: Теория управления
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174444@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T121000Z
+DTEND:20261017T134000Z
+SUMMARY:ЗАЧЁТ: Теория управления
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nБогданов С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174872@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T135000Z
+DTEND:20261116T152000Z
+SUMMARY:Лидерство
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174873@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T121000Z
+DTEND:20261130T134000Z
+SUMMARY:Лидерство
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174874@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T135000Z
+DTEND:20261221T152000Z
+SUMMARY:Лидерство
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nБогданов С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bogdanov-s-v.html
+END:VEVENT
+END:VCALENDAR

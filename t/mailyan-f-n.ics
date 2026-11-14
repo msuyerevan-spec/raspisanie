@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Маилян Ф.Н. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t176702@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176703@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176704@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176705@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176706@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176707@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176708@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176709@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176710@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176711@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176712@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176713@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176714@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176715@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176716@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176717@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176718@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176719@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176720@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176721@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176722@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176723@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176724@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176725@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176726@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176727@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176728@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Макроэкономика-I
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМаилян Ф.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mailyan-f-n.html
+END:VEVENT
+END:VCALENDAR

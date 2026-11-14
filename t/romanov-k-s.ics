@@ -1,0 +1,412 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Романов К.С. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179930@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T103000Z
+DTEND:20260901T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nРоманов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179931@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179912@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179913@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179932@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179933@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T121000Z
+DTEND:20260923T134000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179934@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179914@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179915@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T121000Z
+DTEND:20260924T134000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179916@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179917@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179935@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179918@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T121000Z
+DTEND:20260925T134000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179936@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T085000Z
+DTEND:20260926T102000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179919@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T103000Z
+DTEND:20260926T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179920@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179921@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179937@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T121000Z
+DTEND:20260928T134000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179938@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179939@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179940@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179941@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T121000Z
+DTEND:20260929T134000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179942@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179922@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179923@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T121000Z
+DTEND:20260930T134000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nРоманов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179943@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Группы: 405\nРоманов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179924@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Группы: 405\nРоманов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179944@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nРоманов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179945@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Группы: 405\nРоманов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179925@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nРоманов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179926@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Группы: 405\nРоманов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179946@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nРоманов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179927@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nРоманов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179928@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nРоманов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179929@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nРоманов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179947@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Группы: 405\nРоманов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/romanov-k-s.html
+END:VEVENT
+END:VCALENDAR

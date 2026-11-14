@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Мелконян Г.Ф. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t177160@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175513@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175514@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177161@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177162@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177163@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175515@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177164@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175516@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177165@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 402
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177166@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175517@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177167@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175518@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175519@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T103000Z
+DTEND:20261028T120000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177168@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175520@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175521@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177169@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175522@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177170@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175523@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177171@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175524@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177172@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 401
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175525@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177173@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177174@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175526@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177175@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175527@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177176@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175528@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175529@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175530@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177177@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-g-f.html
+END:VEVENT
+END:VCALENDAR

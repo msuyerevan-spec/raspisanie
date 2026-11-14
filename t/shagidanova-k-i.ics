@@ -1,0 +1,965 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Шагиданова К.И. — МГУ 
+ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178072@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178073@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172197@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178074@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178075@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176467@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172911@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172198@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172215@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178076@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176468@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172216@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172199@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172912@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176469@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172913@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178077@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172914@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176470@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172200@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176471@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172915@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172224@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172916@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176472@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172225@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172201@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172917@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176473@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178078@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172202@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178079@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172918@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172217@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172203@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172218@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178080@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176474@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172219@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:История (России)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172204@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172205@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172226@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172919@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172206@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172920@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172227@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172220@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172207@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172921@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176475@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172922@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178081@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178082@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172923@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176476@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172208@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172221@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178083@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176477@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172228@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176478@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172924@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172222@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178084@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176479@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172209@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178085@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176480@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172210@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172223@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172229@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172211@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178086@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176481@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176482@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172925@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178087@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172212@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T050000Z
+DTEND:20261223T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172230@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176483@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172926@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176484@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172231@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172927@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178088@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172232@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T050000Z
+DTEND:20261228T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nШагиданова К.И.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172213@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T064000Z
+DTEND:20261228T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172928@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172214@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178089@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:ДПВ4 Национальные интересы и стратег
+ ическое планирование государственной п
+ олитики РА//Основы регионоведения
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nШагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shagidanova-k-i.html
+END:VEVENT
+END:VCALENDAR

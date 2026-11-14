@@ -1,0 +1,314 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Мусаев Р.А. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t180367@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180368@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180369@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180370@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180371@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180372@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180373@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180374@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180375@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180376@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180377@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180378@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180379@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180380@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180381@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180382@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180383@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180384@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180385@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180386@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180387@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T121000Z
+DTEND:20261208T134000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180388@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180389@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T121000Z
+DTEND:20261209T134000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180390@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180391@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180392@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180393@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:ДПВ4 Финансы и кредит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180394@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Консультация: ДПВ4 Финансы и кредит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180395@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:ЭКЗАМЕН: ДПВ4 Финансы и кредит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180396@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T121000Z
+DTEND:20261211T134000Z
+SUMMARY:ЭКЗАМЕН: ДПВ4 Финансы и кредит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМусаев Р.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/musaev-r-a.html
+END:VEVENT
+END:VCALENDAR

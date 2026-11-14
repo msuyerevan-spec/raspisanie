@@ -1,0 +1,401 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Попова С.С. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178626@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nПопова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178627@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nПопова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178628@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T121000Z
+DTEND:20260904T134000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nПопова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178629@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nПопова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178630@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T121000Z
+DTEND:20260908T134000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nПопова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178631@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T121000Z
+DTEND:20260911T134000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nПопова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176896@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nПопова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178632@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178633@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178634@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178635@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T121000Z
+DTEND:20261009T134000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178636@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178637@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178638@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178639@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178640@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178641@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178642@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178643@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178644@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178645@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178646@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178647@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178648@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178649@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178650@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178651@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178652@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T121000Z
+DTEND:20261016T134000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178653@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T064000Z
+DTEND:20261017T081000Z
+SUMMARY:ЗАЧЁТ: Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178654@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T085000Z
+DTEND:20261017T102000Z
+SUMMARY:ЗАЧЁТ: Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nПопова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176897@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПопова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176898@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПопова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176899@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПопова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176900@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T103000Z
+DTEND:20261127T120000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПопова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176901@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПопова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176902@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T121000Z
+DTEND:20261202T134000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПопова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176903@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T103000Z
+DTEND:20261204T120000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПопова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176904@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T121000Z
+DTEND:20261215T134000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nПопова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/popova-s-s.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,535 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Каширова А.В. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t174781@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174782@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176923@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174783@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174784@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174785@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:онлайн (группа подключается из ауд. 1
+ 05)
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174786@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T121000Z
+DTEND:20260911T134000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174787@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T135000Z
+DTEND:20260911T152000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176924@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176925@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176926@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174788@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174789@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T135000Z
+DTEND:20260918T152000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174790@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174791@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176927@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176928@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176929@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174792@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176930@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:История экономических учений
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176931@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:История экономических учений
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176932@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:История экономических учений
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174793@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176933@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:История экономических учений
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176934@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:История экономических учений
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176935@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:История экономических учений
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174794@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174795@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176936@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:История экономических учений
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174796@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174797@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174798@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174799@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Консультация: Экономика общественно
+ го сектора
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174800@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:ЭКЗАМЕН: Экономика общественного се
+ ктора
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 107M\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176950@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T121000Z
+DTEND:20261009T134000Z
+SUMMARY:Консультация: История экономических
+  учений
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176951@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T050000Z
+DTEND:20261010T063000Z
+SUMMARY:ЭКЗАМЕН: История экономических учен
+ ий
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176952@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:ЭКЗАМЕН: История экономических учен
+ ий
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nКаширова А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176937@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176938@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176939@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176940@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176941@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176942@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176943@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176944@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176945@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176946@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176947@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176948@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176949@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nКаширова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kashirova-a-v.html
+END:VEVENT
+END:VCALENDAR

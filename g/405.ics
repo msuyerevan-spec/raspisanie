@@ -1,0 +1,2900 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание 405 — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:g405-180156@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179930@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T103000Z
+DTEND:20260901T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн
+DESCRIPTION:Романов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180083@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Егорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180056@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179966@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180120@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180057@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179967@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T085000Z
+DTEND:20260904T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180102@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180084@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Егорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180029@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179948@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T121000Z
+DTEND:20260908T134000Z
+SUMMARY:Практикум по переводу
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Соловьева Ю.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180138@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180058@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180030@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179968@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179969@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179970@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T121000Z
+DTEND:20260910T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180059@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179971@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180002@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Колесникова А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179972@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T103000Z
+DTEND:20260911T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179973@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T121000Z
+DTEND:20260911T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180121@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180157@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180085@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Егорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179974@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T121000Z
+DTEND:20260914T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180158@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180103@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179975@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179976@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180031@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T121000Z
+DTEND:20260915T134000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180060@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179977@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179978@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179979@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T121000Z
+DTEND:20260916T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179980@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179981@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180122@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180139@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179982@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T121000Z
+DTEND:20260917T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180061@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179983@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179984@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179985@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T103000Z
+DTEND:20260918T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:ауд. 207
+DESCRIPTION:Коренева Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179931@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179949@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T153000Z
+DTEND:20260922T170000Z
+SUMMARY:Практикум по переводу
+LOCATION:онлайн
+DESCRIPTION:Соловьева Ю.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179912@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179913@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179932@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179933@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T121000Z
+DTEND:20260923T134000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179934@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179914@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180032@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180140@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179915@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T121000Z
+DTEND:20260924T134000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180062@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179916@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179917@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179935@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179918@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T121000Z
+DTEND:20260925T134000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179936@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T085000Z
+DTEND:20260926T102000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179919@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T103000Z
+DTEND:20260926T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180123@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179920@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179921@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179950@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179937@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T121000Z
+DTEND:20260928T134000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179938@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179939@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179940@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180033@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179941@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T121000Z
+DTEND:20260929T134000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179951@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179942@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179922@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179923@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T121000Z
+DTEND:20260930T134000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:ауд. 207
+DESCRIPTION:Романов К.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179952@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180104@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180034@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180141@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179953@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T121000Z
+DTEND:20261001T134000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180063@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179954@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179955@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179986@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T103000Z
+DTEND:20261002T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179956@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T064000Z
+DTEND:20261003T081000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180142@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T085000Z
+DTEND:20261003T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179957@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179958@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179959@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180124@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179960@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T121000Z
+DTEND:20261005T134000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180159@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180105@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179961@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180035@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179962@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180064@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180106@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179963@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179964@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T121000Z
+DTEND:20261007T134000Z
+SUMMARY:Практикум по переводу
+LOCATION:ауд. 207
+DESCRIPTION:Соловьева Ю.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180003@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180004@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180036@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180143@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180005@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T121000Z
+DTEND:20261008T134000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180144@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180006@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180007@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180008@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180009@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180010@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T085000Z
+DTEND:20261010T102000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180011@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180012@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180013@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180014@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180015@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180016@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180065@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180017@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180160@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180018@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180019@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180020@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180037@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180145@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180021@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T121000Z
+DTEND:20261015T134000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180066@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180022@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180023@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180161@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180024@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T121000Z
+DTEND:20261016T134000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:ауд. 207
+DESCRIPTION:Колесникова А.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180125@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180086@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:онлайн
+DESCRIPTION:Егорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180162@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180107@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180087@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Егорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180067@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179987@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180038@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180068@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179988@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T103000Z
+DTEND:20261023T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180126@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179943@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Романов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180108@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180163@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180109@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180039@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180088@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Егорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180069@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180040@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180127@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180146@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180070@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180025@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:онлайн
+DESCRIPTION:Колесникова А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180128@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179924@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Романов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180110@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180164@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180111@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180041@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180147@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180071@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180165@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179989@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180042@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180148@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180072@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179990@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180129@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179944@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн
+DESCRIPTION:Романов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180112@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180043@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179945@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Романов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180044@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T121000Z
+DTEND:20261110T134000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180089@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Егорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180073@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180090@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Егорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180091@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Егорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180092@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T121000Z
+DTEND:20261111T134000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Егорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180093@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Егорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180094@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Егорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180045@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180149@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180095@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T121000Z
+DTEND:20261112T134000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Егорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180074@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179991@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180096@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Егорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180026@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Колесникова А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180097@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T121000Z
+DTEND:20261113T134000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Егорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180130@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180098@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Егорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180131@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180099@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Егорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180113@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180046@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180100@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Егорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180075@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180101@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:ЗАЧЁТ: Функциональная стилистика и л
+ итературное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Егорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180047@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180150@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180076@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179992@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180027@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T103000Z
+DTEND:20261120T120000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:онлайн
+DESCRIPTION:Колесникова А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180132@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179925@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн
+DESCRIPTION:Романов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180166@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180114@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180048@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179926@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Романов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180077@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179965@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T153000Z
+DTEND:20261125T170000Z
+SUMMARY:Практикум по переводу
+LOCATION:онлайн
+DESCRIPTION:Соловьева Ю.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179993@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180049@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180151@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179994@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180028@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:ДПВ1 Педагогический дизайн и проекти
+ рование обучающих материалов
+LOCATION:онлайн
+DESCRIPTION:Колесникова А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179995@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T103000Z
+DTEND:20261127T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180133@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179946@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн
+DESCRIPTION:Романов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180167@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180115@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179996@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180050@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180152@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180078@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179997@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T103000Z
+DTEND:20261204T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180134@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179927@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн
+DESCRIPTION:Романов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180168@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179928@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн
+DESCRIPTION:Романов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179998@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180051@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179999@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179929@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн
+DESCRIPTION:Романов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180169@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180116@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180052@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180000@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180170@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180053@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180079@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180001@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Коренева Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180135@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-179947@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Мир 2-го иностранного языка (английск
+ ий) история Канады
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Романов К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180171@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180117@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180153@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T050000Z
+DTEND:20261223T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180080@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180172@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180054@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180136@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180081@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180154@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180082@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261226T085000Z
+DTEND:20261226T102000Z
+SUMMARY:ДПВ3 Иностранный язык для специальны
+ х целей (английский язык)//Профессиональ
+ ный дискурс на иностранном языке (англий
+ ский язык)
+LOCATION:ауд. 207
+DESCRIPTION:Карапетян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180155@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261226T103000Z
+DTEND:20261226T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180137@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T050000Z
+DTEND:20261228T063000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180118@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T064000Z
+DTEND:20261228T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180173@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 207
+DESCRIPTION:Атовмян М.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180119@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g405-180055@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:ДПВ2 Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Аракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/405.html
+END:VEVENT
+END:VCALENDAR

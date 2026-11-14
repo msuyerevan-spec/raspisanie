@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Хачанова М.О. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t176201@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176202@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176203@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176204@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн (группа подключается из ауд. 1
+ 03)
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176205@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176206@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн (группа подключается из ауд. 1
+ 03)
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176207@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн (группа подключается из ауд. 1
+ 05)
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176208@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176209@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:ДПВ3 Введение в анализ внешней полит
+ ики (на английском языке)//Современная на
+ учная картина мира
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+END:VCALENDAR

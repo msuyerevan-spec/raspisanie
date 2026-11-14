@@ -1,0 +1,290 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Тымчик В.И. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t176647@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176648@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176649@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176650@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176651@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176652@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176653@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176654@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176655@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176656@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176657@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176658@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176659@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176660@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176661@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176662@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176663@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176664@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176665@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176666@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176667@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176668@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176669@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176670@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176671@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176672@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176673@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:История экономических учений
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nТымчик В.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tymchik-v-i.html
+END:VEVENT
+END:VCALENDAR

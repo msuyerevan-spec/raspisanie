@@ -1,0 +1,317 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Тихонов А.Э. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t173084@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:Политическая география
+LOCATION:онлайн (группа подключается из ауд. 1
+ 09)
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173085@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Политическая география
+LOCATION:онлайн (группа подключается из ауд. 1
+ 09)
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173086@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Политическая география
+LOCATION:онлайн (группа подключается из ауд. 1
+ 09)
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173087@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Политическая география
+LOCATION:онлайн (группа подключается из ауд. 1
+ 09)
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173088@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Политическая география
+LOCATION:онлайн (группа подключается из ауд. 1
+ 09)
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173089@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173090@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173091@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173092@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T121000Z
+DTEND:20261210T134000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173093@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173094@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T121000Z
+DTEND:20261211T134000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173095@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T050000Z
+DTEND:20261212T063000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173096@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T103000Z
+DTEND:20261212T120000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173097@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T121000Z
+DTEND:20261212T134000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173098@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173099@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173100@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T121000Z
+DTEND:20261214T134000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173101@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173102@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173103@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173104@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173105@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173106@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T121000Z
+DTEND:20261216T134000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173107@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173108@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173109@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173110@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T103000Z
+DTEND:20261218T120000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173111@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T121000Z
+DTEND:20261218T134000Z
+SUMMARY:Консультация: Политическая географи
+ я
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173112@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T103000Z
+DTEND:20261219T120000Z
+SUMMARY:ЭКЗАМЕН: Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173113@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T121000Z
+DTEND:20261219T134000Z
+SUMMARY:ЭКЗАМЕН: Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nТихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tikhonov-a-e.html
+END:VEVENT
+END:VCALENDAR

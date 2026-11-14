@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Ушкалова Д.И. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t180418@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T153000Z
+DTEND:20260902T170000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nУшкалова Д.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ushkalova-d-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180419@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T153000Z
+DTEND:20260914T170000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nУшкалова Д.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ushkalova-d-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180420@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T135000Z
+DTEND:20261021T152000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nУшкалова Д.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ushkalova-d-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180421@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T135000Z
+DTEND:20261123T152000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nУшкалова Д.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ushkalova-d-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180422@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T121000Z
+DTEND:20261204T134000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nУшкалова Д.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ushkalova-d-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180423@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nУшкалова Д.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ushkalova-d-i.html
+END:VEVENT
+END:VCALENDAR

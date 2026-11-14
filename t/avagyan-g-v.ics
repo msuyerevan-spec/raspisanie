@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Авагян Г.В. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178183@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T121000Z
+DTEND:20260923T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178184@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T121000Z
+DTEND:20260930T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178185@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178186@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T121000Z
+DTEND:20261007T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178187@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T121000Z
+DTEND:20261021T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178188@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T121000Z
+DTEND:20261026T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178189@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T121000Z
+DTEND:20261028T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178190@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178191@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T121000Z
+DTEND:20261109T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178192@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T121000Z
+DTEND:20261111T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178193@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178194@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T121000Z
+DTEND:20261116T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178195@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T121000Z
+DTEND:20261123T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178196@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T121000Z
+DTEND:20261125T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178197@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178198@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T103000Z
+DTEND:20261211T120000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178199@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T121000Z
+DTEND:20261216T134000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178200@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Европейские языки и культуры в конте
+ ксте международных отношений (испанский
+ )
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nАвагян Г.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avagyan-g-v.html
+END:VEVENT
+END:VCALENDAR

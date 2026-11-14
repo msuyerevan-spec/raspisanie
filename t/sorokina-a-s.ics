@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Сорокина А.С. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178319@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178320@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178321@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178322@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178323@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178324@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178325@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178326@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178327@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178328@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178329@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178330@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178331@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178332@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178333@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178334@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178335@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178336@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Профессиональные аспекты языковой д
+ еятельности
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nСорокина А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sorokina-a-s.html
+END:VEVENT
+END:VCALENDAR

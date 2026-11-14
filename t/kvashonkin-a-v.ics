@@ -1,0 +1,324 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Квашонкин А.В. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178748@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178749@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178750@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178751@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178752@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178753@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178754@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178755@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178756@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178757@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178758@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T103000Z
+DTEND:20261023T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178759@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178760@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178761@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178762@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178763@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178764@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178765@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T103000Z
+DTEND:20261127T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178766@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178767@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178768@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178769@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178770@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T103000Z
+DTEND:20261211T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178771@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178772@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178773@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178774@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nКвашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kvashonkin-a-v.html
+END:VEVENT
+END:VCALENDAR

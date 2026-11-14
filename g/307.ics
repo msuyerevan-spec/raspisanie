@@ -1,0 +1,2904 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание 307 — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:g307-178802@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178874@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178626@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Попова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178709@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178710@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178711@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T121000Z
+DTEND:20260902T134000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178712@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T135000Z
+DTEND:20260902T152000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178713@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178856@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178627@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Попова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178628@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T121000Z
+DTEND:20260904T134000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Попова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178820@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178821@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T121000Z
+DTEND:20260907T134000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178803@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178875@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178629@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Попова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178748@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178630@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T121000Z
+DTEND:20260908T134000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Попова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178714@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178715@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178822@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T121000Z
+DTEND:20260909T134000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178823@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T135000Z
+DTEND:20260909T152000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178682@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178857@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178716@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T121000Z
+DTEND:20260910T134000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178631@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T121000Z
+DTEND:20260911T134000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Попова С.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178775@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T135000Z
+DTEND:20260911T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178858@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178824@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178804@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178876@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178749@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178717@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178655@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178718@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178719@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T121000Z
+DTEND:20260916T134000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178683@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178877@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178859@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178805@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178878@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178750@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178656@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178720@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178721@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178722@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T121000Z
+DTEND:20260923T134000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178723@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T135000Z
+DTEND:20260923T152000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178684@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178879@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178685@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178657@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T135000Z
+DTEND:20260924T152000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178776@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178777@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178778@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T135000Z
+DTEND:20260925T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178825@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178826@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T121000Z
+DTEND:20260928T134000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178779@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T135000Z
+DTEND:20260928T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178806@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178880@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178751@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178752@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178724@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178658@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178725@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T121000Z
+DTEND:20260930T134000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178686@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178726@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178687@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178727@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T121000Z
+DTEND:20261001T134000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178659@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T135000Z
+DTEND:20261001T152000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178780@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T135000Z
+DTEND:20261002T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178860@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178827@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178828@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T121000Z
+DTEND:20261005T134000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178781@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T135000Z
+DTEND:20261005T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178881@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178807@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178753@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178660@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178829@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178830@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T135000Z
+DTEND:20261007T152000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178688@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178689@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178690@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178661@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T121000Z
+DTEND:20261008T134000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178662@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T135000Z
+DTEND:20261008T152000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178632@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178633@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178754@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178634@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178635@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T121000Z
+DTEND:20261009T134000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178861@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178636@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178637@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178638@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178639@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178808@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178640@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178641@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178755@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178642@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178643@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178728@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178644@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178645@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178646@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178647@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178648@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178862@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178649@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178650@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178756@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178651@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178652@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T121000Z
+DTEND:20261016T134000Z
+SUMMARY:Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178653@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T064000Z
+DTEND:20261017T081000Z
+SUMMARY:ЗАЧЁТ: Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178654@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T085000Z
+DTEND:20261017T102000Z
+SUMMARY:ЗАЧЁТ: Трудовое право
+LOCATION:ауд. 200
+DESCRIPTION:Попова С.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178831@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178832@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T121000Z
+DTEND:20261019T134000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178782@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T135000Z
+DTEND:20261019T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178809@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178882@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178757@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178663@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178664@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178833@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178691@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178692@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178863@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178665@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T121000Z
+DTEND:20261022T134000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178666@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T135000Z
+DTEND:20261022T152000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178758@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T103000Z
+DTEND:20261023T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178783@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T121000Z
+DTEND:20261023T134000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178784@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T135000Z
+DTEND:20261023T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178834@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178835@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T121000Z
+DTEND:20261026T134000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178785@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T135000Z
+DTEND:20261026T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178810@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178883@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178759@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178760@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178667@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178729@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178693@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178694@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178864@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178668@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T135000Z
+DTEND:20261029T152000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178786@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178787@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178788@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T121000Z
+DTEND:20261030T134000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178789@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T135000Z
+DTEND:20261030T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178836@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178837@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T121000Z
+DTEND:20261102T134000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178811@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178884@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178695@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178696@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178865@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178669@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T121000Z
+DTEND:20261105T134000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178670@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T135000Z
+DTEND:20261105T152000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178838@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178839@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T121000Z
+DTEND:20261109T134000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178812@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178885@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178761@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178671@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178672@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178840@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T121000Z
+DTEND:20261111T134000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178841@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T135000Z
+DTEND:20261111T152000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178697@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178698@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178866@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178673@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T121000Z
+DTEND:20261112T134000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178762@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178790@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T121000Z
+DTEND:20261113T134000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178867@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178842@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178843@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T121000Z
+DTEND:20261116T134000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178791@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T135000Z
+DTEND:20261116T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178813@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178886@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178763@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178674@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178730@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T135000Z
+DTEND:20261118T152000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178699@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178700@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178868@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178675@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T121000Z
+DTEND:20261119T134000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178792@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T103000Z
+DTEND:20261120T120000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178793@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T121000Z
+DTEND:20261120T134000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178794@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T135000Z
+DTEND:20261120T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178731@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Фомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178732@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Фомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178733@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Фомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178844@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T121000Z
+DTEND:20261123T134000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178814@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178887@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178764@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178734@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Фомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178735@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Фомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178736@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Фомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178737@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Фомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178738@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Фомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178739@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Фомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178845@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T135000Z
+DTEND:20261125T152000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178701@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178702@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178869@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178740@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T121000Z
+DTEND:20261126T134000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Фомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178765@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T103000Z
+DTEND:20261127T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178741@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T121000Z
+DTEND:20261127T134000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Фомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178795@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T135000Z
+DTEND:20261127T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178742@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Фомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178745@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Консультация: Государственное регул
+ ирование экономики
+LOCATION:ауд. 200
+DESCRIPTION:Фомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178746@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:ЭКЗАМЕН: Государственное регулирова
+ ние экономики
+LOCATION:ауд. 200
+DESCRIPTION:Фомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178747@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T121000Z
+DTEND:20261130T134000Z
+SUMMARY:ЭКЗАМЕН: Государственное регулирова
+ ние экономики
+LOCATION:ауд. 200
+DESCRIPTION:Фомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178815@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178888@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178766@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178767@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178846@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178847@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T121000Z
+DTEND:20261202T134000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178848@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T135000Z
+DTEND:20261202T152000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178703@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178704@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178870@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178743@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T121000Z
+DTEND:20261203T134000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178796@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T121000Z
+DTEND:20261204T134000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178849@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178850@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T121000Z
+DTEND:20261207T134000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178816@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178889@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178768@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178769@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178676@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178677@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178705@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178706@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178871@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178678@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T135000Z
+DTEND:20261210T152000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178770@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T103000Z
+DTEND:20261211T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178797@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T121000Z
+DTEND:20261211T134000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178798@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T135000Z
+DTEND:20261211T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178851@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178852@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T121000Z
+DTEND:20261214T134000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178799@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T135000Z
+DTEND:20261214T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178817@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178890@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178771@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178772@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178679@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178744@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Фомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178853@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T121000Z
+DTEND:20261216T134000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178707@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178708@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Методы принятия управленческих реше
+ ний
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Макогонова Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178872@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178680@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T121000Z
+DTEND:20261217T134000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178681@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T135000Z
+DTEND:20261217T152000Z
+SUMMARY:Финансовый менеджмент
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Зарайская О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178773@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178800@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T121000Z
+DTEND:20261218T134000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178854@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178855@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T121000Z
+DTEND:20261221T134000Z
+SUMMARY:ДПВ Государственное управление в за
+ рубежных странах
+LOCATION:онлайн
+DESCRIPTION:Пронкин С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178801@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T135000Z
+DTEND:20261221T152000Z
+SUMMARY:Маркетинг
+LOCATION:онлайн
+DESCRIPTION:Симановская М.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178818@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178819@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн
+DESCRIPTION:Сидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178774@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Региональное управление и территори
+ альное планирование
+LOCATION:онлайн
+DESCRIPTION:Квашонкин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178891@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Иностранный язык (профессиональный) 
+ (английский язык)
+LOCATION:ауд. 200
+DESCRIPTION:Петросян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g307-178873@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 200
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/307.html
+END:VEVENT
+END:VCALENDAR

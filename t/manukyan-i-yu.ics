@@ -1,0 +1,1001 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Манукян И.Ю. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t173454@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173455@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173826@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176075@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180102@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173456@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176076@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176077@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173827@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176078@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180103@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176079@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173457@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176080@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176081@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173458@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173828@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176082@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173459@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176083@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176084@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180104@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173460@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173829@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176085@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180105@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180106@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176086@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173461@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173830@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176087@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173831@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173462@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176088@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173832@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176089@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176090@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173833@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173463@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180107@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173834@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173464@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173835@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176091@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180108@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173465@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180109@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176092@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176093@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173466@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173836@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176094@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180110@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173467@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180111@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176095@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173468@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176096@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180112@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176097@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176098@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173469@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173470@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180113@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173471@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176099@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176100@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180114@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176101@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173472@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173837@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176102@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173838@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173473@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180115@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176103@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173474@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176104@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176105@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176106@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173475@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173839@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176107@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173840@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173476@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180116@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176108@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173477@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173841@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176109@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173478@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180117@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173479@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176110@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 203M\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173480@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173842@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180118@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T064000Z
+DTEND:20261228T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173843@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180119@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Педагогическая антропология
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМанукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manukyan-i-yu.html
+END:VEVENT
+END:VCALENDAR

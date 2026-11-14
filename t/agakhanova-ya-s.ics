@@ -1,0 +1,452 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Агаханова Я.С. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t176765@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176766@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T085000Z
+DTEND:20260904T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176767@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176768@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T153000Z
+DTEND:20260916T170000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176769@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176770@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176771@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T153000Z
+DTEND:20260930T170000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176772@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176773@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T153000Z
+DTEND:20261007T170000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176774@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176775@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T153000Z
+DTEND:20261014T170000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176776@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176777@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T153000Z
+DTEND:20261021T170000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176778@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176779@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176780@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176781@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176782@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176783@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176784@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176785@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176786@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176787@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176788@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176789@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176790@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T121000Z
+DTEND:20261214T134000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176791@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176792@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176793@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176794@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T121000Z
+DTEND:20261216T134000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176795@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176796@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176797@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176798@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T121000Z
+DTEND:20261217T134000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176799@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176800@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176801@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T121000Z
+DTEND:20261218T134000Z
+SUMMARY:Консультация: Теория вероятностей и 
+ математическая статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176802@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T103000Z
+DTEND:20261219T120000Z
+SUMMARY:ЭКЗАМЕН: Теория вероятностей и матем
+ атическая статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176803@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T121000Z
+DTEND:20261219T134000Z
+SUMMARY:ЭКЗАМЕН: Теория вероятностей и матем
+ атическая статистика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nАгаханова Я.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/agakhanova-ya-s.html
+END:VEVENT
+END:VCALENDAR

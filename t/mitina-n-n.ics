@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Митина Н.Н. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t174894@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T121000Z
+DTEND:20260907T134000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174895@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174896@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174897@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T121000Z
+DTEND:20260914T134000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174898@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174899@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174900@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T121000Z
+DTEND:20260928T134000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174901@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174902@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T121000Z
+DTEND:20261019T134000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174903@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174904@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174905@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174906@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T121000Z
+DTEND:20261109T134000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174907@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T121000Z
+DTEND:20261116T134000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174908@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T121000Z
+DTEND:20261123T134000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174909@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174910@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T121000Z
+DTEND:20261207T134000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174911@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Политика в области рационального ис
+ пользования природных ресурсов
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 107M\nМитина Н.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mitina-n-n.html
+END:VEVENT
+END:VCALENDAR

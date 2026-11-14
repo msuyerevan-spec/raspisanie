@@ -1,0 +1,479 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Оганесян К.А. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t177205@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T103000Z
+DTEND:20260902T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177206@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177207@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173772@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177208@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177209@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177210@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173773@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173774@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177211@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173775@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177212@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173776@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177213@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177214@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173777@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177215@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177216@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173778@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177217@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T103000Z
+DTEND:20261028T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177218@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173779@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177219@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177220@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173780@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177221@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177222@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 401
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173781@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173782@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177223@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177224@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173783@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177225@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177226@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173784@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177227@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173785@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177228@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173786@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177229@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177230@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173787@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177231@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173788@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173789@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T103000Z
+DTEND:20261228T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nОганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/oganesyan-k-a.html
+END:VEVENT
+END:VCALENDAR

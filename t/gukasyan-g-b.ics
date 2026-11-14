@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Гукасян Г.Б. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t174511@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T085000Z
+DTEND:20260904T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174512@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174513@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174514@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174515@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174516@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174517@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174518@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174519@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174520@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174521@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174522@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174523@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174524@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174525@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174526@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174527@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T085000Z
+DTEND:20261225T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174528@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nГукасян Г.Б.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-g-b.html
+END:VEVENT
+END:VCALENDAR

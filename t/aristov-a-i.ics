@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Аристов А.И. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t177232@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T153000Z
+DTEND:20260904T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177233@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T121000Z
+DTEND:20260907T134000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177234@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T153000Z
+DTEND:20260907T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177235@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T135000Z
+DTEND:20260911T152000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177236@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T135000Z
+DTEND:20260914T152000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177237@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T153000Z
+DTEND:20260914T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177238@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T153000Z
+DTEND:20260918T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177239@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T153000Z
+DTEND:20260925T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177240@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T135000Z
+DTEND:20260928T152000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177241@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T135000Z
+DTEND:20261002T152000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177242@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T153000Z
+DTEND:20261005T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177243@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T135000Z
+DTEND:20261009T152000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177244@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T153000Z
+DTEND:20261009T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177245@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T135000Z
+DTEND:20261023T152000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177246@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T135000Z
+DTEND:20261026T152000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177247@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T153000Z
+DTEND:20261026T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177248@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T135000Z
+DTEND:20261102T152000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177249@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T153000Z
+DTEND:20261102T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177250@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T153000Z
+DTEND:20261109T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177251@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T153000Z
+DTEND:20261116T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177252@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T135000Z
+DTEND:20261123T152000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177253@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T153000Z
+DTEND:20261204T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177254@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T135000Z
+DTEND:20261207T152000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177255@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T121000Z
+DTEND:20261214T134000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177256@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T135000Z
+DTEND:20261214T152000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177257@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T153000Z
+DTEND:20261214T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177258@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T153000Z
+DTEND:20261218T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nАристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/aristov-a-i.html
+END:VEVENT
+END:VCALENDAR

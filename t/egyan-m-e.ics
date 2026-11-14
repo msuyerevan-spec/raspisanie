@@ -1,0 +1,820 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Егян М.Е. — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t172386@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172884@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174655@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172387@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T103000Z
+DTEND:20260901T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172413@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172388@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172404@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174656@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174657@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174658@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172405@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172885@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174659@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172389@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172414@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172886@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172390@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172887@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172415@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174660@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172888@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172406@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174661@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172416@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172889@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172890@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172391@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172891@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172392@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172417@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172393@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174662@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172892@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172893@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172394@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174663@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172894@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174664@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172395@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172895@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174665@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174666@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172407@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172396@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172896@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172397@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172408@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172897@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172398@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172418@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172898@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172399@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172409@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172899@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172900@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172901@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172419@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174667@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172902@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172410@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174668@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172400@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172420@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172903@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172904@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172411@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174669@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172905@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174670@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174671@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172401@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172906@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172907@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174672@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172908@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172402@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172421@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102 п/г 2\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172909@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172412@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102 п/г 1\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172910@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172403@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T103000Z
+DTEND:20261229T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nЕгян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egyan-m-e.html
+END:VEVENT
+END:VCALENDAR

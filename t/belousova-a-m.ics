@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Белоусова А.М. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t176174@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T135000Z
+DTEND:20260901T152000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176175@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T135000Z
+DTEND:20260908T152000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176176@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T135000Z
+DTEND:20260915T152000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176177@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T135000Z
+DTEND:20260929T152000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176178@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T135000Z
+DTEND:20261006T152000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176179@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T135000Z
+DTEND:20261013T152000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176180@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T135000Z
+DTEND:20261020T152000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176181@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T135000Z
+DTEND:20261027T152000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176182@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T135000Z
+DTEND:20261103T152000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176183@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T135000Z
+DTEND:20261110T152000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176184@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176185@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T135000Z
+DTEND:20261117T152000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176186@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T135000Z
+DTEND:20261124T152000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176187@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T135000Z
+DTEND:20261201T152000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176188@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T135000Z
+DTEND:20261208T152000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176189@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176190@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T135000Z
+DTEND:20261215T152000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t176191@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T135000Z
+DTEND:20261222T152000Z
+SUMMARY:ДПВ2 Культурные разнообразия и культ
+ урный плюрализм в документах ЮНЕСКО (на 
+ английском)/Методология исследования об
+ щественного мнения//Управление междунар
+ одными проектами
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+END:VCALENDAR

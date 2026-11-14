@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Ахинов Г.А. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178373@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178374@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178375@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178376@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178377@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178378@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178379@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178380@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178381@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178382@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178383@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178384@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178385@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178386@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178387@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178388@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178389@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178390@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178391@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178392@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178393@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178394@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178395@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178396@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178397@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178398@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178399@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Экономика общественного сектора
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nАхинов Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/akhinov-g-a.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Узкая Ю.А. — МГУ Ерева
+ н
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t180194@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:Демография
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180195@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180196@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180197@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180198@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T121000Z
+DTEND:20261005T134000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180199@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180200@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180201@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180202@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180203@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180204@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180205@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T121000Z
+DTEND:20261007T134000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180206@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180207@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180208@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180209@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180210@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180211@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T121000Z
+DTEND:20261009T134000Z
+SUMMARY:Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180212@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:ЗАЧЁТ: Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180213@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:ЗАЧЁТ: Демография
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nУзкая Ю.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/uzkaya-yu-a.html
+END:VEVENT
+END:VCALENDAR

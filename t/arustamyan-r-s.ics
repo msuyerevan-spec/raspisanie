@@ -1,0 +1,1037 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Арустамян Р.С. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t172929@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174529@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172930@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172566@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172567@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174530@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172568@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174531@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172931@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172569@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172570@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174532@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172932@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172571@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174533@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172572@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172933@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174534@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172573@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172934@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172574@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172935@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172936@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174535@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174536@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172937@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172938@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172939@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174537@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172575@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172940@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172576@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174538@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172941@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174539@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172577@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174540@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172942@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172578@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172943@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172944@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174541@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172579@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172945@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172580@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172581@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174542@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172946@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172582@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172583@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172584@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172585@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172947@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172948@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174543@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174544@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172586@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172587@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172949@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172950@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172588@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174545@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172589@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172590@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172951@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174546@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172952@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174547@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172953@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172954@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172591@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174548@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172955@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172592@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172956@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172593@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174549@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174550@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172594@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174551@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172957@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172958@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172595@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172596@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172959@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172597@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172960@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172961@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174552@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174553@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172598@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172599@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172962@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172963@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T050000Z
+DTEND:20261223T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172600@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174554@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174555@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172601@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:История политических и правовых уче
+ ний
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172964@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T064000Z
+DTEND:20261228T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 103\nАрустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arustamyan-r-s.html
+END:VEVENT
+END:VCALENDAR

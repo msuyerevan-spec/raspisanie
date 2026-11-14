@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Моисеев С.В. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179183@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T153000Z
+DTEND:20260926T170000Z
+SUMMARY:Арбитражный процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179184@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179185@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179186@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179187@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T121000Z
+DTEND:20260928T134000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179188@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179189@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179190@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179191@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179192@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T121000Z
+DTEND:20260930T134000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179193@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179194@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179195@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T121000Z
+DTEND:20261001T134000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179196@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179197@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179198@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T103000Z
+DTEND:20261002T120000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179199@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T121000Z
+DTEND:20261002T134000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179200@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179201@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:ЗАЧЁТ: Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179202@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T121000Z
+DTEND:20261005T134000Z
+SUMMARY:ЗАЧЁТ: Арбитражный процесс
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМоисеев С.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/moiseev-s-v.html
+END:VEVENT
+END:VCALENDAR

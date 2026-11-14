@@ -1,0 +1,3830 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание 103 — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:g103-172884@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172830@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172965@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T103000Z
+DTEND:20260901T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173019@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T121000Z
+DTEND:20260901T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172929@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172831@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173001@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173055@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T103000Z
+DTEND:20260902T120000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173056@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T121000Z
+DTEND:20260902T134000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173057@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173058@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173059@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172740@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173060@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T121000Z
+DTEND:20260903T134000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172930@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172966@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172776@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T085000Z
+DTEND:20260904T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173061@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T103000Z
+DTEND:20260904T120000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173062@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T121000Z
+DTEND:20260904T134000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172832@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260905T050000Z
+DTEND:20260905T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173063@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260905T064000Z
+DTEND:20260905T081000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173064@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260905T085000Z
+DTEND:20260905T102000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172777@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173065@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173066@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173067@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173068@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T121000Z
+DTEND:20260907T134000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173069@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173070@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172833@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173071@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173020@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T121000Z
+DTEND:20260908T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173072@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173073@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172834@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173074@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173075@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T121000Z
+DTEND:20260909T134000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173076@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173077@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172778@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172741@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173021@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T121000Z
+DTEND:20260910T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172931@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173078@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172779@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173079@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T103000Z
+DTEND:20260911T120000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173080@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T121000Z
+DTEND:20260911T134000Z
+SUMMARY:История международных отношений
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172835@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260912T064000Z
+DTEND:20260912T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173002@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260912T085000Z
+DTEND:20260912T102000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173082@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260912T103000Z
+DTEND:20260912T120000Z
+SUMMARY:ЗАЧЁТ: История международных отноше
+ ний
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173083@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260912T121000Z
+DTEND:20260912T134000Z
+SUMMARY:ЗАЧЁТ: История международных отноше
+ ний
+LOCATION:ауд. 109
+DESCRIPTION:Бирюкова Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172780@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172967@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172911@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172968@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172781@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172885@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172836@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172969@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173022@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T121000Z
+DTEND:20260915T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172932@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173003@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172837@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173023@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172782@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172742@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173024@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T121000Z
+DTEND:20260917T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172743@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172886@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172783@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172838@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T064000Z
+DTEND:20260919T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173004@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T085000Z
+DTEND:20260919T102000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172839@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T103000Z
+DTEND:20260919T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172744@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172887@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172840@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173005@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172933@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172970@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172841@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172971@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172912@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172972@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172784@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172745@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173025@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T121000Z
+DTEND:20260924T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172888@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172934@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172785@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173084@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:Политическая география
+LOCATION:онлайн (группа подключается из ауд. 1
+ 09)
+DESCRIPTION:Тихонов А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172842@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T064000Z
+DTEND:20260926T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173006@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T085000Z
+DTEND:20260926T102000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172843@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T103000Z
+DTEND:20260926T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172786@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172935@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172913@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172973@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172787@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172746@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172844@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172889@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173026@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T121000Z
+DTEND:20260929T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172936@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172974@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172845@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172975@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173027@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T121000Z
+DTEND:20260930T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172914@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173085@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Политическая география
+LOCATION:онлайн (группа подключается из ауд. 1
+ 09)
+DESCRIPTION:Тихонов А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172788@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172747@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173028@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T121000Z
+DTEND:20261001T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172890@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172937@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172789@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172846@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T064000Z
+DTEND:20261003T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173007@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T085000Z
+DTEND:20261003T102000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172790@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172938@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172915@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172791@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172748@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172891@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172847@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173029@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172939@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172976@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172848@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172916@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173086@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Политическая география
+LOCATION:онлайн (группа подключается из ауд. 1
+ 09)
+DESCRIPTION:Тихонов А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172792@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172749@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173030@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T121000Z
+DTEND:20261008T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172940@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172793@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173031@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172849@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T050000Z
+DTEND:20261010T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173008@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172794@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173081@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T153000Z
+DTEND:20261012T170000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Бирюкова Н.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172750@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172850@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172977@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173032@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172941@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172978@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172851@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172917@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172979@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172795@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172751@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173033@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T121000Z
+DTEND:20261015T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172892@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172942@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172796@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172852@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T064000Z
+DTEND:20261017T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173009@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T085000Z
+DTEND:20261017T102000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172853@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T103000Z
+DTEND:20261017T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172797@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172943@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172752@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172893@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172854@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173034@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T121000Z
+DTEND:20261020T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172944@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172918@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172855@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172798@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172753@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173035@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T121000Z
+DTEND:20261022T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172945@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172894@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172799@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172856@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261024T064000Z
+DTEND:20261024T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173010@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261024T085000Z
+DTEND:20261024T102000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172800@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172980@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172801@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172754@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172857@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172981@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173036@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T121000Z
+DTEND:20261027T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172946@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172982@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172858@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172802@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172755@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173037@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T121000Z
+DTEND:20261029T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172895@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172756@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172803@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172983@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172804@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172947@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172757@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172859@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172984@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173038@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T121000Z
+DTEND:20261103T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172948@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172985@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172860@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172986@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173039@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T121000Z
+DTEND:20261104T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172919@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173087@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Политическая география
+LOCATION:онлайн (группа подключается из ауд. 1
+ 09)
+DESCRIPTION:Тихонов А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172805@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172758@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172896@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172920@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172806@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172861@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261107T064000Z
+DTEND:20261107T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173011@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261107T085000Z
+DTEND:20261107T102000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172862@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261107T103000Z
+DTEND:20261107T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172807@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172949@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172759@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172897@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172863@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173040@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T121000Z
+DTEND:20261110T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172950@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172987@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172864@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172921@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172988@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172808@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172760@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173041@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T121000Z
+DTEND:20261112T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172761@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172898@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172809@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172810@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172865@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173012@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261114T085000Z
+DTEND:20261114T102000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172811@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172989@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172922@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172762@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172899@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172866@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173042@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T121000Z
+DTEND:20261117T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172951@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172990@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172867@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172923@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173088@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Политическая география
+LOCATION:онлайн (группа подключается из ауд. 1
+ 09)
+DESCRIPTION:Тихонов А.Э.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172812@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172763@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173043@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T121000Z
+DTEND:20261119T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172900@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172952@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172813@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T085000Z
+DTEND:20261120T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172991@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T103000Z
+DTEND:20261120T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172868@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261121T064000Z
+DTEND:20261121T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173013@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261121T085000Z
+DTEND:20261121T102000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172814@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172953@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172901@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172764@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172869@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172992@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173044@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172954@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172993@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172870@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172815@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172765@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173045@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T121000Z
+DTEND:20261126T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172955@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172816@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172871@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173014@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172817@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172956@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172924@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172902@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172766@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172872@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172994@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173046@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T121000Z
+DTEND:20261201T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172818@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172995@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172873@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172819@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172767@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173047@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T121000Z
+DTEND:20261203T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172768@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172903@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172820@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172874@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261205T064000Z
+DTEND:20261205T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173015@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261205T085000Z
+DTEND:20261205T102000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172821@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172957@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172904@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172769@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172875@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172905@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173048@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T121000Z
+DTEND:20261208T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172958@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172996@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172876@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173049@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173089@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173090@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173091@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172770@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173092@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T121000Z
+DTEND:20261210T134000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173093@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172959@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172822@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172997@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T103000Z
+DTEND:20261211T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173094@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T121000Z
+DTEND:20261211T134000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173095@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T050000Z
+DTEND:20261212T063000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172877@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T064000Z
+DTEND:20261212T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173016@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T085000Z
+DTEND:20261212T102000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173096@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T103000Z
+DTEND:20261212T120000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173097@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T121000Z
+DTEND:20261212T134000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172823@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172960@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173098@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173099@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173100@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T121000Z
+DTEND:20261214T134000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173101@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173102@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172878@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173103@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173050@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T121000Z
+DTEND:20261215T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172961@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173104@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172879@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173105@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173106@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T121000Z
+DTEND:20261216T134000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173107@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173108@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172824@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172771@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173051@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T121000Z
+DTEND:20261217T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172906@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173109@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172825@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173110@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T103000Z
+DTEND:20261218T120000Z
+SUMMARY:Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173111@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T121000Z
+DTEND:20261218T134000Z
+SUMMARY:Консультация: Политическая географи
+ я
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172880@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T064000Z
+DTEND:20261219T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173017@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T085000Z
+DTEND:20261219T102000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173112@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T103000Z
+DTEND:20261219T120000Z
+SUMMARY:ЭКЗАМЕН: Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173113@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T121000Z
+DTEND:20261219T134000Z
+SUMMARY:ЭКЗАМЕН: Политическая география
+LOCATION:ауд. 109
+DESCRIPTION:Тихонов А.Э.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172826@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172962@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172925@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172907@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172772@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172908@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172998@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173052@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T121000Z
+DTEND:20261222T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172963@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T050000Z
+DTEND:20261223T063000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172999@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172881@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172926@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173000@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 109
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172827@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172773@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173053@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T121000Z
+DTEND:20261224T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172927@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172774@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172828@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T085000Z
+DTEND:20261225T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172882@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261226T064000Z
+DTEND:20261226T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173018@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261226T085000Z
+DTEND:20261226T102000Z
+SUMMARY:Страноведение (на английском языке) 
+ факультатив
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172829@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T050000Z
+DTEND:20261228T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й язык)
+LOCATION:ауд. 109
+DESCRIPTION:Казарян М.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172964@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T064000Z
+DTEND:20261228T081000Z
+SUMMARY:Правоведение
+LOCATION:ауд. 109
+DESCRIPTION:Арустамян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172928@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:История России
+LOCATION:ауд. 109
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172909@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172775@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 109
+DESCRIPTION:Карагулян А.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172910@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 109
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-172883@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T103000Z
+DTEND:20261229T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 109
+DESCRIPTION:Минасян Н.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g103-173054@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T121000Z
+DTEND:20261229T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/103.html
+END:VEVENT
+END:VCALENDAR

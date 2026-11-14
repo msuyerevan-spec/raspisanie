@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Хтрян К.Г. — МГУ Ерева
+ н
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t177683@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177684@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177685@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177686@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177687@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177688@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177689@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177690@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177691@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177692@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177693@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177694@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177695@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177696@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177697@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177698@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177699@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177700@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nХтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khtryan-k-g.html
+END:VEVENT
+END:VCALENDAR

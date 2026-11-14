@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Давидян Г.М. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t172013@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн (группа подключается из ауд. 1
+ 13)
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172014@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172015@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172016@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T121000Z
+DTEND:20261005T134000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172017@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172018@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172019@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172020@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172021@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172022@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172023@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T121000Z
+DTEND:20261008T134000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172024@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172025@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172026@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T121000Z
+DTEND:20261009T134000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172027@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T050000Z
+DTEND:20261010T063000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172028@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172029@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172030@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172031@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:ЗАЧЁТ: Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172032@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:ЗАЧЁТ: Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nДавидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davidyan-g-m.html
+END:VEVENT
+END:VCALENDAR

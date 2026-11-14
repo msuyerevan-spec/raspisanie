@@ -1,0 +1,245 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Арутюнян А.С. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179314@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260905T085000Z
+DTEND:20260905T102000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179315@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260912T085000Z
+DTEND:20260912T102000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179316@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T085000Z
+DTEND:20260919T102000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179317@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T085000Z
+DTEND:20260926T102000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179318@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T085000Z
+DTEND:20261003T102000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179319@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T103000Z
+DTEND:20261010T120000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179320@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T085000Z
+DTEND:20261017T102000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179321@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261024T085000Z
+DTEND:20261024T102000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179322@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261031T085000Z
+DTEND:20261031T102000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179323@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261107T085000Z
+DTEND:20261107T102000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179324@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261114T085000Z
+DTEND:20261114T102000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179325@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261121T085000Z
+DTEND:20261121T102000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179326@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179327@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261205T085000Z
+DTEND:20261205T102000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179328@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T085000Z
+DTEND:20261212T102000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179329@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T085000Z
+DTEND:20261219T102000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179330@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T103000Z
+DTEND:20261219T120000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179331@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261226T085000Z
+DTEND:20261226T102000Z
+SUMMARY:ДПВ1 Уголовный процесс зарубежных ст
+ ран//Международное инвестиционное право
+ //Правовые аспекты международного сотру
+ дничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+END:VCALENDAR

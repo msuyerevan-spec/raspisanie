@@ -1,0 +1,320 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Сахарова А.М. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178237@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nСахарова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178238@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178239@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178240@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178241@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178242@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178243@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178244@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178245@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T121000Z
+DTEND:20261009T134000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178246@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178247@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178248@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178249@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178250@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178251@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178252@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178253@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178254@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178255@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178256@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178257@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178258@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178259@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178260@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178261@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T121000Z
+DTEND:20261015T134000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178262@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178263@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:ДПВ2 Язык средств массовой информаци
+ и//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178264@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T121000Z
+DTEND:20261016T134000Z
+SUMMARY:ЗАЧЁТ: ДПВ2 Язык средств массовой инф
+ ормации//Стратегии делового общения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nСахарова А.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sakharova-a-m.html
+END:VEVENT
+END:VCALENDAR

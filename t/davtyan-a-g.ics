@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Давтян А.Г. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t175647@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:ДПВ1 Нотариат в Республике Армения//П
+ рецедент Европейского суда в уголовно-п
+ роцессуальном праве Республики Армения/
+ /Актуальные проблемы административного 
+ права
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175648@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:ДПВ1 Нотариат в Республике Армения//П
+ рецедент Европейского суда в уголовно-п
+ роцессуальном праве Республики Армения/
+ /Актуальные проблемы административного 
+ права
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175649@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:ДПВ1 Нотариат в Республике Армения//П
+ рецедент Европейского суда в уголовно-п
+ роцессуальном праве Республики Армения/
+ /Актуальные проблемы административного 
+ права
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175650@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:ДПВ1 Нотариат в Республике Армения//П
+ рецедент Европейского суда в уголовно-п
+ роцессуальном праве Республики Армения/
+ /Актуальные проблемы административного 
+ права
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175651@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:ДПВ1 Нотариат в Республике Армения//П
+ рецедент Европейского суда в уголовно-п
+ роцессуальном праве Республики Армения/
+ /Актуальные проблемы административного 
+ права
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175652@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:ДПВ1 Нотариат в Республике Армения//П
+ рецедент Европейского суда в уголовно-п
+ роцессуальном праве Республики Армения/
+ /Актуальные проблемы административного 
+ права
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175653@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:ДПВ1 Нотариат в Республике Армения//П
+ рецедент Европейского суда в уголовно-п
+ роцессуальном праве Республики Армения/
+ /Актуальные проблемы административного 
+ права
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175654@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:ДПВ1 Нотариат в Республике Армения//П
+ рецедент Европейского суда в уголовно-п
+ роцессуальном праве Республики Армения/
+ /Актуальные проблемы административного 
+ права
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1039 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Степанов В.В. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t175301@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T121000Z
+DTEND:20260901T134000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177596@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T135000Z
+DTEND:20260901T152000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177597@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177598@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177599@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T103000Z
+DTEND:20260902T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175302@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177600@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177672@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175303@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175304@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177601@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175305@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177602@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T121000Z
+DTEND:20260909T134000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177603@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177604@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177605@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177673@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177606@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177607@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T103000Z
+DTEND:20260918T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177608@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177609@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T121000Z
+DTEND:20260922T134000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177610@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T121000Z
+DTEND:20260923T134000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177611@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175306@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177612@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177674@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T135000Z
+DTEND:20260929T152000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175307@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175308@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177613@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T121000Z
+DTEND:20260930T134000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177614@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177615@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175309@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T103000Z
+DTEND:20261002T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177616@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177617@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175310@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175311@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175312@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172602@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:ДПВ Уголовно-правовая защита публич
+ ных прав//История мировой и российской а
+ двокатуры
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177618@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172603@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:ДПВ Уголовно-правовая защита публич
+ ных прав//История мировой и российской а
+ двокатуры
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175313@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175314@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175315@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T121000Z
+DTEND:20261020T134000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175316@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T135000Z
+DTEND:20261020T152000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175317@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175318@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T103000Z
+DTEND:20261023T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175319@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175320@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T135000Z
+DTEND:20261027T152000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177619@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177675@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177620@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177621@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175321@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175322@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T135000Z
+DTEND:20261103T152000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175323@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175324@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175325@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172604@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T121000Z
+DTEND:20261118T134000Z
+SUMMARY:ДПВ Уголовно-правовая защита публич
+ ных прав//История мировой и российской а
+ двокатуры
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nСтепанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177622@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T121000Z
+DTEND:20261123T134000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177676@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177677@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177623@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177624@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172605@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:ДПВ Уголовно-правовая защита публич
+ ных прав//История мировой и российской а
+ двокатуры
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177625@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172606@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:ДПВ Уголовно-правовая защита публич
+ ных прав//История мировой и российской а
+ двокатуры
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177626@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177678@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172607@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:ДПВ Уголовно-правовая защита публич
+ ных прав//История мировой и российской а
+ двокатуры
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 102M\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175326@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175327@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177627@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T121000Z
+DTEND:20261202T134000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175328@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172608@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:ДПВ Уголовно-правовая защита публич
+ ных прав//История мировой и российской а
+ двокатуры
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177628@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T121000Z
+DTEND:20261203T134000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175329@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T103000Z
+DTEND:20261204T120000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172609@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261205T103000Z
+DTEND:20261205T120000Z
+SUMMARY:ДПВ Уголовно-правовая защита публич
+ ных прав//История мировой и российской а
+ двокатуры
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175330@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175331@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175332@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177629@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175333@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175334@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177679@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177630@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175335@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175336@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177680@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177631@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175337@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:ЗАЧЁТ: Уголовное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172610@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:ДПВ Уголовно-правовая защита публич
+ ных прав//История мировой и российской а
+ двокатуры
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 102M\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177681@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:ЗАЧЁТ: ДПВ1 Теория и практика назначе
+ ния наказания//Право международных орга
+ низаций
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175338@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T103000Z
+DTEND:20261211T120000Z
+SUMMARY:ЗАЧЁТ: Уголовное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t172611@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T064000Z
+DTEND:20261212T081000Z
+SUMMARY:ЗАЧЁТ: ДПВ Уголовно-правовая защита 
+ публичных прав//История мировой и россий
+ ской адвокатуры
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177682@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T085000Z
+DTEND:20261212T102000Z
+SUMMARY:ЗАЧЁТ: ДПВ1 Теория и практика назначе
+ ния наказания//Право международных орга
+ низаций
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177632@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T103000Z
+DTEND:20261212T120000Z
+SUMMARY:ЗАЧЁТ: Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t177633@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T121000Z
+DTEND:20261212T134000Z
+SUMMARY:ЗАЧЁТ: Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nСтепанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/stepanov-v-v.html
+END:VEVENT
+END:VCALENDAR

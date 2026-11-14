@@ -1,0 +1,214 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Си Ф. — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t174408@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T121000Z
+DTEND:20260901T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174409@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T121000Z
+DTEND:20260915T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174410@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T121000Z
+DTEND:20260917T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174411@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T121000Z
+DTEND:20260922T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174412@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T121000Z
+DTEND:20260924T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174413@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T121000Z
+DTEND:20260929T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174414@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174415@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T121000Z
+DTEND:20261020T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174416@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T121000Z
+DTEND:20261103T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174417@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T121000Z
+DTEND:20261117T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174418@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T121000Z
+DTEND:20261119T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174419@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174420@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T121000Z
+DTEND:20261126T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174421@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T121000Z
+DTEND:20261203T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174422@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T121000Z
+DTEND:20261210T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174423@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T121000Z
+DTEND:20261215T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174424@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T121000Z
+DTEND:20261217T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174425@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T121000Z
+DTEND:20261222T134000Z
+SUMMARY:Информатика (информационные техноло
+ гии в управлении)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nСи Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/si-f.html
+END:VEVENT
+END:VCALENDAR

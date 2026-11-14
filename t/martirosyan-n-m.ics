@@ -1,0 +1,857 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Мартиросян Н.М. — МГУ 
+ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t171763@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174132@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174159@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171764@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174141@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171765@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174142@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174160@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174143@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171766@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174161@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171767@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174144@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171768@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174145@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171769@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171770@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T103000Z
+DTEND:20260926T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174162@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174133@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171771@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174163@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174146@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171772@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174164@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174147@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171773@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174148@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171774@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174165@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174149@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171775@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174166@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171776@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171777@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174150@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171778@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174167@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174168@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174134@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171779@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174135@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171780@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174169@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171781@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171782@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261107T103000Z
+DTEND:20261107T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174136@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174170@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174151@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174152@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174153@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261114T085000Z
+DTEND:20261114T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171783@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171784@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174154@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171785@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174137@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174171@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174155@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171786@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174138@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171787@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174139@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174172@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174156@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171788@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171789@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261205T103000Z
+DTEND:20261205T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174173@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174174@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171790@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171791@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174140@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171792@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171793@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171794@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174157@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T064000Z
+DTEND:20261219T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174158@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106 п/г 1\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171795@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174175@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T050000Z
+DTEND:20261223T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171796@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171797@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174176@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106 п/г 2\nМартиросян Н.М.\nочн
+ о
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t171798@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nМартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/martirosyan-n-m.html
+END:VEVENT
+END:VCALENDAR

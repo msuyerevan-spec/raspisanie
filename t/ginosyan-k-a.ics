@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Гиносян К.А. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t178355@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178486@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178356@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178487@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178357@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178488@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178489@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178358@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178490@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178491@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178359@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178360@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178492@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178361@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178362@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178493@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178363@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178494@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178364@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178495@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178365@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178496@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178366@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178497@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178367@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178368@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178498@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178369@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178499@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178500@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178370@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178371@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178501@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178502@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178372@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t178503@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Экономика фирмы
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГиносян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ginosyan-k-a.html
+END:VEVENT
+END:VCALENDAR

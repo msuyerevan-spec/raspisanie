@@ -1,0 +1,388 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Трохинова О.И. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179444@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179445@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179446@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T121000Z
+DTEND:20261005T134000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179447@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179448@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179449@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179450@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179451@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179452@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179453@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T121000Z
+DTEND:20261007T134000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179454@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179455@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179456@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179457@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T121000Z
+DTEND:20261008T134000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179458@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179459@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179460@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179461@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179462@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179463@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179464@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179465@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179466@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179467@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179468@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179469@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179470@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:ДПВ1 Политика памяти: теоретические 
+ и практические аспекты//Цифровые коммун
+ икации в международной политике и бизне
+ се
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179471@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Консультация: ДПВ1 Политика памяти: т
+ еоретические и практические аспекты//Ци
+ фровые коммуникации в международной пол
+ итике и бизнесе
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179472@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:ЭКЗАМЕН: ДПВ1 Политика памяти: теорет
+ ические и практические аспекты//Цифровы
+ е коммуникации в международной политике
+  и бизнесе
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+END:VCALENDAR

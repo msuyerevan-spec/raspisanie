@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Минасян А.К. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179368@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179369@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179370@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179371@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179372@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179373@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179374@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179375@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179376@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179377@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179378@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179379@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179380@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179381@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179382@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179383@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179384@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179385@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:ДПВ4 Уголовное право Республики Арме
+ ния//Нотариальная форма защиты права//Гр
+ ажданский процесс зарубежных стран//Пер
+ есмотр приговоров и иных судебных решен
+ ий//Практические аспекты деятельности ю
+ риста
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+END:VCALENDAR

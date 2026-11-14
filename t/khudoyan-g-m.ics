@@ -1,0 +1,489 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Худоян Г.М. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179350@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175663@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175664@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T103000Z
+DTEND:20260911T120000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179351@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175665@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175666@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179352@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179353@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175667@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179354@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179355@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175668@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179356@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175669@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179357@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179358@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179359@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175670@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179360@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175671@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179361@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175672@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179362@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175673@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179363@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175674@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179364@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175675@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175676@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179365@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175677@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175678@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:ДПВ3 Консультационно-справочная адв
+ окатская деятельность в системе публичн
+ ого права//Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179366@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179367@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:ДПВ3 Международное уголовное право//
+ Гражданское право Республики Армения//А
+ ктуальные проблемы доступности правосу
+ дия гражданского процесса в Республике 
+ Армения//Конституционное правосудие Рес
+ публики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+END:VCALENDAR

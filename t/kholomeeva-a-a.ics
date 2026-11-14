@@ -1,0 +1,384 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Холомеева А.А. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t174445@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Математика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174446@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Математика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174447@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Математика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174448@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Математика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174449@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Математика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174450@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Математика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174451@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Математика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174452@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174453@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174454@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174455@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174456@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174457@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T121000Z
+DTEND:20261110T134000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174458@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174459@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174460@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174461@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T121000Z
+DTEND:20261111T134000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174462@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174463@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174464@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174465@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T121000Z
+DTEND:20261112T134000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174466@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174467@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174468@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174469@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174470@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174471@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T121000Z
+DTEND:20261116T134000Z
+SUMMARY:Математика
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174472@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:Математика
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174473@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Математика
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174474@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Математика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174475@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Математика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174476@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Математика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174477@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Математика
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174478@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Математика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174479@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Математика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174480@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Математика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nХоломеева А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kholomeeva-a-a.html
+END:VEVENT
+END:VCALENDAR

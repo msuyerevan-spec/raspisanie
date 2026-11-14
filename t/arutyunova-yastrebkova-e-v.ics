@@ -1,0 +1,271 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Арутюнова-Ястребкова 
+ Э.В. — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179619@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179620@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179621@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179622@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T121000Z
+DTEND:20261210T134000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179623@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179624@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179625@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T103000Z
+DTEND:20261211T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179626@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T121000Z
+DTEND:20261211T134000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179627@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179628@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179629@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T121000Z
+DTEND:20261214T134000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179630@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179631@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179632@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179633@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179634@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179635@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179636@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T121000Z
+DTEND:20261217T134000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179637@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Консультация: Профессиональный инос
+ транный язык (английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179638@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:ЭКЗАМЕН: Профессиональный иностранн
+ ый язык (английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nАрутюнова-Ястребкова Э.
+ В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunova-yastrebkova-e
+ -v.html
+END:VEVENT
+END:VCALENDAR

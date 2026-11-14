@@ -1,0 +1,3398 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание 302 — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:g302-177773@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177560@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177596@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T135000Z
+DTEND:20260901T152000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177506@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Громов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177597@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177598@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177599@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T103000Z
+DTEND:20260902T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177600@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177672@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177470@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177524@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177561@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T085000Z
+DTEND:20260904T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177562@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260904T103000Z
+DTEND:20260904T120000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177471@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177683@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177701@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T153000Z
+DTEND:20260907T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177774@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177563@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177525@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177507@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Громов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177601@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177602@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T121000Z
+DTEND:20260909T134000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177702@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T153000Z
+DTEND:20260909T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177728@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177603@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177604@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177564@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177775@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177472@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177703@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260911T153000Z
+DTEND:20260911T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177704@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177473@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177684@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177705@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T153000Z
+DTEND:20260914T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177776@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177685@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177526@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177527@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177528@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T121000Z
+DTEND:20260916T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177529@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T135000Z
+DTEND:20260916T152000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177706@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T153000Z
+DTEND:20260916T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177508@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Громов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177729@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177605@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177673@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177777@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177474@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177606@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177607@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260918T103000Z
+DTEND:20260918T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177746@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T085000Z
+DTEND:20260919T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177747@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260919T121000Z
+DTEND:20260919T134000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177778@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177608@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177609@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T121000Z
+DTEND:20260922T134000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177509@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Громов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177565@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177610@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T121000Z
+DTEND:20260923T134000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177530@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T135000Z
+DTEND:20260923T152000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177707@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T153000Z
+DTEND:20260923T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177730@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177731@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177578@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T135000Z
+DTEND:20260924T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177779@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177475@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177531@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177532@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177708@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260925T153000Z
+DTEND:20260925T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177748@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T064000Z
+DTEND:20260926T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177749@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T085000Z
+DTEND:20260926T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177750@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260926T121000Z
+DTEND:20260926T134000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177611@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177476@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177686@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177579@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T135000Z
+DTEND:20260928T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177780@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177566@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177612@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177533@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T121000Z
+DTEND:20260929T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177674@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T135000Z
+DTEND:20260929T152000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177613@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T121000Z
+DTEND:20260930T134000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177709@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T153000Z
+DTEND:20260930T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177614@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177615@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177580@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T135000Z
+DTEND:20261001T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177781@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177477@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177710@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261002T153000Z
+DTEND:20261002T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177751@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261003T121000Z
+DTEND:20261003T134000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177478@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177687@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177581@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T135000Z
+DTEND:20261005T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177711@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T153000Z
+DTEND:20261005T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177782@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177510@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Громов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177534@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177535@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177511@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Громов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177479@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177512@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Громов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177732@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Семейное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177513@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T121000Z
+DTEND:20261007T134000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Громов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177616@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177514@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Громов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177617@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177582@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261008T135000Z
+DTEND:20261008T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177480@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177515@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Громов А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177536@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177712@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261009T153000Z
+DTEND:20261009T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177752@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177753@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T085000Z
+DTEND:20261010T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177754@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T121000Z
+DTEND:20261010T134000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177481@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177688@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177583@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T135000Z
+DTEND:20261012T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177783@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177537@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177538@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177482@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177713@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T153000Z
+DTEND:20261014T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177618@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177584@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T135000Z
+DTEND:20261015T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177483@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177539@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177714@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T153000Z
+DTEND:20261016T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177755@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T085000Z
+DTEND:20261017T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177484@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177689@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177585@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T135000Z
+DTEND:20261019T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177715@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T153000Z
+DTEND:20261019T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177784@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177540@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177733@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177734@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T121000Z
+DTEND:20261021T134000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177541@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T135000Z
+DTEND:20261021T152000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177735@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177586@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T135000Z
+DTEND:20261022T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177785@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177485@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177542@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177567@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T103000Z
+DTEND:20261023T120000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177716@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261023T153000Z
+DTEND:20261023T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177756@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261024T121000Z
+DTEND:20261024T134000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177486@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177690@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177786@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177543@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177516@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Громов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177619@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177736@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T103000Z
+DTEND:20261028T120000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177737@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T121000Z
+DTEND:20261028T134000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177544@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T135000Z
+DTEND:20261028T152000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177675@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177620@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177621@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Уголовное право
+LOCATION:онлайн
+DESCRIPTION:Степанов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177587@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T135000Z
+DTEND:20261029T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177787@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177487@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177545@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177757@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261031T085000Z
+DTEND:20261031T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177758@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261031T121000Z
+DTEND:20261031T134000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177717@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177488@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177691@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177588@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T135000Z
+DTEND:20261102T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177718@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261102T153000Z
+DTEND:20261102T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177788@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177568@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177546@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177547@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177789@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177489@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177738@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177569@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177570@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177589@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261105T135000Z
+DTEND:20261105T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177790@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177490@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177634@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T135000Z
+DTEND:20261106T152000Z
+SUMMARY:Уголовный процесс
+LOCATION:онлайн
+DESCRIPTION:Ивасенко К.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177719@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261106T153000Z
+DTEND:20261106T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177759@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261107T064000Z
+DTEND:20261107T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177760@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261107T085000Z
+DTEND:20261107T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177761@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261107T121000Z
+DTEND:20261107T134000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177635@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177491@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177692@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177636@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177637@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261109T121000Z
+DTEND:20261109T134000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177517@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Громов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177638@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177639@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T121000Z
+DTEND:20261110T134000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177640@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177791@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177641@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177642@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177643@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T121000Z
+DTEND:20261111T134000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177644@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177645@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177646@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177647@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261112T121000Z
+DTEND:20261112T134000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177648@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177492@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177649@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177548@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177650@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261113T121000Z
+DTEND:20261113T134000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177762@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177763@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261114T085000Z
+DTEND:20261114T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177764@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261114T121000Z
+DTEND:20261114T134000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177651@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177493@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177693@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177652@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177653@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T121000Z
+DTEND:20261116T134000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177792@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177654@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177655@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177656@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177657@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T121000Z
+DTEND:20261117T134000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177658@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177659@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177660@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177661@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T121000Z
+DTEND:20261118T134000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177739@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Семейное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177662@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177663@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177664@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177665@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T121000Z
+DTEND:20261119T134000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177666@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177494@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177667@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T085000Z
+DTEND:20261120T102000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177668@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T103000Z
+DTEND:20261120T120000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177669@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T121000Z
+DTEND:20261120T134000Z
+SUMMARY:Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177765@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261121T121000Z
+DTEND:20261121T134000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177670@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:ЗАЧЁТ: Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177495@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177694@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177671@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:ЗАЧЁТ: Уголовный процесс
+LOCATION:ауд. 201
+DESCRIPTION:Ивасенко К.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177622@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T121000Z
+DTEND:20261123T134000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177518@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Громов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177549@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177676@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177550@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177720@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T153000Z
+DTEND:20261125T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177677@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177623@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177624@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177590@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T135000Z
+DTEND:20261126T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177625@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177496@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177571@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177572@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T103000Z
+DTEND:20261127T120000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177721@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T153000Z
+DTEND:20261127T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177766@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177767@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177768@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261128T121000Z
+DTEND:20261128T134000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177626@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177497@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177695@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177678@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177519@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Громов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177573@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177551@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T121000Z
+DTEND:20261201T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177520@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Громов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177627@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T121000Z
+DTEND:20261202T134000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177552@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T135000Z
+DTEND:20261202T152000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177521@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Громов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177740@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177574@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177628@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T121000Z
+DTEND:20261203T134000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177591@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T135000Z
+DTEND:20261203T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177793@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177498@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177769@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261205T064000Z
+DTEND:20261205T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177499@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177696@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177629@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177592@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261207T135000Z
+DTEND:20261207T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177522@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Громов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177553@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177554@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T121000Z
+DTEND:20261208T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177679@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177630@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177741@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T121000Z
+DTEND:20261209T134000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177722@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T153000Z
+DTEND:20261209T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177680@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:ДПВ1 Теория и практика назначения на
+ казания//Право международных организаци
+ й
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177631@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177593@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T135000Z
+DTEND:20261210T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177794@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177500@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177681@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:ЗАЧЁТ: ДПВ1 Теория и практика назначе
+ ния наказания//Право международных орга
+ низаций
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177723@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261211T153000Z
+DTEND:20261211T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177682@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T085000Z
+DTEND:20261212T102000Z
+SUMMARY:ЗАЧЁТ: ДПВ1 Теория и практика назначе
+ ния наказания//Право международных орга
+ низаций
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177632@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T103000Z
+DTEND:20261212T120000Z
+SUMMARY:ЗАЧЁТ: Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177633@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261212T121000Z
+DTEND:20261212T134000Z
+SUMMARY:ЗАЧЁТ: Уголовное право
+LOCATION:ауд. 201
+DESCRIPTION:Степанов В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177724@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177501@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177697@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177594@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T135000Z
+DTEND:20261214T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177725@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T153000Z
+DTEND:20261214T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177795@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177555@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177556@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T121000Z
+DTEND:20261215T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177523@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Громов А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177742@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177743@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T121000Z
+DTEND:20261216T134000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177744@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177745@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Дюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177575@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177796@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177502@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177576@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177577@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T103000Z
+DTEND:20261218T120000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Саурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177726@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T153000Z
+DTEND:20261218T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177770@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T064000Z
+DTEND:20261219T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177771@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T085000Z
+DTEND:20261219T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177772@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261219T121000Z
+DTEND:20261219T134000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Ежукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177503@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177698@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177595@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T135000Z
+DTEND:20261221T152000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Потапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177727@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T153000Z
+DTEND:20261221T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Соколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177797@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177557@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177558@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177559@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T121000Z
+DTEND:20261222T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Аргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177798@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177504@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177505@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T064000Z
+DTEND:20261228T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 201
+DESCRIPTION:Омельченко А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177699@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177799@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g302-177700@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:ДПВ2 Проблемы Конституционного прав
+ а Республики Армения//Правовое регулиро
+ вание внешнеэкономической деятельности
+LOCATION:ауд. 201
+DESCRIPTION:Хтрян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/302.html
+END:VEVENT
+END:VCALENDAR

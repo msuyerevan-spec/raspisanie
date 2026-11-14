@@ -1,0 +1,392 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Кордик Д.Н. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t175209@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T135000Z
+DTEND:20260928T152000Z
+SUMMARY:Административное право
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175210@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175211@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175212@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175213@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T121000Z
+DTEND:20261116T134000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175214@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175215@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T121000Z
+DTEND:20261117T134000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175216@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175217@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175218@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175219@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175220@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T121000Z
+DTEND:20261119T134000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175221@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175222@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175223@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261120T103000Z
+DTEND:20261120T120000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175224@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175225@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175226@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175227@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175228@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175229@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175230@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175231@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175232@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175233@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175234@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175235@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261126T121000Z
+DTEND:20261126T134000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175236@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175237@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175238@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261127T103000Z
+DTEND:20261127T120000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175239@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175240@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175241@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175242@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261130T121000Z
+DTEND:20261130T134000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175243@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175244@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175245@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:ЗАЧЁТ: Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t175246@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T121000Z
+DTEND:20261201T134000Z
+SUMMARY:ЗАЧЁТ: Административное право
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nКордик Д.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kordik-d-n.html
+END:VEVENT
+END:VCALENDAR

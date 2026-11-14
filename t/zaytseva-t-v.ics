@@ -1,0 +1,213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Зайцева Т.В. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t174819@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174820@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174821@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174822@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174823@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174824@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174825@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174826@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174827@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174828@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T121000Z
+DTEND:20261214T134000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174829@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174830@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174831@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174832@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174833@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T121000Z
+DTEND:20261216T134000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174834@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174835@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174836@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Кадровая политика и кадровый аудит
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174837@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Консультация: Кадровая политика и ка
+ дровый аудит
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t174838@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:ЭКЗАМЕН: Кадровая политика и кадровы
+ й аудит
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 107M\nЗайцева Т.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaytseva-t-v.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Восканян М.А. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t180397@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T103000Z
+DTEND:20260901T120000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nВосканян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/voskanyan-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180398@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nВосканян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/voskanyan-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180399@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nВосканян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/voskanyan-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180400@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nВосканян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/voskanyan-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180401@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nВосканян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/voskanyan-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180402@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nВосканян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/voskanyan-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180403@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nВосканян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/voskanyan-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180404@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nВосканян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/voskanyan-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180405@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nВосканян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/voskanyan-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180406@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nВосканян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/voskanyan-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180407@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:ДПВ5 Экономическая политика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nВосканян М.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/voskanyan-m-a.html
+END:VEVENT
+END:VCALENDAR

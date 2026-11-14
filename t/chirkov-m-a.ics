@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Чирков М.А. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t180663@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180664@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180665@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180666@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180667@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180668@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180669@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180670@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн (группа подключается из ауд. 4
+ 01)
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180671@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180672@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180673@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T103000Z
+DTEND:20261028T120000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180674@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180675@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180676@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн (группа подключается из ауд. 4
+ 01)
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180677@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн (группа подключается из ауд. 4
+ 01)
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180678@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180679@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180680@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180681@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180682@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180683@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180684@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180685@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180686@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180687@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180688@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180689@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:ДПВ3 Бюджетная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЧирков М.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chirkov-m-a.html
+END:VEVENT
+END:VCALENDAR

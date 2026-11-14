@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Лысенко А.В. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t179705@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179706@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179707@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179708@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179709@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179710@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179711@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179712@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179713@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179714@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179715@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179716@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179717@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179718@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179719@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179720@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179721@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t179722@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЛысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lysenko-a-v.html
+END:VEVENT
+END:VCALENDAR

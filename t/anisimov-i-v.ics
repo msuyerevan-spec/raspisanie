@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Анисимов И.В. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t173408@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173409@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173410@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173411@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173412@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173413@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173414@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173415@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173416@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК2
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173417@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173418@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173419@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173420@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173421@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК2
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173422@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК2
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173423@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173424@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261016T121000Z
+DTEND:20261016T134000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173425@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T064000Z
+DTEND:20261017T081000Z
+SUMMARY:Мультимедийные технологии
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173426@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261017T085000Z
+DTEND:20261017T102000Z
+SUMMARY:ЗАЧЁТ: Мультимедийные технологии
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 104\nАнисимов И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anisimov-i-v.html
+END:VEVENT
+END:VCALENDAR

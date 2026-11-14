@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Карапетян В.В. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t173249@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\, 107M\nКарапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karapetyan-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173251@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 103M\, 107M\nКарапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karapetyan-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173253@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 103M\, 107M\nКарапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karapetyan-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173255@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\, 107M\nКарапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karapetyan-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173257@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\, 107M\nКарапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karapetyan-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173259@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\, 107M\nКарапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karapetyan-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173261@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\, 107M\nКарапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karapetyan-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173263@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\, 107M\nКарапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karapetyan-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t173265@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:МФК Лоббизм и лоббистская деятельно
+ сть
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\, 107M\nКарапетян В.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/karapetyan-v-v.html
+END:VEVENT
+END:VCALENDAR

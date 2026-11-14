@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Манасерян Т.Н. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t180295@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180296@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180297@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180298@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180299@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180300@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180301@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180302@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180303@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180304@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180305@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180306@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180307@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180308@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180309@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180310@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180311@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180312@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180313@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180314@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180315@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180316@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180317@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180318@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180319@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180320@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T050000Z
+DTEND:20261223T063000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t180321@raspisanie.msu-yerevan
+DTSTAMP:20261114T073020Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:ДПВ1 Экономическая дипломатия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nМанасерян Т.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manaseryan-t-n.html
+END:VEVENT
+END:VCALENDAR
