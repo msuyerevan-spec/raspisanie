@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Липоватая М.С. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t322477@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260926T064000Z
+DTEND:20260926T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322478@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260926T085000Z
+DTEND:20260926T102000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322490@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T064000Z
+DTEND:20261003T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322491@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T085000Z
+DTEND:20261003T102000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322506@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322507@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261010T085000Z
+DTEND:20261010T102000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322522@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261017T064000Z
+DTEND:20261017T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322523@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261017T085000Z
+DTEND:20261017T102000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322535@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T064000Z
+DTEND:20261024T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛиповатая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lipovataya-m-s.html
+END:VEVENT
+END:VCALENDAR

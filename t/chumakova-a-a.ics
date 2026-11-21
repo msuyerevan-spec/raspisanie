@@ -1,0 +1,473 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Чумакова А.А. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t284250@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284262@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284265@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280513@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280516@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260919T085000Z
+DTEND:20260919T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280517@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260919T103000Z
+DTEND:20260919T120000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284281@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284293@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280551@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284313@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284317@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280567@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280585@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284354@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284359@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280603@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284376@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280623@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280625@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280626@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284389@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284390@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280629@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284392@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284393@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280632@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280633@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280634@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284397@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284398@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280637@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280638@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284400@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284401@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Теория и практика речевого общения (2
+ -ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284402@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Консультация: Теория и практика рече
+ вого общения (2-ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280643@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280644@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280645@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Консультация: Практический курс 2-ог
+ о ин. языка (англ)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280646@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T050000Z
+DTEND:20261107T063000Z
+SUMMARY:Экзамен: Практический курс 2-ого ин. я
+ зыка (англ)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280647@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T064000Z
+DTEND:20261107T081000Z
+SUMMARY:Экзамен: Практический курс 2-ого ин. я
+ зыка (англ)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284406@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T085000Z
+DTEND:20261107T102000Z
+SUMMARY:Экзамен: Теория и практика речевого 
+ общения (2-ой ин. язык) (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 305\nЧумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/chumakova-a-a.html
+END:VEVENT
+END:VCALENDAR

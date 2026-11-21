@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Левченко Т.Г. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t283952@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283967@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283995@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283996@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284052@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284053@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284134@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284135@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284136@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284155@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284156@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284157@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284176@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284177@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284178@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Конституционное (государственное) п
+ раво зарубежных стран
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284197@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Зачёт: Конституционное (государстве
+ нное) право зарубежных стран
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284198@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Зачёт: Конституционное (государстве
+ нное) право зарубежных стран
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nЛевченко Т.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/levchenko-t-g.html
+END:VEVENT
+END:VCALENDAR

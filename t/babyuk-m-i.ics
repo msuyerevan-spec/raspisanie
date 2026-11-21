@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Бабюк М.И. — МГУ Ерева
+ н
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t285778@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Страноведение
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285779@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T082000Z
+DTEND:20260908T095000Z
+SUMMARY:Страноведение
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285798@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285799@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T082000Z
+DTEND:20260915T095000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285811@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285812@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T082000Z
+DTEND:20260922T095000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285826@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285827@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T082000Z
+DTEND:20260929T095000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285841@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285842@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T082000Z
+DTEND:20261006T095000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285855@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285856@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T082000Z
+DTEND:20261013T095000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285871@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285872@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T082000Z
+DTEND:20261020T095000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285889@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285890@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T082000Z
+DTEND:20261027T095000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285906@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Зачёт: Страноведение
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nБабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/babyuk-m-i.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,327 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Крестов Ф.В. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t282180@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282184@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282193@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261017T110000Z
+DTEND:20261017T123000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282203@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T121000Z
+DTEND:20261021T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282204@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282212@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T110000Z
+DTEND:20261024T123000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282218@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T121000Z
+DTEND:20261027T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282223@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282238@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T121000Z
+DTEND:20261103T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282244@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282253@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T104000Z
+DTEND:20261107T121000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282261@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T121000Z
+DTEND:20261110T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282266@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282272@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T121000Z
+DTEND:20261113T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282274@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T104000Z
+DTEND:20261114T121000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282275@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T122000Z
+DTEND:20261114T135000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282283@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T121000Z
+DTEND:20261117T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282296@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261120T121000Z
+DTEND:20261120T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282298@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261121T104000Z
+DTEND:20261121T121000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282303@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282310@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282315@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T121000Z
+DTEND:20261127T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282317@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T104000Z
+DTEND:20261128T121000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282325@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T121000Z
+DTEND:20261201T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282331@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282338@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T121000Z
+DTEND:20261204T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282346@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T121000Z
+DTEND:20261208T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282352@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Консультация: История международных
+  отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282356@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T081500Z
+DTEND:20261211T094500Z
+SUMMARY:Экзамен: История международных отно
+ шений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282357@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T094500Z
+DTEND:20261211T111500Z
+SUMMARY:Экзамен: История международных отно
+ шений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 203\nКрестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/krestov-f-v.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Матвеева Л.К. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t286541@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286543@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286546@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286559@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286570@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286580@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286584@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286592@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн (группа подключается из ауд. 1
+ 09)
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286604@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн (группа подключается из ауд. 1
+ 09)
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286627@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286638@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286647@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286654@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286657@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286663@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286670@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286678@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286693@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286699@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286708@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286714@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн (группа подключается из ауд. 4
+ 01)
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286724@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286745@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286760@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286767@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286777@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286792@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:Налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМатвеева Л.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matveeva-l-k.html
+END:VEVENT
+END:VCALENDAR

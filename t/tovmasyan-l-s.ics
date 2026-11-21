@@ -1,0 +1,561 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Товмасян Л.С. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t281744@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T103000Z
+DTEND:20260904T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281753@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281763@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T103000Z
+DTEND:20260911T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281775@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281782@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281794@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281802@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281815@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281816@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281820@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281824@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281825@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T103000Z
+DTEND:20261002T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281838@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281845@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281850@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281862@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281863@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281867@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281871@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281872@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316793@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316798@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316801@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316802@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T103000Z
+DTEND:20261023T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316810@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316815@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316819@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316820@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281920@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281923@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281928@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281929@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281936@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281937@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281940@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281945@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281946@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281957@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281964@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281984@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281988@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282004@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282008@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282014@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T103000Z
+DTEND:20261204T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282025@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282028@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282040@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282043@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282048@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282049@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T103000Z
+DTEND:20261218T120000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282058@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282059@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282064@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282069@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T085000Z
+DTEND:20261225T102000Z
+SUMMARY:Зачёт: Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282070@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T103000Z
+DTEND:20261225T120000Z
+SUMMARY:Зачёт: Иностранный язык(английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nТовмасян Л.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tovmasyan-l-s.html
+END:VEVENT
+END:VCALENDAR

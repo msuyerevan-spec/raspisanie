@@ -1,0 +1,176 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Томсинов В.А. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t287431@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T133000Z
+DTEND:20260908T150000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nТомсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tomsinov-v-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287438@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T133000Z
+DTEND:20260915T150000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nТомсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tomsinov-v-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287446@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T133000Z
+DTEND:20260922T150000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nТомсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tomsinov-v-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287470@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T133000Z
+DTEND:20260929T150000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nТомсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tomsinov-v-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287477@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T133000Z
+DTEND:20261006T150000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nТомсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tomsinov-v-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287486@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T133000Z
+DTEND:20261013T150000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nТомсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tomsinov-v-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287498@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T133000Z
+DTEND:20261027T150000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nТомсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tomsinov-v-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287506@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T133000Z
+DTEND:20261103T150000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nТомсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tomsinov-v-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287514@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T133000Z
+DTEND:20261110T150000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nТомсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tomsinov-v-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287518@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T133000Z
+DTEND:20261117T150000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nТомсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tomsinov-v-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287520@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T133000Z
+DTEND:20261124T150000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nТомсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tomsinov-v-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287523@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T133000Z
+DTEND:20261201T150000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nТомсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tomsinov-v-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287526@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T133000Z
+DTEND:20261208T150000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nТомсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tomsinov-v-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287531@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T133000Z
+DTEND:20261215T150000Z
+SUMMARY:История и методология юридической н
+ ауки
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nТомсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tomsinov-v-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287537@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T133000Z
+DTEND:20261222T150000Z
+SUMMARY:Зачёт: История и методология юридиче
+ ской науки
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nТомсинов В.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/tomsinov-v-a.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Соколова С.Г. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t283636@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283652@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283669@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283683@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T153000Z
+DTEND:20260930T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283694@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T153000Z
+DTEND:20261005T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283703@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T153000Z
+DTEND:20261007T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283719@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T153000Z
+DTEND:20261012T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283735@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T153000Z
+DTEND:20261016T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283738@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283740@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T153000Z
+DTEND:20261019T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283748@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T153000Z
+DTEND:20261021T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283762@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T153000Z
+DTEND:20261026T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283769@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T153000Z
+DTEND:20261028T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283775@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283784@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T153000Z
+DTEND:20261102T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283793@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T153000Z
+DTEND:20261104T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283797@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283822@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283847@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T153000Z
+DTEND:20261123T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283854@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T153000Z
+DTEND:20261125T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283868@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T153000Z
+DTEND:20261130T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283879@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283884@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283900@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283911@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T153000Z
+DTEND:20261216T170000Z
+SUMMARY:Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283916@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Зачёт: Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283917@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Зачёт: Финансовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСоколова С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sokolova-s-g.html
+END:VEVENT
+END:VCALENDAR

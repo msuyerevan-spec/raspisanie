@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Шаклеина М.В. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t286365@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Анализ качества и образа жизни насел
+ ения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nШаклеина М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shakleina-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286366@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T121000Z
+DTEND:20261015T134000Z
+SUMMARY:Анализ качества и образа жизни насел
+ ения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nШаклеина М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shakleina-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286385@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Анализ качества и образа жизни насел
+ ения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nШаклеина М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shakleina-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286386@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T121000Z
+DTEND:20261022T134000Z
+SUMMARY:Анализ качества и образа жизни насел
+ ения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nШаклеина М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shakleina-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286406@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Анализ качества и образа жизни насел
+ ения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nШаклеина М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shakleina-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286407@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T121000Z
+DTEND:20261029T134000Z
+SUMMARY:Анализ качества и образа жизни насел
+ ения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nШаклеина М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shakleina-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286426@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Анализ качества и образа жизни насел
+ ения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nШаклеина М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shakleina-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286466@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Анализ качества и образа жизни насел
+ ения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nШаклеина М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shakleina-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286467@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T121000Z
+DTEND:20261119T134000Z
+SUMMARY:Анализ качества и образа жизни насел
+ ения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nШаклеина М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shakleina-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286487@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Зачёт: Анализ качества и образа жизн
+ и населения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nШаклеина М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shakleina-m-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286488@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Зачёт: Анализ качества и образа жизн
+ и населения
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nШаклеина М.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shakleina-m-v.html
+END:VEVENT
+END:VCALENDAR

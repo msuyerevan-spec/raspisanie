@@ -1,0 +1,312 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Аракелян К.Н. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t285773@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T085000Z
+DTEND:20260905T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 406
+DESCRIPTION:Группы: 404\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285776@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285790@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285796@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285809@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285279@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Основы виктимологии
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285824@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285320@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Основы виктимологии
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285321@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Основы виктимологии
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285853@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320246@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Основы виктимологии
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nАракелян К.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320247@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Основы виктимологии
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nАракелян К.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320778@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Психология
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nАракелян К.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285375@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T050000Z
+DTEND:20261107T063000Z
+SUMMARY:Основы виктимологии
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285918@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T064000Z
+DTEND:20261107T081000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285378@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Основы виктимологии
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285920@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285394@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:Основы виктимологии
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285933@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T085000Z
+DTEND:20261114T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285398@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Основы виктимологии
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285936@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t355237@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T050000Z
+DTEND:20261128T063000Z
+SUMMARY:Основы виктимологии
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАракелян К.Н.\nочно\nдоба
+ влено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285426@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:Основы виктимологии
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285964@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285967@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285431@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Основы виктимологии
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285981@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T085000Z
+DTEND:20261205T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285450@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T103000Z
+DTEND:20261205T120000Z
+SUMMARY:Основы виктимологии
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285984@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285454@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Основы виктимологии
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-k-n.html
+END:VEVENT
+END:VCALENDAR

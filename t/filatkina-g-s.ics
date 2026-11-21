@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Филаткина Г.С. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t280207@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:История зарубежной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nФилаткина Г.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filatkina-g-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280208@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T082000Z
+DTEND:20260907T095000Z
+SUMMARY:История зарубежной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nФилаткина Г.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filatkina-g-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280221@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:История зарубежной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nФилаткина Г.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filatkina-g-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280222@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T082000Z
+DTEND:20260914T095000Z
+SUMMARY:История зарубежной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nФилаткина Г.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filatkina-g-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280254@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:История зарубежной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nФилаткина Г.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filatkina-g-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280255@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T082000Z
+DTEND:20260928T095000Z
+SUMMARY:История зарубежной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nФилаткина Г.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filatkina-g-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280322@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:История зарубежной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nФилаткина Г.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filatkina-g-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280323@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T082000Z
+DTEND:20261019T095000Z
+SUMMARY:История зарубежной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nФилаткина Г.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filatkina-g-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280335@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:История зарубежной журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nФилаткина Г.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filatkina-g-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280337@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Консультация: История зарубежной жу
+ рналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nФилаткина Г.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filatkina-g-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280364@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Экзамен: История зарубежной журнали
+ стики
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 104\nФилаткина Г.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/filatkina-g-s.html
+END:VEVENT
+END:VCALENDAR

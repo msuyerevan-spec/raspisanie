@@ -1,0 +1,1111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Мхитарян Г.Ж. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t282072@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281185@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282731@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T103000Z
+DTEND:20260902T120000Z
+SUMMARY:История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282076@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283310@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282082@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283319@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282087@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282742@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281199@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281202@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282098@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283339@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 109
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282105@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282752@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281214@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281217@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283351@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282121@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282761@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281231@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282125@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283369@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282135@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283377@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282141@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282776@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281251@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281255@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283388@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282154@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283396@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282160@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282791@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281271@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283407@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283408@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282174@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283414@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282805@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282183@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281294@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283424@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283425@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317106@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Мировые религии
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318340@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317110@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Мировые религии
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317734@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:История
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316224@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:История России
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316225@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:История России
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318351@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317125@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Мировые религии
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318357@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317130@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Мировые религии
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317747@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:История
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316238@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T103000Z
+DTEND:20261028T120000Z
+SUMMARY:История России
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316240@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:История России
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318366@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282233@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283462@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281348@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283472@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282278@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282279@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282284@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282896@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281386@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282900@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281389@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283511@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282299@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281400@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282304@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282913@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281409@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282917@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281412@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283534@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283540@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T103000Z
+DTEND:20261128T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282320@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283543@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282326@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282931@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281430@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281433@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282342@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281442@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282347@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282946@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281448@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281452@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283575@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282361@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281458@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283590@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282368@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282370@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281465@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Зачёт: История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281466@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Зачёт: История России
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282378@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261219T103000Z
+DTEND:20261219T120000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282381@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283599@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282386@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282985@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282986@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282988@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Зачёт: История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282989@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Зачёт: История
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282390@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282396@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:Зачёт: Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283611@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261228T103000Z
+DTEND:20261228T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nМхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mkhitaryan-g-zh.html
+END:VEVENT
+END:VCALENDAR

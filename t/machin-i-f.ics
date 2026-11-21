@@ -1,0 +1,551 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Мачин И.Ф. — МГУ Ерева
+ н
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t279702@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279703@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279704@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279708@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279709@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279710@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279713@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279714@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279716@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279719@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279720@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279722@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279726@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279728@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279730@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T103000Z
+DTEND:20261204T120000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279732@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T050000Z
+DTEND:20261205T063000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279733@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T064000Z
+DTEND:20261205T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279734@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T085000Z
+DTEND:20261205T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279736@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279737@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279739@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279743@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279744@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279746@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279748@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279749@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279751@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279756@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279757@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279759@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279761@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279764@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279765@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279766@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T103000Z
+DTEND:20261211T120000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279768@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261212T050000Z
+DTEND:20261212T063000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279769@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261212T064000Z
+DTEND:20261212T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279771@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261212T085000Z
+DTEND:20261212T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279773@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279774@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279776@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279780@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279781@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279783@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279787@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279789@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279791@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279794@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279796@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279797@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279805@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279806@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279807@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T103000Z
+DTEND:20261218T120000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279808@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261219T050000Z
+DTEND:20261219T063000Z
+SUMMARY:Зачёт: Теория государства и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279809@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261219T064000Z
+DTEND:20261219T081000Z
+SUMMARY:Зачёт: Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nМачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/machin-i-f.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Колокольцов В.Н. — МГУ
+  Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t286362@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Введение в теорию игр
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286363@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Введение в теорию игр
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286382@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Введение в теорию игр
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286383@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Введение в теорию игр
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286403@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Введение в теорию игр
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286404@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Введение в теорию игр
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286441@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T121000Z
+DTEND:20261110T134000Z
+SUMMARY:Введение в теорию игр
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286442@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T135000Z
+DTEND:20261110T152000Z
+SUMMARY:Введение в теорию игр
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286443@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Введение в теорию игр
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286444@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Введение в теорию игр
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286445@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Введение в теорию игр
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286447@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Введение в теорию игр
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286448@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Введение в теорию игр
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286449@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Введение в теорию игр
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286452@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Введение в теорию игр
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286453@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Введение в теорию игр
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286454@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T121000Z
+DTEND:20261113T134000Z
+SUMMARY:Введение в теорию игр
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286455@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T050000Z
+DTEND:20261114T063000Z
+SUMMARY:Зачёт: Введение в теорию игр
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286456@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:Зачёт: Введение в теорию игр
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 406\nКолокольцов В.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolokoltsov-v-n.html
+END:VEVENT
+END:VCALENDAR

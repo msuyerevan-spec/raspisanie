@@ -1,0 +1,1091 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Саакян К.П. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t280778@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280780@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280784@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280786@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280796@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280800@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280810@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T085000Z
+DTEND:20260912T102000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280813@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280822@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280825@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280830@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280832@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260919T050000Z
+DTEND:20260919T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280834@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260919T064000Z
+DTEND:20260919T081000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280836@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280840@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280844@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280851@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280853@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260926T050000Z
+DTEND:20260926T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280855@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260926T064000Z
+DTEND:20260926T081000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280857@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280859@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280860@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280865@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280869@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280872@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T050000Z
+DTEND:20261003T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280874@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T064000Z
+DTEND:20261003T081000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280878@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280880@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280887@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280893@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280896@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280899@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261010T050000Z
+DTEND:20261010T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280901@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280903@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280906@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280912@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280918@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280924@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280926@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261017T050000Z
+DTEND:20261017T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280928@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261017T064000Z
+DTEND:20261017T081000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315840@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Математический анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315843@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nСаакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315847@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Математический анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315853@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:онлайн
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315856@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Математический анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315858@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T050000Z
+DTEND:20261024T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:онлайн
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315860@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T064000Z
+DTEND:20261024T081000Z
+SUMMARY:Математический анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315862@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Математический анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nСаакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315865@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nСаакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315870@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:онлайн
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315875@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:онлайн
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315880@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Математический анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nСаакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315882@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261031T050000Z
+DTEND:20261031T063000Z
+SUMMARY:Математический анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315884@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261031T064000Z
+DTEND:20261031T081000Z
+SUMMARY:Математический анализ
+LOCATION:онлайн
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280976@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280979@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280985@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280990@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280993@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280996@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T050000Z
+DTEND:20261107T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280998@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T064000Z
+DTEND:20261107T081000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281000@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281003@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281008@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281014@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281022@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281024@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T050000Z
+DTEND:20261114T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281026@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281028@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281029@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281033@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281039@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281047@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281049@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261121T050000Z
+DTEND:20261121T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281051@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261121T064000Z
+DTEND:20261121T081000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281053@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281056@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281060@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281065@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281074@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281077@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T050000Z
+DTEND:20261128T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281079@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281081@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281083@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281087@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281092@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281099@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281102@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T050000Z
+DTEND:20261205T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281104@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T064000Z
+DTEND:20261205T081000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281106@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281108@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281111@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281116@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281124@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281125@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261212T050000Z
+DTEND:20261212T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281127@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261212T064000Z
+DTEND:20261212T081000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281129@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281131@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281135@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281140@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281148@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281151@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261219T050000Z
+DTEND:20261219T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281153@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261219T064000Z
+DTEND:20261219T081000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281157@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281160@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T050000Z
+DTEND:20261223T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281165@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281173@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-1\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281176@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261226T050000Z
+DTEND:20261226T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nСаакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saakyan-k-p.html
+END:VEVENT
+END:VCALENDAR

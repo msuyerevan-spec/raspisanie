@@ -1,0 +1,2846 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание 404 — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:g404-285763@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 406
+DESCRIPTION:Манасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285764@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 406
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285765@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 406
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285766@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 406
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285767@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T104000Z
+DTEND:20260903T121000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285768@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T122000Z
+DTEND:20260903T135000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285769@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 406
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285770@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Медиасистема Армении
+LOCATION:ауд. 406
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285771@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T050000Z
+DTEND:20260905T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 406
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285772@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T064000Z
+DTEND:20260905T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 406
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285773@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T085000Z
+DTEND:20260905T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 406
+DESCRIPTION:Аракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285774@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285775@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:Медиасистема Армении
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285776@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Аракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285777@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Лысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285778@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Страноведение
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285779@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T082000Z
+DTEND:20260908T095000Z
+SUMMARY:Страноведение
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285780@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Медиасистема Армении
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285781@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Манасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285782@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320693@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T082000Z
+DTEND:20260909T095000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320694@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T100000Z
+DTEND:20260909T113000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285785@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285786@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Медиасистема Армении
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285787@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285788@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T104000Z
+DTEND:20260910T121000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285789@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T122000Z
+DTEND:20260910T135000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285790@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Аракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285791@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285792@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T050000Z
+DTEND:20260912T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285794@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Раскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285795@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285796@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Аракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285797@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Лысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285798@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285799@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T082000Z
+DTEND:20260915T095000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285800@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Манасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285801@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320712@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T082000Z
+DTEND:20260916T095000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320713@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T100000Z
+DTEND:20260916T113000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285804@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285805@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285806@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T104000Z
+DTEND:20260917T121000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285807@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T122000Z
+DTEND:20260917T135000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285808@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285809@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Аракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285810@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Лысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285811@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285812@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T082000Z
+DTEND:20260922T095000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285813@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320724@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T082000Z
+DTEND:20260923T095000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320725@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T100000Z
+DTEND:20260923T113000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285816@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285817@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T104000Z
+DTEND:20260924T121000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285818@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T122000Z
+DTEND:20260924T135000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285819@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285820@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Манасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285822@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Раскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285823@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Медиасистема Армении
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285824@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Аракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285825@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Лысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285826@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285827@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T082000Z
+DTEND:20260929T095000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285828@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Манасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285829@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320740@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T082000Z
+DTEND:20260930T095000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320741@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T100000Z
+DTEND:20260930T113000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285832@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285833@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285834@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285835@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Манасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285836@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T050000Z
+DTEND:20261003T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285837@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T064000Z
+DTEND:20261003T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285838@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Раскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285839@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Медиасистема Армении
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285840@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Лысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285841@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285842@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T082000Z
+DTEND:20261006T095000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285843@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285844@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320755@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T082000Z
+DTEND:20261007T095000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320756@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T100000Z
+DTEND:20261007T113000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285847@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285848@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285849@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285850@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285851@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Раскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285852@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Медиасистема Армении
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285853@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Аракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285854@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Лысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285855@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285856@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T082000Z
+DTEND:20261013T095000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285857@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320768@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T082000Z
+DTEND:20261014T095000Z
+SUMMARY:Современное естествознание (географ
+ ия)
+LOCATION:онлайн
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320769@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T100000Z
+DTEND:20261014T113000Z
+SUMMARY:Зачёт: Современное естествознание (г
+ еография)
+LOCATION:онлайн
+DESCRIPTION:Богачев Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285860@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285861@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285862@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T104000Z
+DTEND:20261015T121000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285863@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T122000Z
+DTEND:20261015T135000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285864@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Манасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285865@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320776@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:онлайн
+DESCRIPTION:Акопян И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285867@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн
+DESCRIPTION:Раскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320778@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Психология
+LOCATION:онлайн
+DESCRIPTION:Аракелян К.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320779@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Русская литература
+LOCATION:онлайн
+DESCRIPTION:Багиян Ж.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285870@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Лысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285871@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285872@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T082000Z
+DTEND:20261020T095000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320783@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:онлайн
+DESCRIPTION:Манасарян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320784@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Медиасистема Армении
+LOCATION:онлайн
+DESCRIPTION:Багиян Ж.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320785@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Харатян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320786@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:онлайн
+DESCRIPTION:Акопян И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320787@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Мадоян А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285878@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T104000Z
+DTEND:20261022T121000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285879@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T122000Z
+DTEND:20261022T135000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320790@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:онлайн
+DESCRIPTION:Акопян И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320791@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:Русская литература
+LOCATION:онлайн
+DESCRIPTION:Багиян Ж.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320792@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Харатян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320793@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T050000Z
+DTEND:20261024T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Харатян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320794@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T064000Z
+DTEND:20261024T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Харатян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320795@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:онлайн
+DESCRIPTION:Акопян И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285886@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн
+DESCRIPTION:Раскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320797@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Харатян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285888@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Лысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285889@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285890@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T082000Z
+DTEND:20261027T095000Z
+SUMMARY:Страноведение
+LOCATION:онлайн
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320801@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:онлайн
+DESCRIPTION:Манасарян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320802@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Медиасистема Армении
+LOCATION:онлайн
+DESCRIPTION:Багиян Ж.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320803@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Харатян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320804@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:онлайн
+DESCRIPTION:Акопян И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320805@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Мадоян А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285896@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T104000Z
+DTEND:20261029T121000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285897@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T122000Z
+DTEND:20261029T135000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320808@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:онлайн
+DESCRIPTION:Акопян И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320809@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Русская литература
+LOCATION:онлайн
+DESCRIPTION:Багиян Ж.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320810@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Харатян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320811@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261031T050000Z
+DTEND:20261031T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Харатян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-320812@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261031T064000Z
+DTEND:20261031T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Харатян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285903@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285904@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Раскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285905@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Лысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285906@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Зачёт: Страноведение
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Бабюк М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285907@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T082000Z
+DTEND:20261103T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285908@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T100000Z
+DTEND:20261103T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285909@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Манасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285910@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Медиасистема Армении
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285911@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285912@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285913@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T104000Z
+DTEND:20261105T121000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285914@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T122000Z
+DTEND:20261105T135000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285915@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285916@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285917@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T050000Z
+DTEND:20261107T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285918@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T064000Z
+DTEND:20261107T081000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Аракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285919@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285920@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Аракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285921@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Манасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285922@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Лысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285923@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285924@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T082000Z
+DTEND:20261110T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285925@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T100000Z
+DTEND:20261110T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285926@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Медиасистема Армении
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285927@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285928@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285929@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T104000Z
+DTEND:20261112T121000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285930@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T122000Z
+DTEND:20261112T135000Z
+SUMMARY:История российской журналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285931@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T050000Z
+DTEND:20261114T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285932@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285933@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T085000Z
+DTEND:20261114T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Аракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285934@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285935@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Раскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285936@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Аракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285937@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Медиасистема Армении
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285938@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн
+DESCRIPTION:Лысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285939@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T082000Z
+DTEND:20261117T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285940@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T100000Z
+DTEND:20261117T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285941@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Манасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285942@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Медиасистема Армении
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285943@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285944@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285945@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Манасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285946@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285947@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T135000Z
+DTEND:20261119T152000Z
+SUMMARY:Консультация: История российской жу
+ рналистики
+LOCATION:онлайн
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285948@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285949@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285950@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261120T085000Z
+DTEND:20261120T102000Z
+SUMMARY:Экзамен: История российской журнали
+ стики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Говряков И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285951@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285952@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Раскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285954@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Лысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285955@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Медиасистема Армении
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285956@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T082000Z
+DTEND:20261124T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285957@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T100000Z
+DTEND:20261124T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285958@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285959@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285960@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285961@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Манасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285962@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T050000Z
+DTEND:20261128T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285963@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285964@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Аракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285965@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285966@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Раскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285967@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Аракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285968@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Медиасистема Армении
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285969@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Лысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285970@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285971@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T082000Z
+DTEND:20261201T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285972@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T100000Z
+DTEND:20261201T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285973@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Манасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285974@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285975@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285976@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285977@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Манасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285978@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285979@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T050000Z
+DTEND:20261205T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285980@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T064000Z
+DTEND:20261205T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285981@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T085000Z
+DTEND:20261205T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Аракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285982@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285983@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Раскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285984@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Психология
+LOCATION:ауд. 210A
+DESCRIPTION:Аракелян К.Н.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285985@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Лысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285986@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285987@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T082000Z
+DTEND:20261208T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285988@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T100000Z
+DTEND:20261208T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285989@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Медиасистема Армении
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285990@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285991@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285992@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Манасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285993@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261212T050000Z
+DTEND:20261212T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285994@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261212T064000Z
+DTEND:20261212T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285996@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285997@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Раскин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285998@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Лысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-285999@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Русская литература
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286000@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T082000Z
+DTEND:20261215T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286001@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T100000Z
+DTEND:20261215T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286002@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Зачёт: Международные отношения в мно
+ гополярном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Манасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286003@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Медиасистема Армении
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286004@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286005@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286006@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286007@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286008@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286009@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286010@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286011@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261219T050000Z
+DTEND:20261219T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286012@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261219T064000Z
+DTEND:20261219T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286013@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261219T085000Z
+DTEND:20261219T102000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:ауд. БК2
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286014@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261219T103000Z
+DTEND:20261219T120000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:ауд. БК2
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286015@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:Иностранный язык (второй) (испанский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286016@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286017@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:ауд. БК2
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286018@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:ауд. БК2
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286019@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286020@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Методы работы журналиста-международ
+ ника
+LOCATION:ауд. 210A
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286021@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T082000Z
+DTEND:20261222T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286022@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T100000Z
+DTEND:20261222T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286023@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T050000Z
+DTEND:20261223T063000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:ауд. БК2
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286024@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:Выпуск учебных медиа
+LOCATION:ауд. БК2
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286025@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Зачёт: Выпуск учебных медиа
+LOCATION:ауд. БК2
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286026@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:Консультация: Методы работы журнали
+ ста-международника
+LOCATION:ауд. 210A
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286027@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:Экзамен: Методы работы журналиста-ме
+ ждународника
+LOCATION:ауд. 210A
+DESCRIPTION:Раскин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286028@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286029@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Зачёт: Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Мадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286030@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261226T050000Z
+DTEND:20261226T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286031@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261226T064000Z
+DTEND:20261226T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Харатян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286032@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261228T050000Z
+DTEND:20261228T063000Z
+SUMMARY:Зачёт: Иностранный язык (второй) (исп
+ анский)
+LOCATION:ауд. 210A
+DESCRIPTION:Акопян И.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286033@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:История международной журналистики
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Лысенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286034@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Медиасистема Армении
+LOCATION:ауд. 210A
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286035@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261229T082000Z
+DTEND:20261229T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g404-286036@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261229T100000Z
+DTEND:20261229T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Янгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/404.html
+END:VEVENT
+END:VCALENDAR

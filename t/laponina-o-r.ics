@@ -1,0 +1,706 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Лапонина О.Р. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t285029@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Технологии защиты информации
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283312@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T085000Z
+DTEND:20260904T102000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283313@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T103000Z
+DTEND:20260904T120000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285030@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T050000Z
+DTEND:20260905T063000Z
+SUMMARY:Технологии защиты информации
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285031@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T064000Z
+DTEND:20260905T081000Z
+SUMMARY:Технологии защиты информации
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283314@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T085000Z
+DTEND:20260905T102000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285032@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:Технологии защиты информации
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283317@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283318@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285033@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Технологии защиты информации
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285034@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Технологии защиты информации
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283322@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285038@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Технологии защиты информации
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283326@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283327@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285040@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Технологии защиты информации
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283330@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283331@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283332@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285044@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Технологии защиты информации
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285045@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:Технологии защиты информации
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283335@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T050000Z
+DTEND:20260912T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285046@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T064000Z
+DTEND:20260912T081000Z
+SUMMARY:Технологии защиты информации
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285047@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285048@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283370@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285070@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285071@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285084@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285085@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283405@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283409@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285096@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285097@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283423@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285108@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285109@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283438@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283442@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285122@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285123@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283457@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320044@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Спецсеминар
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285138@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02а)
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283470@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285152@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02а)
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283490@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285161@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02а)
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283508@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285179@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02а)
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285180@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн (группа подключается из ауд. 2
+ 02а)
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283532@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285187@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Спецсеминар
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285188@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285189@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283554@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285197@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285198@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283573@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285205@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Спецсеминар
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285206@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285207@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283593@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285215@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285216@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Технологии защиты информации
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283608@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:Зачёт: Уязвимости протоколов и систе
+ м прикладного уровня
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЛапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/laponina-o-r.html
+END:VEVENT
+END:VCALENDAR

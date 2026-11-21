@@ -1,0 +1,409 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Захарова Т.В. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t281495@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281496@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281506@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281507@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281518@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281519@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281530@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281531@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281546@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281547@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281569@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281570@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281572@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281573@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281584@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281585@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281595@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281596@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281605@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281606@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281620@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281621@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281637@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281638@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281654@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281655@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281675@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281676@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281687@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281688@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281699@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281700@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281709@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281710@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281721@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T050000Z
+DTEND:20261223T063000Z
+SUMMARY:Теория вероятностей и математическа
+ я статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281722@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:Зачёт: Теория вероятностей и математ
+ ическая статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nЗахарова Т.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zakharova-t-v.html
+END:VEVENT
+END:VCALENDAR

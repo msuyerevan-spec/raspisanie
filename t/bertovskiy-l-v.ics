@@ -1,0 +1,401 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Бертовский Л.В. — МГУ 
+ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t285225@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285226@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285227@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285228@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285229@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285230@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285232@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285233@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285234@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285235@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285237@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285238@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T085000Z
+DTEND:20260904T102000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285239@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T103000Z
+DTEND:20260904T120000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285240@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T050000Z
+DTEND:20260905T063000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285241@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T064000Z
+DTEND:20260905T081000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285242@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T085000Z
+DTEND:20260905T102000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285244@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285245@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285246@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285247@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285248@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285249@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285250@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285251@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285252@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285253@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285254@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285255@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285256@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285257@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285259@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285260@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285261@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T103000Z
+DTEND:20260911T120000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285262@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T050000Z
+DTEND:20260912T063000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285263@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T064000Z
+DTEND:20260912T081000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285264@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T085000Z
+DTEND:20260912T102000Z
+SUMMARY:Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285265@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T103000Z
+DTEND:20260912T120000Z
+SUMMARY:Консультация: Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285266@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Экзамен: Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285267@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Экзамен: Криминалистика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nБертовский Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bertovskiy-l-v.html
+END:VEVENT
+END:VCALENDAR

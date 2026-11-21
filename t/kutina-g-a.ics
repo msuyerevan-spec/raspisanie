@@ -1,0 +1,662 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Кутьина Г.А. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t314214@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T135000Z
+DTEND:20260902T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314219@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T135000Z
+DTEND:20260903T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314223@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T121000Z
+DTEND:20260904T134000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314224@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T135000Z
+DTEND:20260904T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314227@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T085000Z
+DTEND:20260905T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314228@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T103000Z
+DTEND:20260905T120000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314243@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T135000Z
+DTEND:20260909T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314250@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T135000Z
+DTEND:20260910T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314279@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T135000Z
+DTEND:20260916T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314287@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T135000Z
+DTEND:20260917T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314304@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T135000Z
+DTEND:20260923T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314305@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T153000Z
+DTEND:20260923T170000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314343@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T135000Z
+DTEND:20260930T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314349@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T135000Z
+DTEND:20261001T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314373@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T135000Z
+DTEND:20261007T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314379@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T135000Z
+DTEND:20261008T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314401@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T135000Z
+DTEND:20261014T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314417@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261017T085000Z
+DTEND:20261017T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314434@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T135000Z
+DTEND:20261021T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314449@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T085000Z
+DTEND:20261024T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314464@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T135000Z
+DTEND:20261028T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314471@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T135000Z
+DTEND:20261029T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279604@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279606@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279612@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279614@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279619@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279620@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279623@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279626@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279629@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279631@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279634@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279635@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T085000Z
+DTEND:20261114T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279637@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279639@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279645@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279647@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279652@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279655@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279658@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279661@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279663@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279665@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261120T085000Z
+DTEND:20261120T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279668@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261121T064000Z
+DTEND:20261121T081000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279670@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261121T085000Z
+DTEND:20261121T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t497744@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nочно\nдоба
+ влено 19.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t497746@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nочно\nдоба
+ влено 19.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279679@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279681@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279687@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279689@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279692@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279694@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279696@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Консультация: История отечественног
+ о государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279698@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Экзамен: История отечественного гос
+ ударства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279699@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Экзамен: История отечественного гос
+ ударства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279700@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:Экзамен: История отечественного гос
+ ударства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279701@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:Экзамен: История отечественного гос
+ ударства и права
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nКутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kutina-g-a.html
+END:VEVENT
+END:VCALENDAR

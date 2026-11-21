@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Образцова А.Ю. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t280211@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T104000Z
+DTEND:20260908T121000Z
+SUMMARY:Основы журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280212@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T122000Z
+DTEND:20260908T135000Z
+SUMMARY:Основы журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280225@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T104000Z
+DTEND:20260915T121000Z
+SUMMARY:Основы журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280226@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T122000Z
+DTEND:20260915T135000Z
+SUMMARY:Основы журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280241@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T104000Z
+DTEND:20260922T121000Z
+SUMMARY:Основы журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280242@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T122000Z
+DTEND:20260922T135000Z
+SUMMARY:Основы журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280258@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T104000Z
+DTEND:20260929T121000Z
+SUMMARY:Основы журналистики
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280264@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280265@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280266@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280268@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280269@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280270@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T103000Z
+DTEND:20261002T120000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280272@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T064000Z
+DTEND:20261003T081000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280273@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T085000Z
+DTEND:20261003T102000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280274@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T103000Z
+DTEND:20261003T120000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280275@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280276@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280279@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280280@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280283@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280284@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280285@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T121000Z
+DTEND:20261007T134000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280287@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280288@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280292@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280293@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280294@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Консультация: Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280295@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261010T050000Z
+DTEND:20261010T063000Z
+SUMMARY:Экзамен: Основы журналистики
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nОбразцова А.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/obraztsova-a-yu.html
+END:VEVENT
+END:VCALENDAR

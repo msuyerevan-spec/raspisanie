@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Кохановская Е.В. — МГУ
+  Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t280484@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280519@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280540@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280556@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280574@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280590@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280608@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280610@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280630@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280654@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280672@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280689@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280707@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280724@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280741@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280759@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280776@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nКохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kokhanovskaya-e-v.html
+END:VEVENT
+END:VCALENDAR

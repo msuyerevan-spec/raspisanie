@@ -1,0 +1,749 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Фомушкин В.Ю. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t286557@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286558@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284779@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284780@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286568@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286569@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284791@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T135000Z
+DTEND:20260923T152000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284793@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284794@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286582@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286583@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284806@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T135000Z
+DTEND:20260930T152000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284809@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284810@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T121000Z
+DTEND:20261001T134000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286602@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T121000Z
+DTEND:20261007T134000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286603@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T135000Z
+DTEND:20261007T152000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284823@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284824@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286625@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286626@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T135000Z
+DTEND:20261014T152000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286645@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286646@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284860@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T135000Z
+DTEND:20261021T152000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284862@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284863@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286661@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286662@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284879@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T135000Z
+DTEND:20261028T152000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284882@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284883@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T121000Z
+DTEND:20261029T134000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286676@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286677@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284897@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T135000Z
+DTEND:20261104T152000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284898@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284899@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286690@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286691@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284913@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T135000Z
+DTEND:20261111T152000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284916@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284917@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T121000Z
+DTEND:20261112T134000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286705@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286706@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284933@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284934@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284941@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284942@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286717@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286718@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284945@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t677427@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T083000Z
+DTEND:20261124T100000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nочно\nпере
+ несено\, изменено 20.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284948@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284949@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286723@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284953@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284954@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284957@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284958@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286729@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:ауд. 401
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286730@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T103000Z
+DTEND:20261127T120000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284961@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T050000Z
+DTEND:20261128T063000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284962@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:Государственное регулирование экон
+ омики
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284963@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:Консультация: Государственное регул
+ ирование экономики
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286733@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T103000Z
+DTEND:20261128T120000Z
+SUMMARY:Государственные и муниципальные фин
+ ансы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286734@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T121000Z
+DTEND:20261128T134000Z
+SUMMARY:Консультация: Государственные и мун
+ иципальные финансы
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286735@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Экзамен: Государственные и муниципа
+ льные финансы
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 407\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284965@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Экзамен: Государственное регулирова
+ ние экономики
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284966@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Экзамен: Государственное регулирова
+ ние экономики
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 307\nФомушкин В.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/fomushkin-v-yu.html
+END:VEVENT
+END:VCALENDAR

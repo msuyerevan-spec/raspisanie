@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Машкова Е.В. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t322350@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Защита публичных прав в международн
+ ых институтах
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМашкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mashkova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322351@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:Защита публичных прав в международн
+ ых институтах
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМашкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mashkova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322359@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Защита публичных прав в международн
+ ых институтах
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМашкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mashkova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322360@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Защита публичных прав в международн
+ ых институтах
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМашкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mashkova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322397@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Защита публичных прав в международн
+ ых институтах
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМашкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mashkova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322398@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Защита публичных прав в международн
+ ых институтах
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМашкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mashkova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322406@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Защита публичных прав в международн
+ ых институтах
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМашкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mashkova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322407@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Защита публичных прав в международн
+ ых институтах
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nМашкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mashkova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322417@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Зачёт: Защита публичных прав в между
+ народных институтах
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 202M\nМашкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/mashkova-e-v.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Белоусова А.М. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t322482@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 05)
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322494@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322511@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322526@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322537@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322548@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322559@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322569@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287668@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287679@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287689@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287699@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 03)
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287709@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Зачёт: Культурные разнообразия и кул
+ ьтурный плюрализм в документах ЮНЕСКО (н
+ а английском)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 05)
+DESCRIPTION:Группы: 203M\nБелоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/belousova-a-m.html
+END:VEVENT
+END:VCALENDAR

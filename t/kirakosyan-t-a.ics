@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Киракосян Т.А. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t287249@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 408
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287260@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 408
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287269@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287270@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287276@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287295@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287312@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322236@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322249@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287342@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287351@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T085000Z
+DTEND:20261107T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287352@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287360@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287380@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287387@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287401@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287418@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287423@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261228T050000Z
+DTEND:20261228T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 107M\nКиракосян Т.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kirakosyan-t-a.html
+END:VEVENT
+END:VCALENDAR

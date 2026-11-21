@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Дюжева О.А. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t283647@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283648@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283664@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283665@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283681@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283682@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283701@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283702@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T121000Z
+DTEND:20261007T134000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283728@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283749@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283750@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283770@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283771@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283794@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283795@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Семейное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283809@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Семейное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283834@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Семейное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t536823@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Семейное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nДюжева О.А.\nонлайн\nдоба
+ влено 19.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/dyuzheva-o-a.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Робустова В.В. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t282565@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T135000Z
+DTEND:20261104T152000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282602@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T085000Z
+DTEND:20261114T102000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282603@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T103000Z
+DTEND:20261114T120000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282624@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261121T085000Z
+DTEND:20261121T102000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282625@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261121T103000Z
+DTEND:20261121T120000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282642@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282643@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T103000Z
+DTEND:20261128T120000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282660@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T085000Z
+DTEND:20261205T102000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282661@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T103000Z
+DTEND:20261205T120000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282678@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261212T050000Z
+DTEND:20261212T063000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282681@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261212T103000Z
+DTEND:20261212T120000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282698@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261219T085000Z
+DTEND:20261219T102000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282699@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261219T103000Z
+DTEND:20261219T120000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282704@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T121000Z
+DTEND:20261221T134000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282720@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T085000Z
+DTEND:20261225T102000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282721@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T103000Z
+DTEND:20261225T120000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282722@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T121000Z
+DTEND:20261225T134000Z
+SUMMARY:Введение в теорию межкультурной ком
+ муникации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282725@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261226T103000Z
+DTEND:20261226T120000Z
+SUMMARY:Зачёт: Введение в теорию межкультурн
+ ой коммуникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nРобустова В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/robustova-v-v.html
+END:VEVENT
+END:VCALENDAR

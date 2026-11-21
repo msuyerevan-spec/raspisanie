@@ -1,0 +1,3578 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание 102-2 — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:g102-279301@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 108B
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314214@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T135000Z
+DTEND:20260902T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279304@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279306@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314219@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T135000Z
+DTEND:20260903T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279308@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T153000Z
+DTEND:20260903T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279309@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности
+LOCATION:ауд. БК1
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279310@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314223@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T121000Z
+DTEND:20260904T134000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314224@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T135000Z
+DTEND:20260904T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314225@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T050000Z
+DTEND:20260905T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314226@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T064000Z
+DTEND:20260905T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314227@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T085000Z
+DTEND:20260905T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314228@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T103000Z
+DTEND:20260905T120000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279317@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279318@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279320@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314233@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T135000Z
+DTEND:20260907T152000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279324@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279326@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279328@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279329@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279330@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК1
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314243@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T135000Z
+DTEND:20260909T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279332@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T153000Z
+DTEND:20260909T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279335@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279337@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314250@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T135000Z
+DTEND:20260910T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279339@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности
+LOCATION:ауд. 113
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279340@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:История Армении (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279343@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279344@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T103000Z
+DTEND:20260911T120000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314257@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T050000Z
+DTEND:20260912T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн (группа подключается из ауд. 1
+ 13)
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279346@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T064000Z
+DTEND:20260912T081000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279348@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279349@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279352@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314266@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T153000Z
+DTEND:20260914T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279355@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279357@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:История (России) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279359@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279360@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279362@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T121000Z
+DTEND:20260915T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279364@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314277@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн (группа подключается из ауд. 1
+ 13)
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314278@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн (группа подключается из ауд. 1
+ 13)
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314279@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T135000Z
+DTEND:20260916T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279369@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279372@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279374@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314287@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T135000Z
+DTEND:20260917T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279376@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:История Армении (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279378@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности
+LOCATION:ауд. БК1
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279379@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314293@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260919T064000Z
+DTEND:20260919T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279382@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279384@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279386@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279387@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314300@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн (группа подключается из ауд. 1
+ 13)
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279389@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК1
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279391@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314304@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T135000Z
+DTEND:20260923T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314305@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T153000Z
+DTEND:20260923T170000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279394@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279395@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279398@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279400@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:История (России) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279401@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК1
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279405@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260925T121000Z
+DTEND:20260925T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279406@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260926T050000Z
+DTEND:20260926T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн (группа подключается из ауд. 1
+ 13)
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279407@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260926T064000Z
+DTEND:20260926T081000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279410@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279411@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279413@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314328@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T153000Z
+DTEND:20260928T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279417@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:История Армении (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279419@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279422@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279423@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279424@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T121000Z
+DTEND:20260929T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279426@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 107
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314339@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн (группа подключается из ауд. 1
+ 13)
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279428@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК1
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279430@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314343@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T135000Z
+DTEND:20260930T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279432@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T153000Z
+DTEND:20260930T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279433@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279436@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314349@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T135000Z
+DTEND:20261001T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279438@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279439@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности
+LOCATION:ауд. БК1
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279441@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314354@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T050000Z
+DTEND:20261003T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279444@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279445@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279446@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279448@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279449@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T121000Z
+DTEND:20261005T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314362@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T153000Z
+DTEND:20261005T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279452@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:История Армении (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279453@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279455@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279456@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279457@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279458@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279459@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279460@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314373@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T135000Z
+DTEND:20261007T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279462@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T153000Z
+DTEND:20261007T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279465@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279466@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314379@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T135000Z
+DTEND:20261008T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279468@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279469@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279470@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279471@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279472@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261010T050000Z
+DTEND:20261010T063000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279473@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279474@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279475@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279476@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Зачёт: Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279477@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Зачёт: Введение в специальность
+LOCATION:ауд. 113
+DESCRIPTION:Давидян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279478@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279481@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279482@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279484@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 103
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279485@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314399@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн (группа подключается из ауд. 1
+ 13)
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279488@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314401@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T135000Z
+DTEND:20261014T152000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279490@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T153000Z
+DTEND:20261014T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279492@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:История (России) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279494@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279496@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279498@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:История (России) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279500@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК1
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279501@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279502@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314416@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261017T064000Z
+DTEND:20261017T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314417@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261017T085000Z
+DTEND:20261017T102000Z
+SUMMARY:История отечественного государства 
+ и права
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314418@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:История (России)
+LOCATION:онлайн
+DESCRIPTION:Шагиданова К.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314420@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:онлайн
+DESCRIPTION:Оганян М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314422@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T153000Z
+DTEND:20261019T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314423@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:История Армении (102-2)
+LOCATION:онлайн
+DESCRIPTION:Егян М.Е.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314426@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:онлайн
+DESCRIPTION:Согомонян М.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314427@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:онлайн
+DESCRIPTION:Оганян М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314429@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:онлайн
+DESCRIPTION:Согомонян М.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279518@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314431@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности
+LOCATION:онлайн
+DESCRIPTION:Тер-Варданян Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314433@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:онлайн
+DESCRIPTION:Оганян М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279523@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T153000Z
+DTEND:20261021T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314436@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:онлайн
+DESCRIPTION:Согомонян М.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314437@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:История (России)
+LOCATION:онлайн
+DESCRIPTION:Шагиданова К.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314438@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:онлайн
+DESCRIPTION:Согомонян М.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314440@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:онлайн
+DESCRIPTION:Оганян М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314441@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:История Армении
+LOCATION:онлайн
+DESCRIPTION:Егян М.Е.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314442@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности
+LOCATION:онлайн
+DESCRIPTION:Тер-Варданян Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314444@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:онлайн
+DESCRIPTION:Согомонян М.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314446@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T103000Z
+DTEND:20261023T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:онлайн
+DESCRIPTION:Оганян М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314448@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T064000Z
+DTEND:20261024T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314449@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T085000Z
+DTEND:20261024T102000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314450@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:История (России)
+LOCATION:онлайн
+DESCRIPTION:Шагиданова К.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314452@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:онлайн
+DESCRIPTION:Оганян М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314453@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T135000Z
+DTEND:20261026T152000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314456@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:История (России) (102-2)
+LOCATION:онлайн
+DESCRIPTION:Шагиданова К.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314458@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности
+LOCATION:онлайн
+DESCRIPTION:Тер-Варданян Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314459@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:История Армении (102-2)
+LOCATION:онлайн
+DESCRIPTION:Егян М.Е.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314461@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:онлайн
+DESCRIPTION:Согомонян М.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279550@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314463@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности
+LOCATION:онлайн
+DESCRIPTION:Тер-Варданян Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279553@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T153000Z
+DTEND:20261028T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314467@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:онлайн
+DESCRIPTION:Согомонян М.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314469@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:История (России)
+LOCATION:онлайн
+DESCRIPTION:Шагиданова К.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314470@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:онлайн
+DESCRIPTION:Оганян М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314471@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T135000Z
+DTEND:20261029T152000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:онлайн
+DESCRIPTION:Кутьина Г.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314472@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:История Армении
+LOCATION:онлайн
+DESCRIPTION:Егян М.Е.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314474@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:онлайн
+DESCRIPTION:Согомонян М.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314475@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности
+LOCATION:онлайн
+DESCRIPTION:Тер-Варданян Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-314477@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261031T064000Z
+DTEND:20261031T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:онлайн
+DESCRIPTION:Ващенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279566@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279567@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Ващенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279569@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Ващенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279571@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279573@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T121000Z
+DTEND:20261102T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279575@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:История Армении (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279576@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Ващенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279578@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Ващенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279581@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279582@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T121000Z
+DTEND:20261103T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279583@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Ващенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279586@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279588@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279589@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Ващенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279592@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279594@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279595@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279597@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК1
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279598@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:История государства и права зарубеж
+ ных стран (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Ващенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279600@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Консультация: История государства и 
+ права зарубежных стран
+LOCATION:ауд. 113
+DESCRIPTION:Ващенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279601@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T050000Z
+DTEND:20261107T063000Z
+SUMMARY:Экзамен: История государства и права
+  зарубежных стран
+LOCATION:ауд. 113
+DESCRIPTION:Ващенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279602@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T064000Z
+DTEND:20261107T081000Z
+SUMMARY:Экзамен: История государства и права
+  зарубежных стран
+LOCATION:ауд. 113
+DESCRIPTION:Ващенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279603@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279604@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279608@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279609@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T121000Z
+DTEND:20261109T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279611@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:История (России) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279612@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279615@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК1
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279617@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК1
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279620@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279624@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:История (России) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279625@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279627@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:История Армении (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279629@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279632@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК1
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279633@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T050000Z
+DTEND:20261114T063000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279634@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279638@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:История (России) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279639@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279642@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279643@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T121000Z
+DTEND:20261116T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279644@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279645@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279648@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279651@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 103
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279652@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279654@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК1
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279656@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279657@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК1
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279658@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279660@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279662@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279663@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279666@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261120T085000Z
+DTEND:20261120T102000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279667@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261121T050000Z
+DTEND:20261121T063000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279668@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261121T064000Z
+DTEND:20261121T081000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-497744@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно\nдобавлено 19.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279676@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279679@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279682@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279683@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-480312@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно\nдо
+ бавлено 19.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279685@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279687@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279689@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279690@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279692@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:История отечественного государства 
+ и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279695@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279696@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Консультация: История отечественног
+ о государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279697@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279698@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Экзамен: История отечественного гос
+ ударства и права
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279699@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Экзамен: История отечественного гос
+ ударства и права
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279700@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:Экзамен: История отечественного гос
+ ударства и права
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279701@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:Экзамен: История отечественного гос
+ ударства и права
+LOCATION:ауд. 113
+DESCRIPTION:Кутьина Г.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279702@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279703@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279704@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279706@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279707@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T121000Z
+DTEND:20261130T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279708@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279709@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279710@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279712@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК3
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279713@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279715@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279716@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279718@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279719@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279721@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279722@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279725@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279726@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279729@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК3
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279730@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T103000Z
+DTEND:20261204T120000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279731@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T121000Z
+DTEND:20261204T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279732@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T050000Z
+DTEND:20261205T063000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279733@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T064000Z
+DTEND:20261205T081000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279734@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T085000Z
+DTEND:20261205T102000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279735@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279736@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279737@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279740@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279741@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T121000Z
+DTEND:20261207T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279742@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279743@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279745@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279746@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279748@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279749@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279752@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК3
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279753@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279755@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279758@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279759@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279761@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279764@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279765@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279766@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T103000Z
+DTEND:20261211T120000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279767@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T121000Z
+DTEND:20261211T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279768@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261212T050000Z
+DTEND:20261212T063000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279770@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261212T064000Z
+DTEND:20261212T081000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-384468@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261212T085000Z
+DTEND:20261212T102000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно\nдобавлено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279772@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279773@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279774@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279777@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279778@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T121000Z
+DTEND:20261214T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279779@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279780@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Теория государства и права
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279782@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279783@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279786@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279787@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279790@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК3
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279792@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279794@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279795@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279798@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279800@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279801@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T121000Z
+DTEND:20261217T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279803@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:История (России) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279804@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК3
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279806@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279807@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T103000Z
+DTEND:20261218T120000Z
+SUMMARY:Теория государства и права (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279809@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261219T064000Z
+DTEND:20261219T081000Z
+SUMMARY:Зачёт: Теория государства и права (102-
+ 2)
+LOCATION:ауд. 113
+DESCRIPTION:Мачин И.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279810@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279815@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279816@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T121000Z
+DTEND:20261221T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279817@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:История Армении (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279819@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279822@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279825@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T050000Z
+DTEND:20261223T063000Z
+SUMMARY:Зачёт: Армянский язык (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Согомонян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279827@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Информационные технологии в юридиче
+ ской деятельности (102-2)
+LOCATION:ауд. БК3
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279829@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:Иностранный язык (английский) (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279830@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279831@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Русский язык и культура речи (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Багиян Ж.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279834@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Зачёт: Иностранный язык (английский) 
+ (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279836@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Зачёт: Иностранный язык (английский) 
+ (102-2)
+LOCATION:ауд. 113
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279837@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Зачёт: История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279838@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Зачёт: История Армении
+LOCATION:ауд. 113
+DESCRIPTION:Егян М.Е.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279839@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261228T050000Z
+DTEND:20261228T063000Z
+SUMMARY:Зачёт: История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279840@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261228T064000Z
+DTEND:20261228T081000Z
+SUMMARY:Зачёт: История (России)
+LOCATION:ауд. 113
+DESCRIPTION:Шагиданова К.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279841@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261228T121000Z
+DTEND:20261228T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g102-279843@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Зачёт: Информационные технологии в ю
+ ридической деятельности (102-2)
+LOCATION:ауд. БК3
+DESCRIPTION:Тер-Варданян Л.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/102.html?sg=2
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,499 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Руднев С.Г. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t285049@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285050@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285062@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285063@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285072@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285073@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285076@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285077@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285089@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285090@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285101@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285102@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285113@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285114@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285124@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285125@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285129@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279136@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285136@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285137@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279140@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279141@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285140@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285142@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279144@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279145@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279146@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279147@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285145@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285148@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279153@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279154@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279156@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T050000Z
+DTEND:20261107T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279157@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T064000Z
+DTEND:20261107T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285149@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T085000Z
+DTEND:20261107T102000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279158@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285150@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285151@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:Мат. модели в иммунологии и эпидемио
+ логии
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279162@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279163@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285153@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Зачёт: Мат. модели в иммунологии и эп
+ идемиологии
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nРуднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279176@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T050000Z
+DTEND:20261114T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279181@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279182@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279193@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261121T050000Z
+DTEND:20261121T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279194@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261121T064000Z
+DTEND:20261121T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nРуднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/rudnev-s-g.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,373 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Кочетов Е.В. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t283315@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T103000Z
+DTEND:20260905T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283316@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260905T121000Z
+DTEND:20260905T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283336@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T103000Z
+DTEND:20260912T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283337@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T121000Z
+DTEND:20260912T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283346@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T121000Z
+DTEND:20260916T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283347@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T135000Z
+DTEND:20260916T152000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283356@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260919T103000Z
+DTEND:20260919T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283357@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260919T121000Z
+DTEND:20260919T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283364@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T121000Z
+DTEND:20260923T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283365@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T135000Z
+DTEND:20260923T152000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283373@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260926T103000Z
+DTEND:20260926T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283374@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260926T121000Z
+DTEND:20260926T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283392@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T103000Z
+DTEND:20261003T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283393@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T121000Z
+DTEND:20261003T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283401@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283402@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T135000Z
+DTEND:20261006T152000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283412@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261010T103000Z
+DTEND:20261010T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283413@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261010T121000Z
+DTEND:20261010T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283417@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283418@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T135000Z
+DTEND:20261013T152000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283428@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261017T103000Z
+DTEND:20261017T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283429@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261017T121000Z
+DTEND:20261017T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283445@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T103000Z
+DTEND:20261024T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283446@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T121000Z
+DTEND:20261024T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283451@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T121000Z
+DTEND:20261028T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283452@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T135000Z
+DTEND:20261028T152000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283460@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261031T103000Z
+DTEND:20261031T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283461@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261031T121000Z
+DTEND:20261031T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283468@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T121000Z
+DTEND:20261104T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283469@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T135000Z
+DTEND:20261104T152000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283479@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T103000Z
+DTEND:20261107T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283480@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T121000Z
+DTEND:20261107T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283496@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T103000Z
+DTEND:20261114T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283497@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T121000Z
+DTEND:20261114T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283517@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261121T064000Z
+DTEND:20261121T081000Z
+SUMMARY:Численные методы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283518@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261121T085000Z
+DTEND:20261121T102000Z
+SUMMARY:Зачёт: Численные методы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 301\nКочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetov-e-v.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Сидорова А.А. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t284763@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284764@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284774@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284785@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284799@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284800@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284816@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284835@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284855@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284873@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284893@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284907@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284927@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284944@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284970@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284984@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284999@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Управление некоммерческими организ
+ ациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285011@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Зачёт: Управление некоммерческими о
+ рганизациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285012@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Зачёт: Управление некоммерческими о
+ рганизациями
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 307\nСидорова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sidorova-a-a.html
+END:VEVENT
+END:VCALENDAR

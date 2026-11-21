@@ -1,0 +1,2760 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание 106-2 — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:g106-280778@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280779@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280780@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280781@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280784@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280785@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 110
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280787@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:Безопасность жизнедеятельности (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280788@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280789@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280790@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280791@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280793@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280794@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280795@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280796@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280797@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280798@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280799@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280800@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280801@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280802@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280804@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280805@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280806@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280807@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T103000Z
+DTEND:20260911T120000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280808@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T050000Z
+DTEND:20260912T063000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280809@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T064000Z
+DTEND:20260912T081000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280811@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T085000Z
+DTEND:20260912T102000Z
+SUMMARY:История Армении (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280813@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280814@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280815@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280816@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280817@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T121000Z
+DTEND:20260914T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280818@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Зачёт: Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280819@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Зачёт: Экономическая география
+LOCATION:ауд. 110
+DESCRIPTION:Лобанов М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280820@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 110
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280822@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280823@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 110
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280826@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Безопасность жизнедеятельности (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280827@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280829@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T121000Z
+DTEND:20260917T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280830@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280831@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280832@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260919T050000Z
+DTEND:20260919T063000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280835@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260919T064000Z
+DTEND:20260919T081000Z
+SUMMARY:История Армении (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280836@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280837@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280840@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280841@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 110
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280843@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280844@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280846@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280848@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн (группа подключается из ауд. 
+ БК1)
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280849@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн (группа подключается из ауд. 
+ БК1)
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280850@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T121000Z
+DTEND:20260924T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280852@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280853@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260926T050000Z
+DTEND:20260926T063000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280856@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260926T064000Z
+DTEND:20260926T081000Z
+SUMMARY:История Армении (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280857@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280858@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280859@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280860@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280861@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 110
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280863@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280864@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T121000Z
+DTEND:20260930T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280866@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Безопасность жизнедеятельности (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280867@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280869@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280870@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280871@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T121000Z
+DTEND:20261002T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280872@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T050000Z
+DTEND:20261003T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280875@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T064000Z
+DTEND:20261003T081000Z
+SUMMARY:История Армении (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280876@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T103000Z
+DTEND:20261003T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280877@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T121000Z
+DTEND:20261003T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280878@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280881@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Безопасность жизнедеятельности (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280882@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280884@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 110
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280886@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280887@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280888@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 110
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280890@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315801@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315802@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T121000Z
+DTEND:20261007T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280893@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280894@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280897@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280900@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261010T050000Z
+DTEND:20261010T063000Z
+SUMMARY:История Армении (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280901@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280903@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280904@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280906@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280908@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280909@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280911@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280912@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280913@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 110
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280915@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн
+DESCRIPTION:Кочетовская О.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280916@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280917@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280919@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280921@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Безопасность жизнедеятельности (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280922@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Кочетовская О.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280923@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T121000Z
+DTEND:20261015T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280924@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280925@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280927@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261017T050000Z
+DTEND:20261017T063000Z
+SUMMARY:История Армении (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280928@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261017T064000Z
+DTEND:20261017T081000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315840@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:онлайн
+DESCRIPTION:Саакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315842@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:онлайн
+DESCRIPTION:Оганян М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315843@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:онлайн
+DESCRIPTION:Саакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315844@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:онлайн
+DESCRIPTION:Оганян М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315848@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:История Армении (106-2)
+LOCATION:онлайн
+DESCRIPTION:Мартиросян Н.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315849@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:онлайн
+DESCRIPTION:Амирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280941@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280942@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T121000Z
+DTEND:20261021T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315853@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:онлайн
+DESCRIPTION:Саакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315857@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:онлайн
+DESCRIPTION:Амирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315859@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T050000Z
+DTEND:20261024T063000Z
+SUMMARY:История Армении (106-2)
+LOCATION:онлайн
+DESCRIPTION:Мартиросян Н.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315860@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T064000Z
+DTEND:20261024T081000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:онлайн
+DESCRIPTION:Саакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315862@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Математический анализ
+LOCATION:онлайн
+DESCRIPTION:Саакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315863@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:онлайн
+DESCRIPTION:Сукиасян А.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315865@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:онлайн
+DESCRIPTION:Саакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315866@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:онлайн
+DESCRIPTION:Амирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315868@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:онлайн
+DESCRIPTION:Оганян М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315870@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:онлайн
+DESCRIPTION:Саакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315871@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:онлайн
+DESCRIPTION:Амирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280963@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T103000Z
+DTEND:20261028T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280964@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T121000Z
+DTEND:20261028T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315876@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Безопасность жизнедеятельности (106-2)
+LOCATION:онлайн
+DESCRIPTION:Сукиасян А.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315877@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:онлайн
+DESCRIPTION:Оганян М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280969@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн
+DESCRIPTION:Кочетовская О.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315880@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Математический анализ
+LOCATION:онлайн
+DESCRIPTION:Саакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315881@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:онлайн
+DESCRIPTION:Амирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315882@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261031T050000Z
+DTEND:20261031T063000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:онлайн
+DESCRIPTION:Саакян К.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-315885@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261031T064000Z
+DTEND:20261031T081000Z
+SUMMARY:История Армении (106-2)
+LOCATION:онлайн
+DESCRIPTION:Мартиросян Н.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280976@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280979@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280980@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280982@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 110
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280984@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T121000Z
+DTEND:20261103T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280985@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280986@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280987@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн
+DESCRIPTION:Кочетовская О.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280988@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280989@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T121000Z
+DTEND:20261104T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280990@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280991@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Безопасность жизнедеятельности (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280992@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T121000Z
+DTEND:20261105T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280994@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280997@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T050000Z
+DTEND:20261107T063000Z
+SUMMARY:История Армении (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-280998@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T064000Z
+DTEND:20261107T081000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281000@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281001@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281003@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281004@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281005@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281007@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T121000Z
+DTEND:20261110T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281008@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281010@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 110
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281012@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281013@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T121000Z
+DTEND:20261111T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281015@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:История Армении (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281016@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281019@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Введение в экономику (106-2)
+LOCATION:онлайн
+DESCRIPTION:Лобанова Е.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281021@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Введение в экономику (106-2)
+LOCATION:онлайн
+DESCRIPTION:Лобанова Е.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281023@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн
+DESCRIPTION:Кочетовская О.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281024@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T050000Z
+DTEND:20261114T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281026@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281028@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281029@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281030@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281032@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281034@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:История Армении (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281035@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 110
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281037@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281038@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T121000Z
+DTEND:20261118T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281039@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281040@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281043@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Введение в экономику (106-2)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Лобанова Е.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281045@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Введение в экономику (106-2)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Лобанова Е.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281046@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T121000Z
+DTEND:20261119T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281048@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-368301@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261120T085000Z
+DTEND:20261120T102000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Кочетовская О.С.\nонлайн\nдобавлено
+  18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-516563@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261120T111000Z
+DTEND:20261120T124000Z
+SUMMARY:Введение в экономику (106-2)
+LOCATION:онлайн
+DESCRIPTION:Лобанова Е.О.\nонлайн\nдобавлено 19.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281049@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261121T050000Z
+DTEND:20261121T063000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281052@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261121T064000Z
+DTEND:20261121T081000Z
+SUMMARY:История Армении (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281053@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281054@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281056@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281057@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281058@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-368313@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Кочетовская О.С.\nонлайн\nдобавлено
+  18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-481688@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Кочетовская О.С.\nонлайн\nдобавлено
+  19.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281061@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-368317@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Кочетовская О.С.\nонлайн\nдобавлено
+  18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281063@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Колпаков Д.В.\nонлайн\nизменено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281064@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T121000Z
+DTEND:20261125T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Колпаков Д.В.\nонлайн\nизменено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281065@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281067@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281070@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Введение в экономику (106-2)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Лобанова Е.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281072@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Введение в экономику (106-2)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Лобанова Е.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281073@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T121000Z
+DTEND:20261126T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281074@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281075@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-516596@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T111000Z
+DTEND:20261127T124000Z
+SUMMARY:Введение в экономику (106-2)
+LOCATION:онлайн
+DESCRIPTION:Лобанова Е.О.\nонлайн\nдобавлено 19.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281077@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T050000Z
+DTEND:20261128T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281080@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:История Армении (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281081@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281082@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Безопасность жизнедеятельности (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281083@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281084@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281088@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281090@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281091@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T121000Z
+DTEND:20261202T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281092@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281095@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Введение в экономику (106-2)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Лобанова Е.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281097@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Введение в экономику (106-2)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Лобанова Е.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281098@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T121000Z
+DTEND:20261203T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281099@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281100@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-516623@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T111000Z
+DTEND:20261204T124000Z
+SUMMARY:Введение в экономику (106-2)
+LOCATION:онлайн
+DESCRIPTION:Лобанова Е.О.\nонлайн\nдобавлено 19.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281102@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T050000Z
+DTEND:20261205T063000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281105@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T064000Z
+DTEND:20261205T081000Z
+SUMMARY:История Армении (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281106@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281107@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 110
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281108@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281109@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281111@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281112@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281114@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281115@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T121000Z
+DTEND:20261209T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281117@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281120@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Введение в экономику (106-2)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Лобанова Е.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281122@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Введение в экономику (106-2)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Лобанова Е.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281123@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T121000Z
+DTEND:20261210T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-516648@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T111000Z
+DTEND:20261211T124000Z
+SUMMARY:Введение в экономику (106-2)
+LOCATION:онлайн
+DESCRIPTION:Лобанова Е.О.\nонлайн\nдобавлено 19.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281126@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261212T050000Z
+DTEND:20261212T063000Z
+SUMMARY:История Армении (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281127@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261212T064000Z
+DTEND:20261212T081000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281129@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281130@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Безопасность жизнедеятельности (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281131@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281132@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281136@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281138@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281139@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T121000Z
+DTEND:20261216T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281141@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281147@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T121000Z
+DTEND:20261217T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281148@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281149@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281151@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261219T050000Z
+DTEND:20261219T063000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281154@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261219T064000Z
+DTEND:20261219T081000Z
+SUMMARY:История Армении (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281155@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:Зачёт: Безопасность жизнедеятельнос
+ ти
+LOCATION:ауд. 110
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281156@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Зачёт: Безопасность жизнедеятельнос
+ ти
+LOCATION:ауд. 110
+DESCRIPTION:Сукиасян А.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281157@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Линейная алгебра
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281158@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281160@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T050000Z
+DTEND:20261223T063000Z
+SUMMARY:Математический анализ
+LOCATION:ауд. 110
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281161@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281163@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281164@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T121000Z
+DTEND:20261223T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Колпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281165@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:Линейная алгебра (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281166@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Иностранный язык (английский язык) (10
+ 6-2)
+LOCATION:ауд. 105
+DESCRIPTION:Оганян М.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281172@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T121000Z
+DTEND:20261224T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281174@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281175@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T121000Z
+DTEND:20261225T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281176@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261226T050000Z
+DTEND:20261226T063000Z
+SUMMARY:Математический анализ (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Саакян К.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281178@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261226T064000Z
+DTEND:20261226T081000Z
+SUMMARY:История Армении (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281180@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261228T050000Z
+DTEND:20261228T063000Z
+SUMMARY:Зачёт: История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281181@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261228T064000Z
+DTEND:20261228T081000Z
+SUMMARY:Зачёт: История Армении
+LOCATION:ауд. 110
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+BEGIN:VEVENT
+UID:g106-281182@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:Зачёт: Армянский язык (106-2)
+LOCATION:ауд. 105
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/106.html?sg=2
+END:VEVENT
+END:VCALENDAR

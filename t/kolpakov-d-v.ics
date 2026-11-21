@@ -1,0 +1,297 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Колпаков Д.В. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t280848@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн (группа подключается из ауд. 
+ БК1)
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280849@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн (группа подключается из ауд. 
+ БК1)
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280876@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T103000Z
+DTEND:20261003T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280877@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T121000Z
+DTEND:20261003T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315801@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315802@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T121000Z
+DTEND:20261007T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280916@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280917@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280941@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280942@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T121000Z
+DTEND:20261021T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280963@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T103000Z
+DTEND:20261028T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280964@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T121000Z
+DTEND:20261028T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280988@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280989@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T121000Z
+DTEND:20261104T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281012@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281013@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T121000Z
+DTEND:20261111T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281037@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281038@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T121000Z
+DTEND:20261118T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281063@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн\nиз
+ менено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281064@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T121000Z
+DTEND:20261125T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн\nиз
+ менено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281090@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281091@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T121000Z
+DTEND:20261202T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281114@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281115@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T121000Z
+DTEND:20261209T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281138@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281139@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T121000Z
+DTEND:20261216T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281163@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281164@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T121000Z
+DTEND:20261223T134000Z
+SUMMARY:Экономическая информатика
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКолпаков Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kolpakov-d-v.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,731 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Мадоян А.С. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t285025@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285766@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 406
+DESCRIPTION:Группы: 404\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286038@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287253@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 408
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285039@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286046@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285787@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287263@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285053@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285805@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286067@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287271@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287281@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285832@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286108@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285086@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285843@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285091@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285848@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286131@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287305@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287313@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285103@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285861@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286153@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322240@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320026@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nМадоян А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320787@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nМадоян А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321079@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nМадоян А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320031@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nМадоян А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322243@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T064000Z
+DTEND:20261024T081000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322247@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320040@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nМадоян А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320805@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nМадоян А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321094@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nМадоян А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322250@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287347@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286194@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285143@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285912@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286197@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287350@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T064000Z
+DTEND:20261107T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286204@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285155@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285928@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287355@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287364@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285169@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285944@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286227@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285958@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287374@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285183@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286239@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285974@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285192@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285976@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286252@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287386@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T064000Z
+DTEND:20261205T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285201@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285991@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286265@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285210@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287411@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286277@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285219@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T050000Z
+DTEND:20261223T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285220@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286028@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286289@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286029@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Зачёт: Философия
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286292@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287422@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261226T050000Z
+DTEND:20261226T063000Z
+SUMMARY:Зачёт: Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 107M\nМадоян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/madoyan-a-s.html
+END:VEVENT
+END:VCALENDAR

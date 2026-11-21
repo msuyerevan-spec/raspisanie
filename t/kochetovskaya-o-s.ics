@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Кочетовская О.С. — МГУ
+  Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t280915@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКочетовская О.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetovskaya-o-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280922@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Группы: 106\nКочетовская О.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetovskaya-o-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280969@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКочетовская О.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetovskaya-o-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280987@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКочетовская О.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetovskaya-o-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281023@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн
+DESCRIPTION:Группы: 106\nКочетовская О.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetovskaya-o-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t368301@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261120T085000Z
+DTEND:20261120T102000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Группы: 106\nКочетовская О.С.\nонлайн\
+ nдобавлено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetovskaya-o-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t368313@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Группы: 106\nКочетовская О.С.\nонлайн\
+ nдобавлено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetovskaya-o-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t481688@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Группы: 106\nКочетовская О.С.\nонлайн\
+ nдобавлено 19.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetovskaya-o-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t368317@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:Введение в экономику
+LOCATION:онлайн (группа подключается из ауд. 1
+ 10)
+DESCRIPTION:Группы: 106\nКочетовская О.С.\nонлайн\
+ nдобавлено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kochetovskaya-o-s.html
+END:VEVENT
+END:VCALENDAR

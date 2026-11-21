@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Кучер А.Н. — МГУ Ерева
+ н
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t285363@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285364@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285369@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285370@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285380@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285381@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285385@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285386@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285400@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285405@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285406@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285418@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285420@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285421@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285475@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285484@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285485@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Международное частное право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Группы: 402\nКучер А.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kucher-a-n.html
+END:VEVENT
+END:VCALENDAR

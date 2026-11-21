@@ -1,0 +1,431 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Егорова Ю.В. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t282418@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T050000Z
+DTEND:20260912T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286055@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T103000Z
+DTEND:20260912T120000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282460@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260926T050000Z
+DTEND:20260926T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286094@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260926T103000Z
+DTEND:20260926T120000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282476@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T050000Z
+DTEND:20261003T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286126@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:онлайн (группа подключается из ауд. 2
+ 07)
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282516@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286160@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286172@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T050000Z
+DTEND:20261024T063000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282533@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T064000Z
+DTEND:20261024T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282549@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261031T064000Z
+DTEND:20261031T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282584@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286202@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286203@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286205@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286206@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282591@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282592@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282593@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286209@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286210@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282598@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282599@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282601@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286214@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T085000Z
+DTEND:20261114T102000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286215@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T103000Z
+DTEND:20261114T120000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286217@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282606@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282607@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286219@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282611@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282612@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282613@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286222@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286223@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Функциональная стилистика и литерат
+ урное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282616@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Консультация: Практический курс 1-го 
+ иностранного языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286225@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Зачёт: Функциональная стилистика и л
+ итературное редактирование
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282618@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Экзамен: Практический курс 1-го иност
+ ранного языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЕгорова Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egorova-yu-v.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Хачанова М.О. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t322485@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322498@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322514@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322530@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322541@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322551@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322562@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322572@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287671@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Зачёт: Введение в анализ внешней пол
+ итики (на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nХачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khachanova-m-o.html
+END:VEVENT
+END:VCALENDAR

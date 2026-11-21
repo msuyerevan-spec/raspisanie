@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Ежукова О.А. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t283634@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T064000Z
+DTEND:20260912T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283635@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260912T085000Z
+DTEND:20260912T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283655@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260919T064000Z
+DTEND:20260919T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283656@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260919T085000Z
+DTEND:20260919T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283670@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260926T064000Z
+DTEND:20260926T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283671@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260926T085000Z
+DTEND:20260926T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283689@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261003T064000Z
+DTEND:20261003T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283714@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283715@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261010T085000Z
+DTEND:20261010T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283736@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261017T064000Z
+DTEND:20261017T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283737@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261017T085000Z
+DTEND:20261017T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283757@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T064000Z
+DTEND:20261024T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283758@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261024T085000Z
+DTEND:20261024T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283779@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261031T064000Z
+DTEND:20261031T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283780@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261031T085000Z
+DTEND:20261031T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283821@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261114T121000Z
+DTEND:20261114T134000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283864@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261128T121000Z
+DTEND:20261128T134000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283882@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T064000Z
+DTEND:20261205T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283883@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261205T085000Z
+DTEND:20261205T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283898@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261212T064000Z
+DTEND:20261212T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283899@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261212T085000Z
+DTEND:20261212T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283918@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261219T064000Z
+DTEND:20261219T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283919@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261219T085000Z
+DTEND:20261219T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283933@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T135000Z
+DTEND:20261225T152000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283934@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T153000Z
+DTEND:20261225T170000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283935@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261226T064000Z
+DTEND:20261226T081000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283936@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261226T085000Z
+DTEND:20261226T102000Z
+SUMMARY:Муниципальное право России
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nЕжукова О.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ezhukova-o-a.html
+END:VEVENT
+END:VCALENDAR

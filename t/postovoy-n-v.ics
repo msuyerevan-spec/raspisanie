@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Постовой Н.В. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t283125@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283126@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283127@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T083500Z
+DTEND:20261027T100500Z
+SUMMARY:Гражданское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283157@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283158@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283160@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T083500Z
+DTEND:20261110T100500Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283173@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283174@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283192@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283193@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283195@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T083500Z
+DTEND:20261124T100500Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283211@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283212@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283232@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283233@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283257@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283258@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283280@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T083500Z
+DTEND:20261222T100500Z
+SUMMARY:Гражданское право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nПостовой Н.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/postovoy-n-v.html
+END:VEVENT
+END:VCALENDAR

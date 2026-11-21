@@ -1,0 +1,3279 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание 105 — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:g105-280472@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280473@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Степанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280474@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Гарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280475@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280476@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280477@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280478@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:ауд. 111
+DESCRIPTION:Газарова Д.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280479@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Карапетян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280480@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280481@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280482@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280483@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280484@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280485@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280486@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Степанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280487@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Гарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280488@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280489@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280490@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280491@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280492@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:ауд. 111
+DESCRIPTION:Газарова Д.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280493@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Карапетян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280494@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280495@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280496@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280497@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280498@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280499@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260914T121000Z
+DTEND:20260914T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280500@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280501@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280502@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280503@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280504@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Степанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280505@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280506@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280507@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Гарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280508@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280509@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280510@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280511@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:ауд. 111
+DESCRIPTION:Газарова Д.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280512@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280513@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280514@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260918T103000Z
+DTEND:20260918T120000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Карапетян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280515@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260919T064000Z
+DTEND:20260919T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280516@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260919T085000Z
+DTEND:20260919T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280517@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260919T103000Z
+DTEND:20260919T120000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280518@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280519@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280520@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280521@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280522@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T121000Z
+DTEND:20260922T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280523@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280524@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Степанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280525@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280526@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280527@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280528@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280529@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280530@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280531@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:ауд. 111
+DESCRIPTION:Газарова Д.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280532@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Карапетян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280533@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Игнатов К.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280534@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280535@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280536@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280537@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280538@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260928T121000Z
+DTEND:20260928T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280539@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280540@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280541@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280542@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Степанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280543@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Гарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280544@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280545@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T121000Z
+DTEND:20260930T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280546@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Гарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280547@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280548@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280549@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:ауд. 111
+DESCRIPTION:Газарова Д.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280550@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Карапетян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280551@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280552@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280553@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280554@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280555@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280556@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280557@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280558@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280559@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Степанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280560@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Гарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280561@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Гарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280562@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280563@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280564@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280565@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261008T121000Z
+DTEND:20261008T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280566@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Карапетян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280567@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280568@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280569@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280570@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Карапетян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280571@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280572@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280573@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280574@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280575@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280576@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Степанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280577@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280578@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Гарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280579@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280580@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280581@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280582@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261015T121000Z
+DTEND:20261015T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280583@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:ауд. 111
+DESCRIPTION:Газарова Д.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280584@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280585@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315496@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Торунян Н.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315497@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Авакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315498@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:онлайн
+DESCRIPTION:Оганесян К.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280589@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280590@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315501@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Основы языкознания
+LOCATION:онлайн
+DESCRIPTION:Абрамян К.Ш.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315502@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Авакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315503@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Гурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315504@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:История Армении
+LOCATION:онлайн
+DESCRIPTION:Степанянц С.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315505@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Гарибян Н.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280596@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315507@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Торунян Н.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315508@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:онлайн
+DESCRIPTION:Манукян И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315509@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:онлайн
+DESCRIPTION:Газарова Д.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315510@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн
+DESCRIPTION:Авакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315511@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:онлайн
+DESCRIPTION:Газарова Д.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315512@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Карапетян М.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280603@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315514@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261023T103000Z
+DTEND:20261023T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн
+DESCRIPTION:Авакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315515@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Торунян Н.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315516@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:онлайн
+DESCRIPTION:Манукян И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315517@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:История Армении
+LOCATION:онлайн
+DESCRIPTION:Степанянц С.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280608@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280609@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280610@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315521@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Основы языкознания
+LOCATION:онлайн
+DESCRIPTION:Абрамян К.Ш.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315522@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Авакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315523@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Гарибян Н.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315524@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:История Армении
+LOCATION:онлайн
+DESCRIPTION:Степанянц С.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315525@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Гурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315526@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T103000Z
+DTEND:20261028T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:онлайн
+DESCRIPTION:Оганесян К.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315527@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Торунян Н.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315528@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Карапетян М.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315529@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Авакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315530@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн
+DESCRIPTION:Авакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315531@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:онлайн
+DESCRIPTION:Газарова Д.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315532@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:онлайн
+DESCRIPTION:Газарова Д.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280623@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн
+DESCRIPTION:Чумакова А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-315534@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн
+DESCRIPTION:Авакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280625@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280626@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280627@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Карапетян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280628@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280629@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280630@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280631@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280632@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280633@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280634@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280635@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280636@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280637@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280638@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280639@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280640@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280641@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T121000Z
+DTEND:20261105T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280642@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:ауд. 111
+DESCRIPTION:Газарова Д.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280643@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280644@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280645@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Консультация: Практический курс 2-ог
+ о ин. языка (англ)
+LOCATION:ауд. 111
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280646@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T050000Z
+DTEND:20261107T063000Z
+SUMMARY:Экзамен: Практический курс 2-ого ин. я
+ зыка (англ)
+LOCATION:ауд. 111
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280647@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261107T064000Z
+DTEND:20261107T081000Z
+SUMMARY:Экзамен: Практический курс 2-ого ин. я
+ зыка (англ)
+LOCATION:ауд. 111
+DESCRIPTION:Чумакова А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280648@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280649@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280650@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280651@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280652@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261109T121000Z
+DTEND:20261109T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280653@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280654@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280655@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280656@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280657@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Гарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280658@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Степанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280659@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280660@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280661@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Карапетян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280662@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280663@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261112T121000Z
+DTEND:20261112T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280664@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:ауд. 111
+DESCRIPTION:Газарова Д.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280665@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Карапетян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280666@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280667@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280668@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280669@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280670@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261116T121000Z
+DTEND:20261116T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280671@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280672@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280673@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280674@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Степанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280675@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280676@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Гарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280677@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280678@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280679@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280680@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280681@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:ауд. 111
+DESCRIPTION:Газарова Д.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280682@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Карапетян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280683@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-498754@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно\nдобавлено 19.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280685@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280686@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280687@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261123T121000Z
+DTEND:20261123T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280688@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280689@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280690@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280692@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Гарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280693@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Степанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280694@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280695@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280696@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-498766@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно\nдобавлено 19.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280697@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280698@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T121000Z
+DTEND:20261126T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280699@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:ауд. 111
+DESCRIPTION:Газарова Д.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280700@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Карапетян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280701@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280702@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280703@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280704@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280705@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261130T121000Z
+DTEND:20261130T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280706@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280707@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280708@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280709@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280710@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Гарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280711@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Степанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280712@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280713@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280714@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Гарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280715@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280716@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:ауд. 111
+DESCRIPTION:Газарова Д.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280717@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Карапетян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280718@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280719@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280720@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280721@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280722@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261207T121000Z
+DTEND:20261207T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280723@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280724@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280725@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280726@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280727@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Гарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280728@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Степанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280729@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280730@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280731@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Гарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280732@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280733@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:ауд. 111
+DESCRIPTION:Газарова Д.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280734@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Карапетян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280735@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280736@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280737@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280738@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Теория и практика речевого общения (1
+ -ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280739@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261214T121000Z
+DTEND:20261214T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280740@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280741@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280742@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280743@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280744@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Гарибян Н.О.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280745@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Степанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280746@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Игнатов К.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280747@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280748@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280749@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280750@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Зачёт: Русский язык и культура речи
+LOCATION:ауд. 111
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280751@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Язык и межкультурная коммуникация
+LOCATION:ауд. 111
+DESCRIPTION:Газарова Д.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280752@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Карапетян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280753@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280754@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280755@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280756@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Зачёт: Теория и практика речевого об
+ щения (1-ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280757@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T121000Z
+DTEND:20261221T134000Z
+SUMMARY:Зачёт: Теория и практика речевого об
+ щения (1-ый ин.язык) (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280758@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280759@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280760@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280761@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T121000Z
+DTEND:20261222T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280762@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T050000Z
+DTEND:20261223T063000Z
+SUMMARY:Практический курс 2-ого ин. языка (анг
+ л)
+LOCATION:ауд. 111
+DESCRIPTION:Карапетян М.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280763@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Степанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280764@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280765@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:Зачёт: Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280766@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Зачёт: Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Торунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280767@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Авакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280768@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Зачёт: Язык и межкультурная коммуник
+ ация
+LOCATION:ауд. 111
+DESCRIPTION:Газарова Д.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280769@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Зачёт: Язык и межкультурная коммуник
+ ация
+LOCATION:ауд. 111
+DESCRIPTION:Газарова Д.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280770@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261226T050000Z
+DTEND:20261226T063000Z
+SUMMARY:Зачёт: Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280771@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261226T064000Z
+DTEND:20261226T081000Z
+SUMMARY:Зачёт: Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280772@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261228T064000Z
+DTEND:20261228T081000Z
+SUMMARY:Зачёт: История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Степанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280773@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:Зачёт: История Армении
+LOCATION:ауд. 111
+DESCRIPTION:Степанянц С.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280774@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261228T121000Z
+DTEND:20261228T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280775@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Анастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280776@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Кохановская Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g105-280777@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Основы языкознания
+LOCATION:ауд. 111
+DESCRIPTION:Абрамян К.Ш.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/105.html
+END:VEVENT
+END:VCALENDAR

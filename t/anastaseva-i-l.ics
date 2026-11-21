@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Анастасьева И.Л. — МГУ
+  Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t280483@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280500@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280518@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280539@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280544@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280573@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280589@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280609@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280653@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280671@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280678@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280679@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280688@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280706@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280723@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280740@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280758@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280775@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 11)
+DESCRIPTION:Группы: 105\nАнастасьева И.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/anastaseva-i-l.html
+END:VEVENT
+END:VCALENDAR

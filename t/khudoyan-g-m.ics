@@ -1,0 +1,396 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Худоян Г.М. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t287425@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Особенности конституционного права 
+ Республики Армения
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285231@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260902T103000Z
+DTEND:20260902T120000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287437@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Особенности конституционного права 
+ Республики Армения
+LOCATION:ауд. 409
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285268@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287439@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Особенности конституционного права 
+ Республики Армения
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285271@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260919T050000Z
+DTEND:20260919T063000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285275@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285277@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287458@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Особенности конституционного права 
+ Республики Армения
+LOCATION:ауд. 409
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287459@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Особенности конституционного права 
+ Республики Армения
+LOCATION:ауд. 409
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287471@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Особенности конституционного права 
+ Республики Армения
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285324@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285330@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320249@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320252@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322405@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Особенности конституционного права 
+ Республики Армения
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320262@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322409@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Особенности конституционного права 
+ Республики Армения
+LOCATION:онлайн
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285365@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285366@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285368@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287508@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Особенности конституционного права 
+ Республики Армения
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285384@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287515@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Особенности конституционного права 
+ Республики Армения
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287516@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Особенности конституционного права 
+ Республики Армения
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287517@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Особенности конституционного права 
+ Республики Армения
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285391@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285404@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287519@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Особенности конституционного права 
+ Республики Армения
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287527@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Особенности конституционного права 
+ Республики Армения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287528@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Особенности конституционного права 
+ Республики Армения
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285464@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Конституционное правосудие Республ
+ ики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285482@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Зачёт: Конституционное правосудие Р
+ еспублики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285483@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Зачёт: Конституционное правосудие Р
+ еспублики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287532@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Зачёт: Особенности конституционного
+  права Республики Армения
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202M\nХудоян Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/khudoyan-g-m.html
+END:VEVENT
+END:VCALENDAR

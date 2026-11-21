@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Азатова А.В. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t322464@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260915T143000Z
+DTEND:20260915T160000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nАзатова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/azatova-a-v.html
+END:VEVENT
+END:VCALENDAR

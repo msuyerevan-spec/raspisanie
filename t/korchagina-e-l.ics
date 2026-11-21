@@ -1,0 +1,503 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Корчагина Е.Л. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t284254@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284255@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282416@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282429@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282430@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284282@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282451@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284297@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282471@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284318@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282520@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284360@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284363@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284364@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282526@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284377@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282540@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284380@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284381@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284391@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284399@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284411@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284412@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284425@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284426@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282617@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284443@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282629@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282634@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284455@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284456@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282654@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282655@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284470@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284471@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282672@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282673@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284483@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284484@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284494@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282701@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282707@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Введение в специальность
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282708@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Зачёт: Введение в специальность
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284504@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Практикум по методике преподавания 
+ иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284505@raspisanie.msu-yerevan
+DTSTAMP:20261121T053153Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Зачёт: Практикум по методике препода
+ вания иностранных языков
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nКорчагина Е.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/korchagina-e-l.html
+END:VEVENT
+END:VCALENDAR
