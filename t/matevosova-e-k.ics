@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Матевосова Е.К. — МГУ 
+ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t283979@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283994@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284035@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284036@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284040@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284051@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284071@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284074@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284121@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284122@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284123@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284161@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284168@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284169@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284203@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284217@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284218@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t860213@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Основы международной (глобальной) бе
+ зопасности
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Группы: 303\nМатевосова Е.К.\nонлайн\n
+ добавлено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/matevosova-e-k.html
+END:VEVENT
+END:VCALENDAR

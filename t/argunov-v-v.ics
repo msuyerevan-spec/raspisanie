@@ -1,0 +1,360 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Аргунов В.В. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t283622@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283623@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283628@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T121000Z
+DTEND:20260909T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283629@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T135000Z
+DTEND:20260909T152000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283642@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T121000Z
+DTEND:20260915T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283677@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283678@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283696@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283697@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283720@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283721@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283726@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283727@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283754@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283755@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283776@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283777@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283778@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283786@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283787@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283791@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283792@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T121000Z
+DTEND:20261104T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283874@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283875@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T121000Z
+DTEND:20261202T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283889@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283890@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T121000Z
+DTEND:20261208T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283906@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283907@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T121000Z
+DTEND:20261215T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283909@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283910@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T121000Z
+DTEND:20261216T134000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283923@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн\nизм
+ енено 26.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283924@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Гражданский процесс
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн\nизм
+ енено 26.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283927@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:Зачёт: Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283928@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T121000Z
+DTEND:20261223T134000Z
+SUMMARY:Зачёт: Гражданский процесс
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nАргунов В.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/argunov-v-v.html
+END:VEVENT
+END:VCALENDAR

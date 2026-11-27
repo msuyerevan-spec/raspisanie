@@ -1,0 +1,840 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Евстафьева Ю.В. — МГУ 
+ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t287247@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T103000Z
+DTEND:20260904T120000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287248@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T121000Z
+DTEND:20260904T134000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287258@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260912T103000Z
+DTEND:20260912T120000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287259@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260912T121000Z
+DTEND:20260912T134000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287279@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287280@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T121000Z
+DTEND:20260929T134000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283059@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T121000Z
+DTEND:20260930T134000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283060@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T135000Z
+DTEND:20260930T152000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287286@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287287@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T121000Z
+DTEND:20261001T134000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283067@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261003T121000Z
+DTEND:20261003T134000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283068@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261003T135000Z
+DTEND:20261003T152000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287296@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287297@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T135000Z
+DTEND:20261006T152000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283091@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283092@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283095@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T115000Z
+DTEND:20261014T132000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283096@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T133000Z
+DTEND:20261014T150000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283099@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283100@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T121000Z
+DTEND:20261015T134000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287322@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T121000Z
+DTEND:20261016T134000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287323@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T135000Z
+DTEND:20261016T152000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287328@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287329@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283111@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T121000Z
+DTEND:20261021T134000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283112@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T135000Z
+DTEND:20261021T152000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283115@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283116@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T121000Z
+DTEND:20261022T134000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283120@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T121000Z
+DTEND:20261023T134000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283121@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T135000Z
+DTEND:20261023T152000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287334@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T121000Z
+DTEND:20261024T134000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287335@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T135000Z
+DTEND:20261024T152000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283130@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T103000Z
+DTEND:20261028T120000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283131@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T121000Z
+DTEND:20261028T134000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283132@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283133@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T121000Z
+DTEND:20261029T134000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283134@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283135@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283138@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T130000Z
+DTEND:20261031T143000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283139@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T144000Z
+DTEND:20261031T161000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287345@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Управление государственными финанс
+ ами
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287346@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T121000Z
+DTEND:20261103T134000Z
+SUMMARY:Зачёт: Управление государственными 
+ финансами
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283190@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261121T130000Z
+DTEND:20261121T143000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283191@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261121T144000Z
+DTEND:20261121T161000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283196@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283199@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T115000Z
+DTEND:20261125T132000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283200@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T133000Z
+DTEND:20261125T150000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t828337@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T121000Z
+DTEND:20261126T134000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн\n
+ добавлено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t1231682@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T135000Z
+DTEND:20261126T152000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн\n
+ добавлено 26.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t828346@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн\n
+ добавлено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t828349@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн\n
+ добавлено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t828350@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн\n
+ добавлено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287390@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283235@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283236@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283239@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287393@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287394@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287395@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283244@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283245@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287396@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283248@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283249@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Основы государственного и муниципал
+ ьного управления
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283250@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T103000Z
+DTEND:20261211T120000Z
+SUMMARY:Консультация: Основы государственно
+ го и муниципального управления
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283251@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261212T050000Z
+DTEND:20261212T063000Z
+SUMMARY:Экзамен: Основы государственного и м
+ униципального управления
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283252@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261212T064000Z
+DTEND:20261212T081000Z
+SUMMARY:Экзамен: Основы государственного и м
+ униципального управления
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЕвстафьева Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t828373@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T121000Z
+DTEND:20261215T134000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн\n
+ добавлено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t828374@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T135000Z
+DTEND:20261215T152000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн\n
+ добавлено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t828384@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T121000Z
+DTEND:20261218T134000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн\n
+ добавлено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t828385@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T135000Z
+DTEND:20261218T152000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн\n
+ добавлено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t828387@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261219T130000Z
+DTEND:20261219T143000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн\n
+ добавлено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t828388@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261219T144000Z
+DTEND:20261219T161000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн\n
+ добавлено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t828392@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Макроэкономическая политика
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн\n
+ добавлено 26.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t828393@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T121000Z
+DTEND:20261222T134000Z
+SUMMARY:Зачёт: Макроэкономическая политика
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 107M\nЕвстафьева Ю.В.\nонлайн\n
+ добавлено 26.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/evstafeva-yu-v.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Починкин Д.В. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t286320@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T121000Z
+DTEND:20260925T134000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286321@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T135000Z
+DTEND:20260925T152000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286329@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T103000Z
+DTEND:20261002T120000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286330@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T121000Z
+DTEND:20261002T134000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286351@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T121000Z
+DTEND:20261009T134000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286352@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T135000Z
+DTEND:20261009T152000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286368@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T121000Z
+DTEND:20261016T134000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286369@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T135000Z
+DTEND:20261016T152000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286389@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T121000Z
+DTEND:20261023T134000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286390@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T135000Z
+DTEND:20261023T152000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286409@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T121000Z
+DTEND:20261030T134000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286410@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T135000Z
+DTEND:20261030T152000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286429@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T121000Z
+DTEND:20261106T134000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286430@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T135000Z
+DTEND:20261106T152000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286450@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286469@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T121000Z
+DTEND:20261120T134000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286470@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T135000Z
+DTEND:20261120T152000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286483@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T121000Z
+DTEND:20261127T134000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286484@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T135000Z
+DTEND:20261127T152000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286495@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T121000Z
+DTEND:20261204T134000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286496@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T135000Z
+DTEND:20261204T152000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286516@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T121000Z
+DTEND:20261211T134000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286517@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T135000Z
+DTEND:20261211T152000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286527@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T121000Z
+DTEND:20261218T134000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286528@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T135000Z
+DTEND:20261218T152000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286536@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T121000Z
+DTEND:20261225T134000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286537@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T135000Z
+DTEND:20261225T152000Z
+SUMMARY:Экономика труда
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nПочинкин Д.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pochinkin-d-v.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,3415 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание 203 — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:g203-282071@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260901T103000Z
+DTEND:20260901T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282072@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282073@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282074@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T103000Z
+DTEND:20260902T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282075@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282076@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282077@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282078@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282079@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T085000Z
+DTEND:20260904T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282080@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282081@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282082@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282083@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282084@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282085@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282086@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282087@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282088@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282089@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317000@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T135000Z
+DTEND:20260909T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317001@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T153000Z
+DTEND:20260909T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282092@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282093@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282094@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282095@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282096@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282097@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282098@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282099@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282100@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282101@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282102@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282103@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T121000Z
+DTEND:20260915T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282104@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282105@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282106@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282107@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282109@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282110@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282111@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282112@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282113@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282114@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260919T090000Z
+DTEND:20260919T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282115@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260919T104000Z
+DTEND:20260919T121000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282116@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282117@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282118@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317029@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T135000Z
+DTEND:20260922T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317030@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T153000Z
+DTEND:20260922T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282121@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282122@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282123@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282124@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282125@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282126@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282127@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T121000Z
+DTEND:20260924T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282128@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282129@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282130@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282131@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260926T064000Z
+DTEND:20260926T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282132@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260926T085000Z
+DTEND:20260926T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282133@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282134@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282135@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282136@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282137@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T121000Z
+DTEND:20260928T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282138@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282139@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282140@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282141@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282142@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282143@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282144@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282145@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282146@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282147@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282148@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317059@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T135000Z
+DTEND:20261002T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317060@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T153000Z
+DTEND:20261002T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282151@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261003T090000Z
+DTEND:20261003T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282152@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282153@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282154@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282155@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282156@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282157@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282158@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282159@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282160@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282161@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282162@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317073@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T135000Z
+DTEND:20261007T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317074@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T153000Z
+DTEND:20261007T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282165@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282166@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282167@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T121000Z
+DTEND:20261008T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282168@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282169@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282170@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282171@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T090000Z
+DTEND:20261010T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282172@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282173@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282174@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282175@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282176@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282177@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282178@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282179@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282180@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282181@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282182@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282183@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282184@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T121000Z
+DTEND:20261014T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282185@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282186@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282187@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T121000Z
+DTEND:20261015T134000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282188@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282189@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317100@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T135000Z
+DTEND:20261016T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317101@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T153000Z
+DTEND:20261016T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282192@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261017T090000Z
+DTEND:20261017T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282193@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261017T110000Z
+DTEND:20261017T123000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317104@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Хачатрян А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317105@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Хачатрян А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317106@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Мировые религии
+LOCATION:онлайн
+DESCRIPTION:Мхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317107@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Гурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317108@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Экономическая теория
+LOCATION:онлайн
+DESCRIPTION:Григорян К.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317109@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Экономическая теория
+LOCATION:онлайн
+DESCRIPTION:Григорян К.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317110@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Мировые религии
+LOCATION:онлайн
+DESCRIPTION:Мхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317111@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:онлайн
+DESCRIPTION:Карапетян Л.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317112@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:онлайн
+DESCRIPTION:Карапетян Л.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282203@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T121000Z
+DTEND:20261021T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282204@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317115@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Гурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317116@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Хачатрян А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317117@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:онлайн
+DESCRIPTION:Гурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317118@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:онлайн
+DESCRIPTION:Карапетян Л.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317119@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T050000Z
+DTEND:20261024T063000Z
+SUMMARY:Экономическая теория
+LOCATION:онлайн
+DESCRIPTION:Григорян К.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317120@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T064000Z
+DTEND:20261024T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Хачатрян А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317121@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T085000Z
+DTEND:20261024T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Хачатрян А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282212@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T110000Z
+DTEND:20261024T123000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317123@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Хачатрян А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317124@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Хачатрян А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317125@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Мировые религии
+LOCATION:онлайн
+DESCRIPTION:Мхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317126@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Экономическая теория
+LOCATION:онлайн
+DESCRIPTION:Григорян К.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317127@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:Экономическая теория
+LOCATION:онлайн
+DESCRIPTION:Григорян К.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282218@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T121000Z
+DTEND:20261027T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317129@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Гурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317130@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Мировые религии
+LOCATION:онлайн
+DESCRIPTION:Мхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317131@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:онлайн
+DESCRIPTION:Карапетян Л.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317132@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T103000Z
+DTEND:20261028T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:онлайн
+DESCRIPTION:Карапетян Л.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282223@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317134@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Гурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317135@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Хачатрян А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317136@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:онлайн
+DESCRIPTION:Гурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317137@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:онлайн
+DESCRIPTION:Карапетян Л.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317138@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T121000Z
+DTEND:20261030T134000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317139@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T135000Z
+DTEND:20261030T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282230@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T090000Z
+DTEND:20261031T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282231@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282232@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282233@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282234@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282235@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282236@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282237@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282238@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T121000Z
+DTEND:20261103T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282239@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282240@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282241@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317152@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T135000Z
+DTEND:20261104T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317153@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T153000Z
+DTEND:20261104T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282244@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282245@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282246@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282247@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T121000Z
+DTEND:20261105T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282248@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282249@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317160@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T121000Z
+DTEND:20261106T134000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317161@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T135000Z
+DTEND:20261106T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282252@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261107T090000Z
+DTEND:20261107T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282253@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261107T104000Z
+DTEND:20261107T121000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282254@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282255@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282256@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T121000Z
+DTEND:20261109T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282257@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282258@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282259@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282260@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282261@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T121000Z
+DTEND:20261110T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282262@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282263@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317174@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T135000Z
+DTEND:20261111T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-317175@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T153000Z
+DTEND:20261111T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282266@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282267@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282268@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282269@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T121000Z
+DTEND:20261112T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282270@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282271@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282272@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T121000Z
+DTEND:20261113T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282273@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T090000Z
+DTEND:20261114T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282274@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T104000Z
+DTEND:20261114T121000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282275@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T122000Z
+DTEND:20261114T135000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282276@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282277@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282278@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282279@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282280@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282281@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282282@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282283@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T121000Z
+DTEND:20261117T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282284@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282285@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282286@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282289@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282290@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282292@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T121000Z
+DTEND:20261119T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282293@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282294@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282295@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T085000Z
+DTEND:20261120T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282296@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T121000Z
+DTEND:20261120T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282297@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261121T090000Z
+DTEND:20261121T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282298@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261121T104000Z
+DTEND:20261121T121000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282299@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282300@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T121000Z
+DTEND:20261123T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282301@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282302@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282303@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282304@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282305@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-735828@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T135000Z
+DTEND:20261125T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн\nизменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-735829@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T153000Z
+DTEND:20261125T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн\nизменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282309@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282310@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282311@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282312@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T121000Z
+DTEND:20261126T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282313@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282314@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282315@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T121000Z
+DTEND:20261127T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282316@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T090000Z
+DTEND:20261128T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282317@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T104000Z
+DTEND:20261128T121000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282318@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282319@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282320@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282321@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T121000Z
+DTEND:20261130T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282322@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282323@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282324@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282325@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T121000Z
+DTEND:20261201T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282326@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282327@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282328@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282329@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T135000Z
+DTEND:20261202T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282330@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T153000Z
+DTEND:20261202T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282331@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282332@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282333@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282334@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T121000Z
+DTEND:20261203T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282335@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282336@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282337@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282338@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T121000Z
+DTEND:20261204T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-421918@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261205T085000Z
+DTEND:20261205T102000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн\nперенесено\, из
+ менено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-421919@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261205T103000Z
+DTEND:20261205T120000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн\nдобавлено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282340@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282341@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282342@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282343@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282344@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282345@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282346@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T121000Z
+DTEND:20261208T134000Z
+SUMMARY:История международных отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282347@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282348@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282349@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282350@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T121000Z
+DTEND:20261209T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282351@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282352@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Консультация: История международных
+  отношений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282353@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282354@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282355@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282356@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T081500Z
+DTEND:20261211T094500Z
+SUMMARY:Экзамен: История международных отно
+ шений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282357@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T094500Z
+DTEND:20261211T111500Z
+SUMMARY:Экзамен: История международных отно
+ шений
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Крестов Ф.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-421938@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261212T085000Z
+DTEND:20261212T102000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн\nперенесено\, из
+ менено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-421939@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261212T103000Z
+DTEND:20261212T120000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Уткина К.К.\nонлайн\nдобавлено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282359@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282360@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282361@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282362@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T121000Z
+DTEND:20261214T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282363@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282364@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282365@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282366@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282367@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282368@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282369@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282370@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282371@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282372@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282373@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T121000Z
+DTEND:20261217T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282374@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282375@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282376@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261219T064000Z
+DTEND:20261219T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282377@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261219T085000Z
+DTEND:20261219T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282378@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261219T103000Z
+DTEND:20261219T120000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282379@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282380@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282381@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282382@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T121000Z
+DTEND:20261221T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282383@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Язык политики (на английском языке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282384@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282385@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282386@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282387@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282388@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:Зачёт: Второй иностранный язык (фран
+ цузский)
+LOCATION:ауд. 102
+DESCRIPTION:Карапетян Л.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282389@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282390@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282391@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T121000Z
+DTEND:20261224T134000Z
+SUMMARY:Физическая культура (элективный кур
+ с)
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-1428484@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Зачёт: Безопасность жизнедеятельнос
+ ти
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно\nдобавлено 27.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282392@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Зачёт: Безопасность жизнедеятельнос
+ ти
+LOCATION:ауд. 102
+DESCRIPTION:Гурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282394@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261226T050000Z
+DTEND:20261226T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282395@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261226T064000Z
+DTEND:20261226T081000Z
+SUMMARY:Зачёт: Профессиональный иностранный
+  язык (английский)
+LOCATION:ауд. 102
+DESCRIPTION:Хачатрян А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282396@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:Зачёт: Мировые религии
+LOCATION:ауд. 102
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282397@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:Зачёт: Язык политики (на английском я
+ зыке)
+LOCATION:ауд. 102
+DESCRIPTION:Тигранян Л.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282398@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203-282399@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Экономическая теория
+LOCATION:ауд. 102
+DESCRIPTION:Григорян К.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203.html
+END:VEVENT
+END:VCALENDAR

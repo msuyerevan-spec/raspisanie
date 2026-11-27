@@ -1,0 +1,207 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Янгялева М.М. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t285907@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T082000Z
+DTEND:20261103T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285908@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T100000Z
+DTEND:20261103T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285924@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T082000Z
+DTEND:20261110T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285925@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T100000Z
+DTEND:20261110T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285939@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T082000Z
+DTEND:20261117T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285940@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T100000Z
+DTEND:20261117T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285956@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T082000Z
+DTEND:20261124T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285957@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T100000Z
+DTEND:20261124T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285971@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T082000Z
+DTEND:20261201T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285972@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T100000Z
+DTEND:20261201T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285987@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T082000Z
+DTEND:20261208T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285988@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T100000Z
+DTEND:20261208T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286000@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T082000Z
+DTEND:20261215T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286001@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T100000Z
+DTEND:20261215T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286021@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T082000Z
+DTEND:20261222T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286022@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T100000Z
+DTEND:20261222T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286035@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T082000Z
+DTEND:20261229T095000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286036@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T100000Z
+DTEND:20261229T113000Z
+SUMMARY:Зарубежные медиасистемы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 404\nЯнгялева М.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yangyaleva-m-m.html
+END:VEVENT
+END:VCALENDAR

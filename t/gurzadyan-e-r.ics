@@ -1,0 +1,1136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Гурзадян Э.Р. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t280472@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283616@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282075@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282403@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283618@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282078@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282083@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280488@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282413@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282092@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283631@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282094@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280494@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282099@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283639@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282425@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282104@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283644@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280505@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282432@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282109@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282111@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282447@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283661@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280525@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282124@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282128@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282129@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282463@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283673@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280536@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283684@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282144@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282146@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282147@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283690@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282156@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282482@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280558@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283705@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282165@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282168@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282491@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283716@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280569@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282503@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282185@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282188@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282189@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317428@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317107@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315503@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317115@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318661@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317440@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317117@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318671@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317129@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318676@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315525@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317134@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317456@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Современное естествознание
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317136@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282552@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283782@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283790@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280635@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282245@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282248@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282249@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282257@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280656@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282267@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283814@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282270@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283826@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280675@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282615@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282290@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283839@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282294@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t498754@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно\nдоба
+ влено 19.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282632@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282311@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282313@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283861@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280709@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282652@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283876@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282332@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282336@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t1280819@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно\nдоба
+ влено 26.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280726@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282670@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283893@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282353@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282355@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283904@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280743@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282688@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283912@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282371@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282374@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283926@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280764@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282389@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Современное естествознание
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t1428484@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Зачёт: Безопасность жизнедеятельнос
+ ти
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно\nдоба
+ влено 27.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282392@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Зачёт: Безопасность жизнедеятельнос
+ ти
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 203\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280770@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261226T050000Z
+DTEND:20261226T063000Z
+SUMMARY:Зачёт: Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280771@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261226T064000Z
+DTEND:20261226T081000Z
+SUMMARY:Зачёт: Современное естествознание
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283937@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261228T050000Z
+DTEND:20261228T063000Z
+SUMMARY:Зачёт: Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283938@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261228T064000Z
+DTEND:20261228T081000Z
+SUMMARY:Зачёт: Современное естествознание
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 302\nГурзадян Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gurzadyan-e-r.html
+END:VEVENT
+END:VCALENDAR

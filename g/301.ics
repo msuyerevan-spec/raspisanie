@@ -1,0 +1,3180 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание 301 — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:g301-283302@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283303@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260901T103000Z
+DTEND:20260901T120000Z
+SUMMARY:Базы данных
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283304@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283305@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283306@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T103000Z
+DTEND:20260902T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283307@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283308@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283309@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Мелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283310@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283311@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283312@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T085000Z
+DTEND:20260904T102000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 107
+DESCRIPTION:Лапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283313@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T103000Z
+DTEND:20260904T120000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 107
+DESCRIPTION:Лапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283314@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260905T085000Z
+DTEND:20260905T102000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 107
+DESCRIPTION:Лапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283315@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260905T103000Z
+DTEND:20260905T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283316@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260905T121000Z
+DTEND:20260905T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283317@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 107
+DESCRIPTION:Лапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283318@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 107
+DESCRIPTION:Лапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283319@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283320@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн (группа подключается из ауд. 
+ БК3)
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283321@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн (группа подключается из ауд. 
+ БК3)
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283322@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 106
+DESCRIPTION:Лапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283323@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Базы данных
+LOCATION:онлайн (группа подключается из ауд. 
+ БК3)
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283324@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн (группа подключается из ауд. 
+ БК3)
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283325@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн (группа подключается из ауд. 
+ БК3)
+DESCRIPTION:Якушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283326@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 107
+DESCRIPTION:Лапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283327@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 107
+DESCRIPTION:Лапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283328@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн (группа подключается из ауд. 
+ БК3)
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283329@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн (группа подключается из ауд. 
+ БК3)
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283330@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 106
+DESCRIPTION:Лапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283331@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 106
+DESCRIPTION:Лапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283332@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 200
+DESCRIPTION:Лапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283333@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 200
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283334@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T103000Z
+DTEND:20260911T120000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283335@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260912T050000Z
+DTEND:20260912T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:ауд. 107
+DESCRIPTION:Лапонина О.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283336@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260912T103000Z
+DTEND:20260912T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283337@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260912T121000Z
+DTEND:20260912T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283339@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 109
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283340@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T131500Z
+DTEND:20260914T144500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283341@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T145500Z
+DTEND:20260914T162500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283342@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283343@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283344@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283345@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:Базы данных
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283346@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T121000Z
+DTEND:20260916T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283347@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T135000Z
+DTEND:20260916T152000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283348@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283349@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283350@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 203
+DESCRIPTION:Мелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283351@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 203
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283352@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283353@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T103000Z
+DTEND:20260918T120000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283354@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260919T064000Z
+DTEND:20260919T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн
+DESCRIPTION:Якушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283355@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260919T085000Z
+DTEND:20260919T102000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн
+DESCRIPTION:Якушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283356@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260919T103000Z
+DTEND:20260919T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283357@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260919T121000Z
+DTEND:20260919T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283358@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283359@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283360@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283361@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Базы данных
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283362@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283363@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283364@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T121000Z
+DTEND:20260923T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283365@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T135000Z
+DTEND:20260923T152000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283366@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283367@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Смирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283368@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 206
+DESCRIPTION:Мелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283369@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 206
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283370@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Лапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283371@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 206
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283372@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283373@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260926T103000Z
+DTEND:20260926T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283374@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260926T121000Z
+DTEND:20260926T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283375@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Смирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283376@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Смирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283377@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 210
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283378@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T145500Z
+DTEND:20260928T162500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283379@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Смирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283380@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Смирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283381@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн (группа подключается из ауд. 
+ БК3)
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283382@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Базы данных
+LOCATION:онлайн (группа подключается из ауд. 
+ БК3)
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283383@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Смирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283384@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283385@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Мелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283386@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Смирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283387@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Смирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283388@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283389@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Смирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283390@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283391@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T103000Z
+DTEND:20261002T120000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283392@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261003T103000Z
+DTEND:20261003T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283393@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261003T121000Z
+DTEND:20261003T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283394@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Смирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283395@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Консультация: Пакеты прикладных про
+ грамм
+LOCATION:ауд. БК3
+DESCRIPTION:Смирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283396@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283397@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T131500Z
+DTEND:20261005T144500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283398@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T145500Z
+DTEND:20261005T162500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283399@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Экзамен: Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Смирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283400@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Базы данных
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283401@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283402@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T135000Z
+DTEND:20261006T152000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283403@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283404@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283405@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Лапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283406@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн
+DESCRIPTION:Якушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283407@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283408@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283409@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Лапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283410@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283411@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283412@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T103000Z
+DTEND:20261010T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283413@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T121000Z
+DTEND:20261010T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283414@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 108B
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283415@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283416@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Базы данных
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283417@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283418@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T135000Z
+DTEND:20261013T152000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283419@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн
+DESCRIPTION:Якушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283420@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн
+DESCRIPTION:Якушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283421@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Мелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283422@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283423@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Лапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283424@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283425@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283426@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283427@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283428@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261017T103000Z
+DTEND:20261017T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283429@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261017T121000Z
+DTEND:20261017T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-318340@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:онлайн
+DESCRIPTION:Мхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283431@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T121000Z
+DTEND:20261019T134000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283432@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T135000Z
+DTEND:20261019T152000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283433@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283434@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Базы данных
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283435@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-318346@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:онлайн
+DESCRIPTION:Оганесян К.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-318347@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T121000Z
+DTEND:20261021T134000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:онлайн
+DESCRIPTION:Мелконян Г.Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283438@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Лапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283439@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн
+DESCRIPTION:Якушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-318350@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:онлайн
+DESCRIPTION:Мелконян Г.Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-318351@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:онлайн
+DESCRIPTION:Мхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283442@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Лапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-318353@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:онлайн
+DESCRIPTION:Оганесян К.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283444@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T103000Z
+DTEND:20261023T120000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283445@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T103000Z
+DTEND:20261024T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283446@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T121000Z
+DTEND:20261024T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-318357@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:онлайн
+DESCRIPTION:Мхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283448@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283449@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:Базы данных
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283450@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283451@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T121000Z
+DTEND:20261028T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283452@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T135000Z
+DTEND:20261028T152000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283453@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн
+DESCRIPTION:Якушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283454@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн
+DESCRIPTION:Якушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-318365@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:онлайн
+DESCRIPTION:Мелконян Г.Ф.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-318366@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:онлайн
+DESCRIPTION:Мхитарян Г.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283457@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Лапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-318368@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:онлайн
+DESCRIPTION:Оганесян К.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283459@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283460@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T103000Z
+DTEND:20261031T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283461@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T121000Z
+DTEND:20261031T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283462@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283463@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T131500Z
+DTEND:20261102T144500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283464@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T145500Z
+DTEND:20261102T162500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283465@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283466@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Базы данных
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283467@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283468@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T121000Z
+DTEND:20261104T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283469@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T135000Z
+DTEND:20261104T152000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283470@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Лапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283471@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Мелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283472@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283473@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283474@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283475@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283476@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T141500Z
+DTEND:20261106T154500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283477@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T155500Z
+DTEND:20261106T172500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283478@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261107T085000Z
+DTEND:20261107T102000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283479@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261107T103000Z
+DTEND:20261107T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283480@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261107T121000Z
+DTEND:20261107T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283481@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283482@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283483@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T135000Z
+DTEND:20261109T152000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283484@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T153000Z
+DTEND:20261109T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283485@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283486@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283487@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283488@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:Базы данных
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283489@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283490@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Лапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283491@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Мелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283492@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283493@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283494@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T141500Z
+DTEND:20261113T154500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283495@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T155500Z
+DTEND:20261113T172500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283496@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T103000Z
+DTEND:20261114T120000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283497@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T121000Z
+DTEND:20261114T134000Z
+SUMMARY:Численные методы
+LOCATION:онлайн
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283498@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283499@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283500@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283501@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T135000Z
+DTEND:20261116T152000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283502@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T153000Z
+DTEND:20261116T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283503@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283504@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283505@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283506@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Базы данных
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283507@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283508@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Лапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283509@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283510@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Мелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283511@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283512@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283513@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283514@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T103000Z
+DTEND:20261120T120000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283515@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T141500Z
+DTEND:20261120T154500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283516@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T155500Z
+DTEND:20261120T172500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283517@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261121T064000Z
+DTEND:20261121T081000Z
+SUMMARY:Численные методы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283518@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261121T085000Z
+DTEND:20261121T102000Z
+SUMMARY:Зачёт: Численные методы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Кочетов Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283519@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283520@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283521@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283524@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283525@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283526@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283527@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Базы данных
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283528@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283529@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283530@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Мелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283531@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283532@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Лапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283533@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК3
+DESCRIPTION:Якушин А.В.\nочно\nизменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283534@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283535@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК3
+DESCRIPTION:Якушин А.В.\nочно\nизменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283536@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК3
+DESCRIPTION:Якушин А.В.\nочно\nизменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283537@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T103000Z
+DTEND:20261127T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-1350658@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T141500Z
+DTEND:20261127T154500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн\nдобавлено 27.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-1350659@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T155500Z
+DTEND:20261127T172500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн\nдобавлено 27.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283538@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Мелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283539@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК3
+DESCRIPTION:Якушин А.В.\nочно\nизменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283540@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T103000Z
+DTEND:20261128T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283541@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК2
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283542@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК2
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283543@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283544@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T135000Z
+DTEND:20261130T152000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283545@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T153000Z
+DTEND:20261130T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283546@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283547@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283548@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК3
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283549@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283550@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283551@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК2
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283552@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК2
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283553@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283554@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Лапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283555@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Мелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283556@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Консультация: Компьютерная графика
+LOCATION:ауд. БК2
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283557@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 401
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283558@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Экзамен: Компьютерная графика
+LOCATION:ауд. БК2
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-754526@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T141500Z
+DTEND:20261204T154500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн\nдобавлено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-754527@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T155500Z
+DTEND:20261204T172500Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн\nдобавлено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283559@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261205T085000Z
+DTEND:20261205T102000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283560@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261205T103000Z
+DTEND:20261205T120000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283561@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283562@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283563@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283564@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T135000Z
+DTEND:20261207T152000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283565@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T153000Z
+DTEND:20261207T170000Z
+SUMMARY:Функциональный анализ
+LOCATION:онлайн
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283566@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283567@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283568@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283569@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Базы данных
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283570@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283571@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Мелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283572@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283573@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Лапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283574@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Мелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283575@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283576@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 401
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283577@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283578@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T103000Z
+DTEND:20261211T120000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283579@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261212T103000Z
+DTEND:20261212T120000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283580@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283581@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283582@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283585@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283586@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283587@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283588@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Базы данных
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283589@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн (группа подключается из ауд. 4
+ 01)
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283590@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283591@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Безопасность жизнедеятельности
+LOCATION:ауд. 107
+DESCRIPTION:Мелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283592@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283593@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Уязвимости протоколов и систем прик
+ ладного уровня
+LOCATION:онлайн
+DESCRIPTION:Лапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283594@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 402
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283595@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 401
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283596@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T103000Z
+DTEND:20261218T120000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283597@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283598@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283599@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283600@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T121000Z
+DTEND:20261221T134000Z
+SUMMARY:Зачёт: Функциональный анализ
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Аристов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283601@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283602@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Методы оптимизации
+LOCATION:онлайн
+DESCRIPTION:Артемьева Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283603@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283604@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Базы данных
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283605@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T050000Z
+DTEND:20261223T063000Z
+SUMMARY:Вейвлет-анализ. Теория и приложения
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283606@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Зачёт: Безопасность жизнедеятельнос
+ ти
+LOCATION:ауд. 107
+DESCRIPTION:Мелконян Г.Ф.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283607@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283608@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:Зачёт: Уязвимости протоколов и систе
+ м прикладного уровня
+LOCATION:онлайн
+DESCRIPTION:Лапонина О.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283609@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Зачёт: Русский язык и культура речи
+LOCATION:ауд. 107
+DESCRIPTION:Оганесян К.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283610@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T103000Z
+DTEND:20261225T120000Z
+SUMMARY:Зачёт: Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Саргсян Р.Т.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283611@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261228T103000Z
+DTEND:20261228T120000Z
+SUMMARY:История (России + Всемирная)
+LOCATION:ауд. 107
+DESCRIPTION:Мхитарян Г.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283612@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Базы данных
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g301-283613@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T103000Z
+DTEND:20261229T120000Z
+SUMMARY:Базы данных
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/301.html
+END:VEVENT
+END:VCALENDAR

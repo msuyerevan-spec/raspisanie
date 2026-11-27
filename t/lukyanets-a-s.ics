@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Лукьянец А.С. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t282997@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283009@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283024@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283038@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283056@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283094@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283108@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283129@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283144@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283150@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283151@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283163@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283178@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283197@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:Статистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283218@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283238@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:Статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283263@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Зачёт: Статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283264@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Зачёт: Статистика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 207\nЛукьянец А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lukyanets-a-s.html
+END:VEVENT
+END:VCALENDAR

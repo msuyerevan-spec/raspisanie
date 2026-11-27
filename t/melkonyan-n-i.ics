@@ -1,0 +1,605 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Мелконян Н.И. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t283945@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283950@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283951@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283953@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283960@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283965@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283966@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283968@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283975@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283981@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283988@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283997@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284004@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284010@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284015@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284023@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284033@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284034@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284037@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284044@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318959@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318960@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318964@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318971@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318974@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318979@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318988@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:онлайн
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284084@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284089@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284132@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284133@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284137@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284144@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284154@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284158@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284166@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284174@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284175@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284179@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284186@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284196@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284200@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284207@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284209@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261212T085000Z
+DTEND:20261212T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284210@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261212T103000Z
+DTEND:20261212T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284215@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284216@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284220@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284226@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284237@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284239@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284243@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284244@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261228T103000Z
+DTEND:20261228T120000Z
+SUMMARY:Второй иностранный язык (французски
+ й)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284245@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T103000Z
+DTEND:20261229T120000Z
+SUMMARY:Зачёт: Второй иностранный язык (фран
+ цузский)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 303\nМелконян Н.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/melkonyan-n-i.html
+END:VEVENT
+END:VCALENDAR

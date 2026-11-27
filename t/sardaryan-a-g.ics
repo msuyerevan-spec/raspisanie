@@ -1,0 +1,473 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Сардарян А.Г. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t286910@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286911@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286912@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286913@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286914@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T121000Z
+DTEND:20261103T134000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286915@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T135000Z
+DTEND:20261103T152000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286916@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T153000Z
+DTEND:20261103T170000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286922@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286923@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286924@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286925@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286926@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T121000Z
+DTEND:20261110T134000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286927@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T135000Z
+DTEND:20261110T152000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286928@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T153000Z
+DTEND:20261110T170000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286938@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286939@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286940@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286941@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286942@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T121000Z
+DTEND:20261117T134000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286943@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T135000Z
+DTEND:20261117T152000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286944@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T153000Z
+DTEND:20261117T170000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286952@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286953@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286954@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286955@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286956@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286957@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T135000Z
+DTEND:20261124T152000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286958@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T153000Z
+DTEND:20261124T170000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286965@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286966@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286967@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286968@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286969@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T121000Z
+DTEND:20261201T134000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286970@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T135000Z
+DTEND:20261201T152000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286971@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T153000Z
+DTEND:20261201T170000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286979@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286980@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286981@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286982@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286983@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T121000Z
+DTEND:20261208T134000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286984@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T135000Z
+DTEND:20261208T152000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286985@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T153000Z
+DTEND:20261208T170000Z
+SUMMARY:Юридическое консультирование (практ
+ ика)
+LOCATION:вне университета (практика)
+DESCRIPTION:Группы: 102M\nСардарян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sardaryan-a-g.html
+END:VEVENT
+END:VCALENDAR

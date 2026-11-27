@@ -1,0 +1,377 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Уткина К.К. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t317000@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T135000Z
+DTEND:20260909T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317001@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T153000Z
+DTEND:20260909T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282114@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260919T090000Z
+DTEND:20260919T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282115@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260919T104000Z
+DTEND:20260919T121000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317029@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T135000Z
+DTEND:20260922T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317030@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T153000Z
+DTEND:20260922T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317059@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T135000Z
+DTEND:20261002T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317060@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T153000Z
+DTEND:20261002T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282151@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261003T090000Z
+DTEND:20261003T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317073@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T135000Z
+DTEND:20261007T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317074@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T153000Z
+DTEND:20261007T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282171@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T090000Z
+DTEND:20261010T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317100@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T135000Z
+DTEND:20261016T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317101@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T153000Z
+DTEND:20261016T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282192@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261017T090000Z
+DTEND:20261017T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317138@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T121000Z
+DTEND:20261030T134000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317139@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T135000Z
+DTEND:20261030T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282230@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T090000Z
+DTEND:20261031T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317152@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T135000Z
+DTEND:20261104T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317153@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T153000Z
+DTEND:20261104T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317160@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T121000Z
+DTEND:20261106T134000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317161@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T135000Z
+DTEND:20261106T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282252@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261107T090000Z
+DTEND:20261107T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317174@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T135000Z
+DTEND:20261111T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317175@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T153000Z
+DTEND:20261111T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282273@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T090000Z
+DTEND:20261114T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282297@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261121T090000Z
+DTEND:20261121T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t735828@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T135000Z
+DTEND:20261125T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн\nизме
+ нено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t735829@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T153000Z
+DTEND:20261125T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн\nизме
+ нено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282316@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T090000Z
+DTEND:20261128T103000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282329@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T135000Z
+DTEND:20261202T152000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282330@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T153000Z
+DTEND:20261202T170000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t421918@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261205T085000Z
+DTEND:20261205T102000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн\nпере
+ несено\, изменено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t421919@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261205T103000Z
+DTEND:20261205T120000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн\nдоба
+ влено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t421938@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261212T085000Z
+DTEND:20261212T102000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн\nпере
+ несено\, изменено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t421939@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261212T103000Z
+DTEND:20261212T120000Z
+SUMMARY:Теория международных отношений
+LOCATION:онлайн
+DESCRIPTION:Группы: 203\nУткина К.К.\nонлайн\nдоба
+ влено 18.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/utkina-k-k.html
+END:VEVENT
+END:VCALENDAR

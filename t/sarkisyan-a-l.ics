@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Саркисян А.Л. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t279300@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279303@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279327@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279333@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279342@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279347@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279363@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279368@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279409@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279425@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279463@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279483@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279491@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279499@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314428@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314443@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314460@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314466@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314473@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279590@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279599@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279618@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T050000Z
+DTEND:20261111T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279622@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279630@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279636@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279646@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279650@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279664@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279671@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279691@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279754@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279762@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279785@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279793@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279824@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T050000Z
+DTEND:20261223T063000Z
+SUMMARY:Зачёт: Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279826@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:Зачёт: Армянский язык
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nСаркисян А.Л.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/sarkisyan-a-l.html
+END:VEVENT
+END:VCALENDAR

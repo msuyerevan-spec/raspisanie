@@ -1,0 +1,732 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Манасарян С.Г. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t285763@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 406
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285515@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285781@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285521@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285800@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285529@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285552@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285820@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285828@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285574@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285835@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285609@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285864@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285613@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321546@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261017T080000Z
+DTEND:20261017T093000Z
+SUMMARY:Региональная политика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321547@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261017T094000Z
+DTEND:20261017T111000Z
+SUMMARY:Региональная политика
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321551@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Региональная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321552@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Региональная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320783@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T050000Z
+DTEND:20261021T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320531@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321562@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T064000Z
+DTEND:20261024T081000Z
+SUMMARY:Региональная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321563@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T085000Z
+DTEND:20261024T102000Z
+SUMMARY:Региональная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321568@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Региональная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321569@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Региональная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320801@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320543@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321578@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T064000Z
+DTEND:20261031T081000Z
+SUMMARY:Региональная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321579@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T085000Z
+DTEND:20261031T102000Z
+SUMMARY:Региональная политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286673@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286674@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285909@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285644@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285921@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285654@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286687@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286688@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285681@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286702@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286703@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285941@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285687@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286709@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285945@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286719@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно\nизм
+ енено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286720@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно\nизм
+ енено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285961@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285703@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286731@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно\nизм
+ енено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286732@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно\nизм
+ енено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286738@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 401
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286739@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285973@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285712@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285977@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285720@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286755@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 401
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286756@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 401
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285739@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Китайская внешняя политика и ее изме
+ нения в странах Южного Кавказа и Централ
+ ьной Азии после распада Советского Союз
+ а
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285992@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Международные отношения в многополя
+ рном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286002@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:Зачёт: Международные отношения в мно
+ гополярном мире
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286790@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286791@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Региональная политика
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 407\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285761@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Зачёт: Китайская внешняя политика и 
+ ее изменения в странах Южного Кавказа и 
+ Центральной Азии после распада Советско
+ го Союза
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285762@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Зачёт: Китайская внешняя политика и 
+ ее изменения в странах Южного Кавказа и 
+ Центральной Азии после распада Советско
+ го Союза
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nМанасарян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/manasaryan-s-g.html
+END:VEVENT
+END:VCALENDAR

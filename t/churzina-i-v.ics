@@ -1,0 +1,320 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Чурзина И.В. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t281196@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281197@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281212@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281213@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281219@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T135000Z
+DTEND:20260917T152000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281227@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T121000Z
+DTEND:20260922T134000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281228@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T135000Z
+DTEND:20260922T152000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281229@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281230@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281232@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T135000Z
+DTEND:20260923T152000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281240@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260926T050000Z
+DTEND:20260926T063000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281241@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281248@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10)
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281261@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281262@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281263@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281265@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281266@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281267@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281268@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281269@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281270@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281273@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281274@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281275@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281278@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281279@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Экономика (экономическая теория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281280@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Консультация: Экономика (экономичес
+ кая теория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281282@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T050000Z
+DTEND:20261010T063000Z
+SUMMARY:Экзамен: Экономика (экономическая те
+ ория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281283@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:Экзамен: Экономика (экономическая те
+ ория)
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nЧурзина И.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/churzina-i-v.html
+END:VEVENT
+END:VCALENDAR

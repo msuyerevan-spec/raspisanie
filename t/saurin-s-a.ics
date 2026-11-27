@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Саурин С.А. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t283619@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T085000Z
+DTEND:20260904T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283620@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T103000Z
+DTEND:20260904T120000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283649@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283650@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283666@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283667@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283685@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283686@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283706@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283707@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283741@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283742@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283746@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283747@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283772@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283773@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283913@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283914@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 302\nСаурин С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/saurin-s-a.html
+END:VEVENT
+END:VCALENDAR

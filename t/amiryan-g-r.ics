@@ -1,0 +1,752 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Амирян Г.Р. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t278996@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280785@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280791@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279010@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280820@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280823@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279027@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281222@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280841@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279041@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279046@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280852@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281238@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280861@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281250@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279063@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280870@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281259@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280884@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280888@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279075@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280897@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280913@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281293@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279094@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280925@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315849@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316223@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314018@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315857@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316227@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315866@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314033@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315871@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316237@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314041@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315881@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316242@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280982@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280986@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281345@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280994@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281352@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281004@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279164@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281010@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279172@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281032@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281035@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281385@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279189@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281048@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281393@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T085000Z
+DTEND:20261120T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279199@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281061@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно\nизмен
+ ено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281408@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T085000Z
+DTEND:20261125T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281075@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279222@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281088@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281429@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281100@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281112@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281447@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281136@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279273@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281149@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281470@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T085000Z
+DTEND:20261218T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279285@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Зачёт: Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279286@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Зачёт: Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 101\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281161@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281479@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Зачёт: Армянский язык
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281480@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:Зачёт: Армянский язык
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 107\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281174@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281182@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:Зачёт: Армянский язык
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 106-2\nАмирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/amiryan-g-r.html
+END:VEVENT
+END:VCALENDAR

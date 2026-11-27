@@ -1,0 +1,1022 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Немишалян Р.В. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t282728@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260901T050000Z
+DTEND:20260901T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281732@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282996@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281737@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T103000Z
+DTEND:20260902T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283002@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287009@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 406
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283008@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281751@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282739@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287012@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 406
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283012@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T103000Z
+DTEND:20260909T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287023@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281771@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283023@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282749@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283027@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287032@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282757@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283037@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283041@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287045@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281813@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283055@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282772@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287047@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T050000Z
+DTEND:20260930T063000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282777@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281821@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283072@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283073@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282788@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281836@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283080@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282795@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281858@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283090@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282802@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282807@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T103000Z
+DTEND:20261014T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281868@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282813@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322010@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:История и философия науки
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316808@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318038@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322027@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:История и философия науки
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317748@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T103000Z
+DTEND:20261028T120000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316816@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Философия
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281917@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281918@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283143@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281924@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282869@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261107T103000Z
+DTEND:20261107T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287153@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281933@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283159@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282876@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282881@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281941@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287168@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283176@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282892@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281955@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287171@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282897@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283184@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287182@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nочно\nизм
+ енено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283194@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282909@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282914@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283204@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282921@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T103000Z
+DTEND:20261127T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287195@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282926@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283215@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287196@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282005@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T103000Z
+DTEND:20261202T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282933@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282009@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287208@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283234@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282943@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282021@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282023@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283241@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282029@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287221@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282037@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283261@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287224@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T050000Z
+DTEND:20261216T063000Z
+SUMMARY:История и философия науки
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282964@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283268@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282044@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287233@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Зачёт: История и философия науки
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282055@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283279@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282980@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282983@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T050000Z
+DTEND:20261223T063000Z
+SUMMARY:Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282060@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T103000Z
+DTEND:20261223T120000Z
+SUMMARY:Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282065@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Зачёт: Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282066@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T121000Z
+DTEND:20261224T134000Z
+SUMMARY:Зачёт: Философия
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282994@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:Зачёт: Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282995@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Зачёт: Философия
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 206\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283301@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Философия
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nНемишалян Р.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/nemishalyan-r-v.html
+END:VEVENT
+END:VCALENDAR

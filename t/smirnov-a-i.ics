@@ -1,0 +1,706 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Смирнов А.И. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t283304@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283305@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283307@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283308@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283320@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн (группа подключается из ауд. 
+ БК3)
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283321@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн (группа подключается из ауд. 
+ БК3)
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281504@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281505@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283328@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн (группа подключается из ауд. 
+ БК3)
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283329@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн (группа подключается из ауд. 
+ БК3)
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283342@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T050000Z
+DTEND:20260915T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283343@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281514@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T050000Z
+DTEND:20260916T063000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281515@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283348@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283349@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283358@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283359@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283362@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T050000Z
+DTEND:20260923T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283363@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283366@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283367@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283375@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283376@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281538@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281542@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283379@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283380@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283383@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281548@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283386@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283387@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281550@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283389@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281553@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281554@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281555@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T103000Z
+DTEND:20261002T120000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281557@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261003T050000Z
+DTEND:20261003T063000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281558@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261003T064000Z
+DTEND:20261003T081000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281559@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261003T085000Z
+DTEND:20261003T102000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283394@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283395@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Консультация: Пакеты прикладных про
+ грамм
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281561@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281564@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283399@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Экзамен: Пакеты прикладных программ
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 301\nСмирнов А.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281587@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281588@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281598@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281599@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281608@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281609@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281623@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281624@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281645@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281646@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281677@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281678@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281689@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281690@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281701@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281702@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281711@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281712@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281723@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281724@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Обыкновенные дифференциальные урав
+ нения
+LOCATION:онлайн
+DESCRIPTION:Группы: 201\nСмирнов А.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/smirnov-a-i.html
+END:VEVENT
+END:VCALENDAR

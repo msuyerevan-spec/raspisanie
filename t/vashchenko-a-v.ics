@@ -1,0 +1,645 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Ващенко А.В. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t279308@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T153000Z
+DTEND:20260903T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314225@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260905T050000Z
+DTEND:20260905T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314226@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260905T064000Z
+DTEND:20260905T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314233@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T135000Z
+DTEND:20260907T152000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314234@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T153000Z
+DTEND:20260907T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279332@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T153000Z
+DTEND:20260909T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314257@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260912T050000Z
+DTEND:20260912T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн (группа подключается из ауд. 1
+ 13)
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314265@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T135000Z
+DTEND:20260914T152000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314266@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T153000Z
+DTEND:20260914T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314277@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн (группа подключается из ауд. 1
+ 13)
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314278@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн (группа подключается из ауд. 1
+ 13)
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314292@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260919T050000Z
+DTEND:20260919T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314293@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260919T064000Z
+DTEND:20260919T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314300@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн (группа подключается из ауд. 1
+ 13)
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279406@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260926T050000Z
+DTEND:20260926T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн (группа подключается из ауд. 1
+ 13)
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314327@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T135000Z
+DTEND:20260928T152000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314328@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T153000Z
+DTEND:20260928T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314339@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн (группа подключается из ауд. 1
+ 13)
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279432@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T153000Z
+DTEND:20260930T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314354@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261003T050000Z
+DTEND:20261003T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314355@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261003T064000Z
+DTEND:20261003T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314362@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T153000Z
+DTEND:20261005T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279462@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T153000Z
+DTEND:20261007T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314391@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T153000Z
+DTEND:20261012T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314399@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн (группа подключается из ауд. 1
+ 13)
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279490@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T153000Z
+DTEND:20261014T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314415@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261017T050000Z
+DTEND:20261017T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314416@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261017T064000Z
+DTEND:20261017T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314421@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T135000Z
+DTEND:20261019T152000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314422@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T153000Z
+DTEND:20261019T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279518@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279523@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T153000Z
+DTEND:20261021T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314447@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T050000Z
+DTEND:20261024T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314448@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T064000Z
+DTEND:20261024T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314453@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T135000Z
+DTEND:20261026T152000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314454@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T153000Z
+DTEND:20261026T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279550@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279553@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T153000Z
+DTEND:20261028T170000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314476@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T050000Z
+DTEND:20261031T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314477@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T064000Z
+DTEND:20261031T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279567@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279569@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279572@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279574@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279576@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279578@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279583@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T050000Z
+DTEND:20261104T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279585@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279587@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279589@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279591@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279593@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279596@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-1\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279598@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:История государства и права зарубеж
+ ных стран
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102-2\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279600@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Консультация: История государства и 
+ права зарубежных стран
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279601@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261107T050000Z
+DTEND:20261107T063000Z
+SUMMARY:Экзамен: История государства и права
+  зарубежных стран
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279602@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261107T064000Z
+DTEND:20261107T081000Z
+SUMMARY:Экзамен: История государства и права
+  зарубежных стран
+LOCATION:ауд. 113
+DESCRIPTION:Группы: 102\nВащенко А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/vashchenko-a-v.html
+END:VEVENT
+END:VCALENDAR

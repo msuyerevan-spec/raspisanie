@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Потеряйко А.Ю. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t287356@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287357@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287358@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287359@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T085000Z
+DTEND:20261114T102000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287363@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287366@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287370@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287371@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287376@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287377@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287378@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287379@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287382@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287383@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287397@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287398@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287399@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261212T064000Z
+DTEND:20261212T081000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287400@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261212T085000Z
+DTEND:20261212T102000Z
+SUMMARY:Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287421@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Зачёт: Стратегическое планирование
+LOCATION:онлайн
+DESCRIPTION:Группы: 107M\nПотеряйко А.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/poteryayko-a-yu.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,352 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Леонова К.С. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t322452@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T114000Z
+DTEND:20260907T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287020@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T121000Z
+DTEND:20260911T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322461@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T114000Z
+DTEND:20260914T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287030@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T103000Z
+DTEND:20260918T120000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287031@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T121000Z
+DTEND:20260918T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287040@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T121000Z
+DTEND:20260925T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322481@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T114000Z
+DTEND:20260928T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287055@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T103000Z
+DTEND:20261002T120000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287056@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T121000Z
+DTEND:20261002T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322492@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322493@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T114000Z
+DTEND:20261005T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322510@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T114000Z
+DTEND:20261012T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287097@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287098@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T121000Z
+DTEND:20261016T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322524@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322525@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T114000Z
+DTEND:20261019T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287111@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T121000Z
+DTEND:20261023T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322536@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T114000Z
+DTEND:20261026T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287126@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287127@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T121000Z
+DTEND:20261030T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322546@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322547@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T114000Z
+DTEND:20261102T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322558@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T114000Z
+DTEND:20261109T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287164@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T121000Z
+DTEND:20261113T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t741181@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T114000Z
+DTEND:20261123T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн\nизм
+ енено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287191@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T121000Z
+DTEND:20261127T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287678@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T114000Z
+DTEND:20261130T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287204@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T121000Z
+DTEND:20261204T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287688@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T114000Z
+DTEND:20261207T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287217@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T121000Z
+DTEND:20261211T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287698@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T114000Z
+DTEND:20261214T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287230@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T121000Z
+DTEND:20261218T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287708@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T114000Z
+DTEND:20261221T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287242@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T121000Z
+DTEND:20261225T134000Z
+SUMMARY:Устойчивое развитие
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nЛеонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/leonova-k-s.html
+END:VEVENT
+END:VCALENDAR

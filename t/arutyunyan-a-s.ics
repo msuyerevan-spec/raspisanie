@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Арутюнян А.С. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t285243@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260905T103000Z
+DTEND:20260905T120000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285272@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260919T085000Z
+DTEND:20260919T102000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285273@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260919T103000Z
+DTEND:20260919T120000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285280@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260926T085000Z
+DTEND:20260926T102000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285281@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260926T103000Z
+DTEND:20260926T120000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285334@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261017T085000Z
+DTEND:20261017T102000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285335@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261017T103000Z
+DTEND:20261017T120000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320258@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T085000Z
+DTEND:20261024T102000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320270@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T085000Z
+DTEND:20261031T102000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320271@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T103000Z
+DTEND:20261031T120000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285376@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261107T064000Z
+DTEND:20261107T081000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285395@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T085000Z
+DTEND:20261114T102000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285396@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T103000Z
+DTEND:20261114T120000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285413@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261121T085000Z
+DTEND:20261121T102000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285414@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261121T103000Z
+DTEND:20261121T120000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285427@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t756395@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T103000Z
+DTEND:20261128T120000Z
+SUMMARY:Правовые аспекты международного сот
+ рудничества в борьбе с преступностью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно\nдоба
+ влено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285491@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261219T085000Z
+DTEND:20261219T102000Z
+SUMMARY:Зачёт: Правовые аспекты международн
+ ого сотрудничества в борьбе с преступно
+ стью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285492@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261219T103000Z
+DTEND:20261219T120000Z
+SUMMARY:Зачёт: Правовые аспекты международн
+ ого сотрудничества в борьбе с преступно
+ стью
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nАрутюнян А.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arutyunyan-a-s.html
+END:VEVENT
+END:VCALENDAR

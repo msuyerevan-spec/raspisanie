@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Покрытан Л.А. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t286549@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286551@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T085000Z
+DTEND:20260911T102000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286561@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286563@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T085000Z
+DTEND:20260918T102000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286573@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286575@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286586@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286588@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T085000Z
+DTEND:20261002T102000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286649@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286651@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286665@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286667@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286681@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286683@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286695@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286697@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286727@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн (группа подключается из ауд. 4
+ 01)
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286748@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286750@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286751@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T103000Z
+DTEND:20261204T120000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t1353893@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн (группа подключается из ауд. 4
+ 01)
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн\nдо
+ бавлено 27.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t1353896@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн\nдо
+ бавлено 27.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286762@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286764@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286781@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286794@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T085000Z
+DTEND:20261225T102000Z
+SUMMARY:Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286795@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T103000Z
+DTEND:20261225T120000Z
+SUMMARY:Зачёт: Управление рисками
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nПокрытан Л.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/pokrytan-l-a.html
+END:VEVENT
+END:VCALENDAR

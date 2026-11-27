@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Лутошкина С.Ю. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t286554@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T070000Z
+DTEND:20260914T083000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286555@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T084000Z
+DTEND:20260914T101000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286639@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T070000Z
+DTEND:20261019T083000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286640@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T084000Z
+DTEND:20261019T101000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286655@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T070000Z
+DTEND:20261026T083000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286656@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T084000Z
+DTEND:20261026T101000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286671@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T070000Z
+DTEND:20261102T083000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286672@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T084000Z
+DTEND:20261102T101000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286685@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T070000Z
+DTEND:20261109T083000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286686@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T084000Z
+DTEND:20261109T101000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286715@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T070000Z
+DTEND:20261123T083000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн\nи
+ зменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286716@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T084000Z
+DTEND:20261123T101000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 08)
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн\nи
+ зменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286736@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T070000Z
+DTEND:20261130T083000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286737@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T084000Z
+DTEND:20261130T101000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286753@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T070000Z
+DTEND:20261207T083000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286754@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T084000Z
+DTEND:20261207T101000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286765@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261213T070000Z
+DTEND:20261213T083000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286766@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261213T084000Z
+DTEND:20261213T101000Z
+SUMMARY:Этика государственной и муниципальн
+ ой службы
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nЛутошкина С.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/lutoshkina-s-yu.html
+END:VEVENT
+END:VCALENDAR

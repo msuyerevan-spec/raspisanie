@@ -1,0 +1,803 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Авакова Э.Р. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t280477@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282406@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T050000Z
+DTEND:20260907T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286041@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T064000Z
+DTEND:20260907T081000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280481@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282414@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280491@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286056@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280496@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282421@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280509@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280510@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280529@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280530@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282464@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280548@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282473@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282477@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280554@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286121@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280563@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286140@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280580@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280581@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321068@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315497@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317429@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315502@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317438@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315510@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315514@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T103000Z
+DTEND:20261023T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321086@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317446@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317448@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315522@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t317453@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315529@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315530@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315534@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286189@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280639@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280640@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286200@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280650@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282582@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286216@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282605@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280668@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286231@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280685@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282636@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280697@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286244@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282644@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280703@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280715@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286253@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286257@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282662@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280720@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280732@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286266@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286270@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282682@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280737@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280749@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286278@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282700@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280754@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280755@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Практический курс 1-го иностранного 
+ языка (русский)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286284@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Информационные технологии в лингвис
+ тике
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280767@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)(
+ литература)
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286290@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Зачёт: Информационные технологии в л
+ ингвистике
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАвакова Э.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/avakova-e-r.html
+END:VEVENT
+END:VCALENDAR

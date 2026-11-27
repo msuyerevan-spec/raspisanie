@@ -1,0 +1,551 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Егиазарян С.Ж. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t282998@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284511@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T085000Z
+DTEND:20260902T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283007@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283010@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284519@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284524@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283025@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284525@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283039@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284537@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284549@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283053@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283057@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284552@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284553@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283071@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284563@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283079@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284571@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283089@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284586@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319508@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Социология
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318015@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Социология
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318019@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Социология
+LOCATION:онлайн
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319513@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Социология
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283140@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283141@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283145@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283156@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283164@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284655@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283172@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283179@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283188@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T085000Z
+DTEND:20261120T102000Z
+SUMMARY:Социология
+LOCATION:аудитория уточняется
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284695@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T103000Z
+DTEND:20261125T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283203@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284706@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284707@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283219@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284712@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284719@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284720@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284724@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283256@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284731@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283265@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284737@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T103000Z
+DTEND:20261216T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283276@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T064000Z
+DTEND:20261221T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284742@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284743@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283282@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284748@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283298@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261228T064000Z
+DTEND:20261228T081000Z
+SUMMARY:Социология
+LOCATION:ауд. 208
+DESCRIPTION:Группы: 207\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284754@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nЕгиазарян С.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/egiazaryan-s-zh.html
+END:VEVENT
+END:VCALENDAR

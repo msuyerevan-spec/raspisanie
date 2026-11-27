@@ -1,0 +1,1922 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание 203M — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:g203M-287539@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 210A
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287540@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 210A
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287541@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 408
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322452@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T114000Z
+DTEND:20260907T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287543@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 409
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287544@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 409
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287545@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 409
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287546@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 4
+ 09)
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287547@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 409
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287548@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 408
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287549@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T064000Z
+DTEND:20260914T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 208
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287550@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 208
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322461@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T114000Z
+DTEND:20260914T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287552@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287553@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322464@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T143000Z
+DTEND:20260915T160000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн
+DESCRIPTION:Азатова А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287555@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287556@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 203
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287557@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T103000Z
+DTEND:20260918T120000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287558@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T121000Z
+DTEND:20260918T134000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287559@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287560@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287561@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287562@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 203
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287563@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 203
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287564@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287565@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287566@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T121000Z
+DTEND:20260925T134000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322477@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260926T064000Z
+DTEND:20260926T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Липоватая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322478@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260926T085000Z
+DTEND:20260926T102000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Липоватая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287569@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 105
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287570@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 105
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322481@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T114000Z
+DTEND:20260928T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322482@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 05)
+DESCRIPTION:Белоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287573@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 105
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287574@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 105
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322485@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Хачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287576@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287577@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 206
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287578@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 206
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287579@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322490@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261003T064000Z
+DTEND:20261003T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Липоватая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322491@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261003T085000Z
+DTEND:20261003T102000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Липоватая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322492@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322493@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T114000Z
+DTEND:20261005T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322494@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Белоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287585@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 112
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287586@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 112
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287587@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 112
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322498@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Хачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287589@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287590@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 206
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287591@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 206
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287592@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 202а
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287593@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 202а
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287594@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287595@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T121000Z
+DTEND:20261009T134000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322506@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Липоватая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322507@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T085000Z
+DTEND:20261010T102000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Липоватая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287598@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108A
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287599@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108A
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322510@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T114000Z
+DTEND:20261012T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322511@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 04)
+DESCRIPTION:Белоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287602@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 204
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287603@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 204
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322514@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Хачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287605@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287606@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 206
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287607@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 206
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287608@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287609@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287610@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287611@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T121000Z
+DTEND:20261016T134000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322524@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322525@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T114000Z
+DTEND:20261019T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322526@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн
+DESCRIPTION:Белоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322527@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:онлайн
+DESCRIPTION:Манукян И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322528@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Абрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322529@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Абрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322530@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Хачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322531@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Абрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322532@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Абрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287623@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T103000Z
+DTEND:20261023T120000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287624@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T121000Z
+DTEND:20261023T134000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322535@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T064000Z
+DTEND:20261024T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Липоватая М.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322536@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T114000Z
+DTEND:20261026T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322537@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн
+DESCRIPTION:Белоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322538@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:онлайн
+DESCRIPTION:Манукян И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322539@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Абрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322540@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Абрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322541@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Хачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287632@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322543@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:онлайн
+DESCRIPTION:Манукян И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322544@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:онлайн
+DESCRIPTION:Манукян И.Ю.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322545@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Абрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322546@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322547@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T114000Z
+DTEND:20261102T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322548@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Белоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287639@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 107
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287640@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322551@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Хачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287642@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287643@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 201
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287644@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 201
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287645@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287646@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287647@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T121000Z
+DTEND:20261106T134000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322558@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T114000Z
+DTEND:20261109T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322559@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 05)
+DESCRIPTION:Белоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287650@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 205
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287651@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 205
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322562@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Хачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287653@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287654@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287655@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 205
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287656@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 210A
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287657@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287658@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T121000Z
+DTEND:20261113T134000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322569@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Белоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287660@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 210A
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287661@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 210A
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-322572@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн
+DESCRIPTION:Хачанова М.О.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287663@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 2
+ 09)
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287664@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 209
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287665@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T103000Z
+DTEND:20261120T120000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287666@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T121000Z
+DTEND:20261120T134000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-741181@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T114000Z
+DTEND:20261123T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн\nизменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-741182@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Белоусова А.М.\nонлайн\nизменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287669@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян С.А.\nочно\nизменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287670@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-1021479@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Введение в анализ внешней политики (
+ на английском языке)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Хачанова М.О.\nонлайн\nдобавлено 24.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287672@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287673@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287675@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 110
+DESCRIPTION:Абрамян С.А.\nочно\nизменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-505740@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 110
+DESCRIPTION:Манукян И.Ю.\nочно\nдобавлено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287676@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T103000Z
+DTEND:20261127T120000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287677@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T121000Z
+DTEND:20261127T134000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287678@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T114000Z
+DTEND:20261130T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287679@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Белоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287680@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287681@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287682@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287683@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 105
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287684@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108B
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287685@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 203
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287686@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T103000Z
+DTEND:20261204T120000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287687@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T121000Z
+DTEND:20261204T134000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287688@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T114000Z
+DTEND:20261207T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287689@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02)
+DESCRIPTION:Белоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287690@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 105
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287691@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 105
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287692@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287693@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 203
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287694@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 105
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287695@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 204
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287696@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T103000Z
+DTEND:20261211T120000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287697@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T121000Z
+DTEND:20261211T134000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287698@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T114000Z
+DTEND:20261214T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287699@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Культурные разнообразия и культурны
+ й плюрализм в документах ЮНЕСКО (на англ
+ ийском)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 03)
+DESCRIPTION:Белоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287700@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287701@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287702@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287703@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287704@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 105
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287705@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 203
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287706@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T103000Z
+DTEND:20261218T120000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287707@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T121000Z
+DTEND:20261218T134000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287708@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T114000Z
+DTEND:20261221T131000Z
+SUMMARY:Научно-исследовательский семинар
+LOCATION:онлайн
+DESCRIPTION:Леонова К.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287709@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Зачёт: Культурные разнообразия и кул
+ ьтурный плюрализм в документах ЮНЕСКО (н
+ а английском)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 05)
+DESCRIPTION:Белоусова А.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287710@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287711@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287712@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:Зачёт: Управление международной миг
+ рацией в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 03)
+DESCRIPTION:Бочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287713@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287714@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108B
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287715@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287716@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T103000Z
+DTEND:20261225T120000Z
+SUMMARY:Инструменты и технологии "мягкой сил
+ ы"
+LOCATION:онлайн
+DESCRIPTION:Мануйлова Ю.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287717@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108B
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287718@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261228T103000Z
+DTEND:20261228T120000Z
+SUMMARY:Педагогика и психология
+LOCATION:ауд. 108A
+DESCRIPTION:Манукян И.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287719@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g203M-287720@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Абрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/203M.html
+END:VEVENT
+END:VCALENDAR

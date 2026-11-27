@@ -1,0 +1,761 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Гукасян Л.М. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t286797@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T064000Z
+DTEND:20260902T081000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:ауд. 409
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285026@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284512@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284516@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285035@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286804@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T085000Z
+DTEND:20260909T102000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:ауд. 409
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284520@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285041@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286811@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285054@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284528@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284535@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285059@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284536@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286829@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285065@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284540@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286851@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285079@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284556@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285087@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286870@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284567@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285092@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286880@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285098@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284587@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286888@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285104@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284590@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319511@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320020@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321805@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320027@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319516@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319527@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321811@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320041@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319530@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:онлайн
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285139@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284634@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286918@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285144@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284639@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286930@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284656@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285156@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285165@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286946@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T085000Z
+DTEND:20261118T102000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285170@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285190@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284710@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284711@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286974@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285193@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284715@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285199@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284723@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286988@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285202@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284727@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284732@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285208@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286994@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285211@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284738@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285217@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284746@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Бухгалтерский учет\, анализ и аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286998@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T064000Z
+DTEND:20261223T081000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286999@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261223T085000Z
+DTEND:20261223T102000Z
+SUMMARY:Бюджетная система Российской Федера
+ ции и налоговая политика
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 102M\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284749@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Зачёт: Бухгалтерский учет\, анализ и 
+ аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284750@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Зачёт: Бухгалтерский учет\, анализ и 
+ аудит
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285223@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Экономика
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nГукасян Л.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/gukasyan-l-m.html
+END:VEVENT
+END:VCALENDAR

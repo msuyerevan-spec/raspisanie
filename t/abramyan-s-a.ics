@@ -1,0 +1,1097 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Абрамян С.А. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t287539@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260901T064000Z
+DTEND:20260901T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287003@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287541@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 408
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287006@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287010@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 406
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287011@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 406
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287544@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 409
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287545@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 409
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287016@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 406
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287548@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 408
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287019@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 406
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287552@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287553@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287027@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 406
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287556@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287029@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 406
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287559@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T050000Z
+DTEND:20260922T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287560@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T064000Z
+DTEND:20260922T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287033@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287034@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287036@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287564@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287039@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287042@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287569@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T064000Z
+DTEND:20260928T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287573@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287574@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287051@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287579@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287054@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287057@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 407A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287061@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 407A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287062@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 407A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287586@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287587@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 112
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287070@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 407A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287592@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287593@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287084@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 407A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287602@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287603@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287093@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 407A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287608@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287609@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322011@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322012@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322528@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322529@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322531@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322532@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322020@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322022@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322539@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322540@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322545@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t322035@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287131@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287132@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 201
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287640@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287139@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287645@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287144@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287154@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287650@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287651@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287656@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287162@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287169@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287170@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287661@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287179@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно\nизмен
+ ено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287183@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно\nизмен
+ ено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287669@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно\nизмен
+ ено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287670@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287187@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно\nизмен
+ ено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287675@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 110
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно\nизмен
+ ено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287190@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287192@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287680@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287681@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287200@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287685@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287203@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287205@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t1284160@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно\nдобав
+ лено 26.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287209@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287690@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287691@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287213@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287695@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 204
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287216@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 105
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287218@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287219@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287222@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287700@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287701@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287705@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 203
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287229@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287234@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287710@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 106
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287711@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287238@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 102
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287713@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287715@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287241@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287244@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:Зачёт: Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 103M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287719@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287720@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 203M\nАбрамян С.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/abramyan-s-a.html
+END:VEVENT
+END:VCALENDAR

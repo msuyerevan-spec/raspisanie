@@ -1,0 +1,222 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Бочарова З.С. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t287546@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 4
+ 09)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287555@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287561@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287576@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287589@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287605@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 2
+ 06)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287632@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287642@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287653@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287654@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287663@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 2
+ 09)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287672@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287673@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287682@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287692@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 01)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287702@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287703@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Управление международной миграцией 
+ в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287712@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:Зачёт: Управление международной миг
+ рацией в условиях глобализации
+LOCATION:онлайн (группа подключается из ауд. 1
+ 03)
+DESCRIPTION:Группы: 203M\nБочарова З.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bocharova-z-s.html
+END:VEVENT
+END:VCALENDAR

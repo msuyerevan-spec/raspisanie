@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Шулус А.А. — МГУ Ерева
+ н
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t286808@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286809@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286843@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286844@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286867@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286868@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286886@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286887@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286897@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286898@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286908@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286909@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286936@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286937@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286950@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн (группа подключается из ауд. 1
+ 05)
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286951@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08A)
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286963@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286964@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:История отечественного правоведени
+ я
+LOCATION:онлайн
+DESCRIPTION:Группы: 102M\nШулус А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/shulus-a-a.html
+END:VEVENT
+END:VCALENDAR

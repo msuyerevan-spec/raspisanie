@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Заславская М.И. — МГУ 
+ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t285027@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285042@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285055@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285056@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285066@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285067@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285080@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285081@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285093@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285094@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285105@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285106@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320028@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Социология
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320029@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Социология
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320042@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Социология
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320043@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Социология
+LOCATION:онлайн
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285146@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285171@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285172@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285184@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285185@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285194@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285195@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285203@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285212@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285213@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285221@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Зачёт: Социология
+LOCATION:ауд. 202а
+DESCRIPTION:Группы: 401\nЗаславская М.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zaslavskaya-m-i.html
+END:VEVENT
+END:VCALENDAR

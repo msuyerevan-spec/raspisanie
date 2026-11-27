@@ -1,0 +1,957 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Етимян Н.Г. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t285516@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279305@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285517@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285519@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279319@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285520@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T064000Z
+DTEND:20260908T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279325@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279334@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279336@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285522@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285525@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279351@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285526@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279358@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279361@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T103000Z
+DTEND:20260915T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285533@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279371@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279373@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285534@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279385@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285540@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279396@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279397@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279404@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279408@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260926T064000Z
+DTEND:20260926T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279412@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279414@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279421@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285566@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279434@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279435@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 107
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279447@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279464@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285592@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285599@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T103000Z
+DTEND:20261010T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320526@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320527@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320528@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T050000Z
+DTEND:20261020T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314425@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314432@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320533@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320534@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314439@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320536@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314445@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T103000Z
+DTEND:20261023T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320540@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320541@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320542@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314457@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320544@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t314468@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320545@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285639@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285640@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285641@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279579@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279580@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285646@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285647@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279607@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279616@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T103000Z
+DTEND:20261110T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285669@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279640@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279641@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279649@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285694@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285695@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279675@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279684@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279688@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285700@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279693@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285702@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285708@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279705@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279711@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279723@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279724@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285722@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Профессиональный иностранный язык (
+ английский)
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279738@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279747@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279760@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279775@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279784@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279799@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279812@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279814@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279821@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279823@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279833@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Зачёт: Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279835@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Зачёт: Иностранный язык (английский)
+LOCATION:ауд. 103
+DESCRIPTION:Группы: 102-1\nЕтимян Н.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/etimyan-n-g.html
+END:VEVENT
+END:VCALENDAR

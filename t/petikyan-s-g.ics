@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Петикян С.Г. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t281783@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281814@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T064000Z
+DTEND:20260929T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281822@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281823@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281833@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281847@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281859@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281869@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281870@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316790@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T064000Z
+DTEND:20261020T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316794@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316795@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316799@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316800@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316806@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T050000Z
+DTEND:20261027T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316807@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T064000Z
+DTEND:20261027T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316811@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316817@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t316818@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:онлайн
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281926@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281927@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281934@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281943@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281944@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281966@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281990@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282011@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282031@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282032@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282038@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282041@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282046@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282047@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282056@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282067@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282068@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Гражданское право (лекции)
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202\nПетикян С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/petikyan-s-g.html
+END:VEVENT
+END:VCALENDAR

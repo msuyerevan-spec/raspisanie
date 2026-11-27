@@ -1,0 +1,471 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Торунян Н.А. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t280202@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T050000Z
+DTEND:20260903T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280475@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280215@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T050000Z
+DTEND:20260910T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280489@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280495@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T050000Z
+DTEND:20260914T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280231@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280248@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280528@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280534@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T050000Z
+DTEND:20260928T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280263@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280547@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280552@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280286@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280562@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280568@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280311@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280579@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315496@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T050000Z
+DTEND:20261019T063000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315507@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315515@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315527@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315253@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280359@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280648@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280660@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280372@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280666@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280389@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280683@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280695@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280404@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280701@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280414@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280713@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280421@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280718@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280730@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280437@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280735@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280447@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280747@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280452@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280753@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280458@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Зачёт: Армянский язык
+LOCATION:ауд. 108B
+DESCRIPTION:Группы: 104\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280765@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:Зачёт: Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280766@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Зачёт: Армянский язык
+LOCATION:ауд. 111
+DESCRIPTION:Группы: 105\nТорунян Н.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/torunyan-n-a.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Мидов А.З. — МГУ Ерева
+ н
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t757439@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757440@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757441@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757454@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757455@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757462@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757463@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757464@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757495@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн (группа подключается из ауд. 4
+ 01)
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757496@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн (группа подключается из ауд. 4
+ 01)
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t950163@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T121000Z
+DTEND:20261214T134000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757500@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T050000Z
+DTEND:20261217T063000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757501@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757502@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757510@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757511@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757512@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Региональная экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757516@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Зачёт: Региональная экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t757517@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T064000Z
+DTEND:20261225T081000Z
+SUMMARY:Зачёт: Региональная экономика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nМидов А.З.\nонлайн\nдобав
+ лено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/midov-a-z.html
+END:VEVENT
+END:VCALENDAR

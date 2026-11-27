@@ -1,0 +1,330 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Поняев И.М. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t285629@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T121000Z
+DTEND:20261023T134000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nПоняев И.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285638@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T121000Z
+DTEND:20261030T134000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nПоняев И.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285650@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T121000Z
+DTEND:20261106T134000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:онлайн
+DESCRIPTION:Группы: 403\nПоняев И.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285651@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285652@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285653@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285655@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285656@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285657@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285660@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285661@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285662@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T103000Z
+DTEND:20261111T120000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285665@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285666@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285667@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285670@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285671@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285672@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285674@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T050000Z
+DTEND:20261114T063000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285675@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285676@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T085000Z
+DTEND:20261114T102000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285678@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285679@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285680@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285682@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285683@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285684@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Внешняя политика Российской Федерац
+ ии
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285685@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Консультация: Внешняя политика Росс
+ ийской Федерации
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285686@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T050000Z
+DTEND:20261118T063000Z
+SUMMARY:Экзамен: Внешняя политика Российско
+ й Федерации
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nПоняев И.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ponyaev-i-m.html
+END:VEVENT
+END:VCALENDAR

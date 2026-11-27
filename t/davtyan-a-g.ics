@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Давтян А.Г. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t287429@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Нотариат в Республике Армения
+LOCATION:ауд. 409
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287435@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Нотариат в Республике Армения
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287436@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Нотариат в Республике Армения
+LOCATION:ауд. 210
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287468@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Нотариат в Республике Армения
+LOCATION:ауд. 108A
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287483@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Нотариат в Республике Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287484@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Нотариат в Республике Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287503@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Нотариат в Республике Армения
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287504@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:Нотариат в Республике Армения
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287513@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:Зачёт: Нотариат в Республике Армения
+LOCATION:ауд. 200
+DESCRIPTION:Группы: 202M\nДавтян А.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/davtyan-a-g.html
+END:VEVENT
+END:VCALENDAR

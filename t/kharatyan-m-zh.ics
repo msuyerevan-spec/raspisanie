@@ -1,0 +1,308 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Харатян М.Ж. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t285771@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260905T050000Z
+DTEND:20260905T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 406
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285772@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260905T064000Z
+DTEND:20260905T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 406
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285792@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260912T050000Z
+DTEND:20260912T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285836@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261003T050000Z
+DTEND:20261003T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285837@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261003T064000Z
+DTEND:20261003T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320785@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320792@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320793@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T050000Z
+DTEND:20261024T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320794@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T064000Z
+DTEND:20261024T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320797@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320803@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T085000Z
+DTEND:20261028T102000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320810@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T085000Z
+DTEND:20261030T102000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320811@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T050000Z
+DTEND:20261031T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320812@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T064000Z
+DTEND:20261031T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:онлайн
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285917@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261107T050000Z
+DTEND:20261107T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285931@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T050000Z
+DTEND:20261114T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285932@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285962@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T050000Z
+DTEND:20261128T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285963@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285979@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261205T050000Z
+DTEND:20261205T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285980@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261205T064000Z
+DTEND:20261205T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285993@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261212T050000Z
+DTEND:20261212T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285994@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261212T064000Z
+DTEND:20261212T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286011@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261219T050000Z
+DTEND:20261219T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286012@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261219T064000Z
+DTEND:20261219T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286030@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261226T050000Z
+DTEND:20261226T063000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286031@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261226T064000Z
+DTEND:20261226T081000Z
+SUMMARY:Иностранный язык в профессиональной
+  коммуникации
+LOCATION:ауд. 210A
+DESCRIPTION:Группы: 404\nХаратян М.Ж.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/kharatyan-m-zh.html
+END:VEVENT
+END:VCALENDAR

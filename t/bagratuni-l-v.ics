@@ -1,0 +1,224 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Багратуни Л.В. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t287005@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T050000Z
+DTEND:20260904T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 10A)
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287018@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 4
+ 06)
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287038@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 01)
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287046@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T050000Z
+DTEND:20260929T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287053@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 03)
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287074@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 4
+ 07A)
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287095@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 4
+ 07A)
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287106@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287121@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287124@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287143@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287161@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 05)
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287177@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 2
+ 00)
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287189@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн\nи
+ зменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287202@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287215@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 05)
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287228@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 07)
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t287240@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T050000Z
+DTEND:20261225T063000Z
+SUMMARY:Евразийская интеграция: история\, те
+ ория\, перспективы
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 103M\nБагратуни Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagratuni-l-v.html
+END:VEVENT
+END:VCALENDAR

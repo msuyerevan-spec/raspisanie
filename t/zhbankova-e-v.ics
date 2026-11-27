@@ -1,0 +1,216 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Жбанкова Е.В. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t282440@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260919T050000Z
+DTEND:20260919T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282443@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260919T103000Z
+DTEND:20260919T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282459@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 02а)
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282492@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T050000Z
+DTEND:20261010T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282493@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:онлайн
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282494@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282495@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282496@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282500@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282501@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282504@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282505@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T085000Z
+DTEND:20261014T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282506@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T050000Z
+DTEND:20261015T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282507@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282508@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282511@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282512@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282513@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T085000Z
+DTEND:20261016T102000Z
+SUMMARY:Мир 1-го иностранного языка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282514@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Консультация: Мир 1-го иностранного я
+ зыка (русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t282515@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261017T050000Z
+DTEND:20261017T063000Z
+SUMMARY:Экзамен: Мир 1-го иностранного языка (
+ русский)
+LOCATION:ауд. 102а
+DESCRIPTION:Группы: 205\nЖбанкова Е.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/zhbankova-e-v.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Багунц Г.М. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t281492@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281493@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260901T103000Z
+DTEND:20260901T120000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281502@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281503@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T103000Z
+DTEND:20260908T120000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281512@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T064000Z
+DTEND:20260915T081000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281513@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T085000Z
+DTEND:20260915T102000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281527@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281528@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281543@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T085000Z
+DTEND:20260929T102000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281544@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T103000Z
+DTEND:20260929T120000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281566@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281567@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281581@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281582@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281617@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T085000Z
+DTEND:20261103T102000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281618@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281634@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281635@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281643@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T050000Z
+DTEND:20261114T063000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281644@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281651@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281652@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281664@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261121T050000Z
+DTEND:20261121T063000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281665@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261121T064000Z
+DTEND:20261121T081000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281672@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281673@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281684@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281685@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281696@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281697@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281707@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281708@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281719@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281720@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281729@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t281730@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T103000Z
+DTEND:20261229T120000Z
+SUMMARY:Зачёт: Физика
+LOCATION:ауд. 206
+DESCRIPTION:Группы: 201\nБагунц Г.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bagunts-g-m.html
+END:VEVENT
+END:VCALENDAR

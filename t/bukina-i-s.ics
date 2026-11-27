@@ -1,0 +1,315 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Букина И.С. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t284560@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284561@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284562@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284564@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T050000Z
+DTEND:20261006T063000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284565@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284566@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284568@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284569@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284570@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284572@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284573@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284574@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284577@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284578@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284579@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284580@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T050000Z
+DTEND:20261010T063000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284581@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284582@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T085000Z
+DTEND:20261010T102000Z
+SUMMARY:Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284583@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Зачёт: Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284584@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Зачёт: Макроэкономика-II
+LOCATION:ауд. 202
+DESCRIPTION:Группы: 306\nБукина И.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321343@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261107T103000Z
+DTEND:20261107T120000Z
+SUMMARY:Экономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nБукина И.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321344@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261107T121000Z
+DTEND:20261107T134000Z
+SUMMARY:Экономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nБукина И.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321347@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Экономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nБукина И.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321348@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T121000Z
+DTEND:20261109T134000Z
+SUMMARY:Экономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nБукина И.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321383@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261121T103000Z
+DTEND:20261121T120000Z
+SUMMARY:Экономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nБукина И.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321384@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261121T121000Z
+DTEND:20261121T134000Z
+SUMMARY:Экономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nБукина И.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t915053@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T092000Z
+DTEND:20261128T105000Z
+SUMMARY:Экономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nБукина И.С.\nонлайн\nдоба
+ влено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t915054@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T110000Z
+DTEND:20261128T123000Z
+SUMMARY:Экономическая политика
+LOCATION:онлайн
+DESCRIPTION:Группы: 406\nБукина И.С.\nонлайн\nдоба
+ влено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286490@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Экономическая политика
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nБукина И.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286491@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Экономическая политика
+LOCATION:онлайн (группа подключается из ауд. 1
+ 08B)
+DESCRIPTION:Группы: 406\nБукина И.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/bukina-i-s.html
+END:VEVENT
+END:VCALENDAR

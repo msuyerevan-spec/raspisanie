@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Ульянова Л.В. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t286545@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286547@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286548@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T114000Z
+DTEND:20260910T131000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286560@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T114000Z
+DTEND:20260917T131000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286567@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286571@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286572@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T114000Z
+DTEND:20260924T131000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286585@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T114000Z
+DTEND:20261001T131000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286644@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286648@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286664@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T114000Z
+DTEND:20261029T131000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286679@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286680@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T114000Z
+DTEND:20261105T131000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286684@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286694@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T114000Z
+DTEND:20261112T131000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286700@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286701@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286710@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286711@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286712@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286726@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T114000Z
+DTEND:20261126T131000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286743@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286746@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286747@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T114000Z
+DTEND:20261203T131000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286752@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286761@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T114000Z
+DTEND:20261210T131000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286788@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T050000Z
+DTEND:20261221T063000Z
+SUMMARY:Мировая политика (Глобалистика)
+LOCATION:онлайн
+DESCRIPTION:Группы: 407\nУльянова Л.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/ulyanova-l-v.html
+END:VEVENT
+END:VCALENDAR

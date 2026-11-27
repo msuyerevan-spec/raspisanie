@@ -1,0 +1,412 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Якушин А.В. — МГУ Ерев
+ ан
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t279009@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн (группа подключается из ауд. 
+ БК1)
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283325@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн (группа подключается из ауд. 
+ БК3)
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283354@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260919T064000Z
+DTEND:20260919T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283355@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260919T085000Z
+DTEND:20260919T102000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279076@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283406@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283419@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283420@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T064000Z
+DTEND:20261014T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279107@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283439@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283453@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283454@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:онлайн
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279168@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279204@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nочно\nизмене
+ но 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279205@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nочно\nизмене
+ но 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283533@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nочно\nизмене
+ но 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279209@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nочно\nизмене
+ но 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283535@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nочно\nизмене
+ но 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283536@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nочно\nизмене
+ но 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279213@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T050000Z
+DTEND:20261128T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nочно\nизмене
+ но 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279214@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nочно\nизмене
+ но 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283539@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nочно\nизмене
+ но 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279216@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283541@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК2
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283542@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК2
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279220@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279221@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283548@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК3
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279225@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283551@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК2
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283552@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T085000Z
+DTEND:20261202T102000Z
+SUMMARY:Компьютерная графика
+LOCATION:ауд. БК2
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279227@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279228@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283556@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Консультация: Компьютерная графика
+LOCATION:ауд. БК2
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283558@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:Экзамен: Компьютерная графика
+LOCATION:ауд. БК2
+DESCRIPTION:Группы: 301\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279234@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279235@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T103000Z
+DTEND:20261204T120000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279237@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261205T050000Z
+DTEND:20261205T063000Z
+SUMMARY:Зачёт: Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t279238@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261205T064000Z
+DTEND:20261205T081000Z
+SUMMARY:Зачёт: Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Группы: 101\nЯкушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/yakushin-a-v.html
+END:VEVENT
+END:VCALENDAR

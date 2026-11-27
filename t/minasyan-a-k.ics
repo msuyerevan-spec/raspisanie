@@ -1,0 +1,207 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Минасян А.К. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t285269@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T050000Z
+DTEND:20260917T063000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285276@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T050000Z
+DTEND:20260924T063000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320254@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nМинасян А.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320255@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nМинасян А.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320259@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T050000Z
+DTEND:20261026T063000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nМинасян А.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t320265@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T050000Z
+DTEND:20261029T063000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:онлайн
+DESCRIPTION:Группы: 402\nМинасян А.К.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285362@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285371@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285379@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285387@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285397@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T050000Z
+DTEND:20261116T063000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285407@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T050000Z
+DTEND:20261119T063000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285415@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T050000Z
+DTEND:20261123T063000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285422@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t1449071@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно\nдобав
+ лено 27.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285439@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t1449100@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Уголовное право Республики Армения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно\nдобав
+ лено 27.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t1449107@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Зачёт: Уголовное право Республики Ар
+ мения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно\nдобав
+ лено 27.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t1449108@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Зачёт: Уголовное право Республики Ар
+ мения
+LOCATION:ауд. 205
+DESCRIPTION:Группы: 402\nМинасян А.К.\nочно\nдобав
+ лено 27.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/minasyan-a-k.html
+END:VEVENT
+END:VCALENDAR

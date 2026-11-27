@@ -1,0 +1,822 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Аракелян Р.С. — МГУ Ер
+ еван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t280203@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T064000Z
+DTEND:20260903T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280204@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286039@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286043@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T085000Z
+DTEND:20260908T102000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280216@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280217@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280230@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T103000Z
+DTEND:20260916T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280232@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280233@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286068@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280245@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280246@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280249@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280250@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286086@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280261@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T085000Z
+DTEND:20260930T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280262@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T103000Z
+DTEND:20260930T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286107@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T050000Z
+DTEND:20261001T063000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286124@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280281@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280289@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280305@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286154@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321071@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T085000Z
+DTEND:20261020T102000Z
+SUMMARY:Психолингвистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315235@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T103000Z
+DTEND:20261020T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321074@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:Психолингвистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315239@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315240@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315241@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321076@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Психолингвистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321089@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Психолингвистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315248@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T103000Z
+DTEND:20261027T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t321093@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:Психолингвистика
+LOCATION:онлайн
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315254@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t315255@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:онлайн
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280353@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T103000Z
+DTEND:20261103T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286196@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280360@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280361@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286208@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T064000Z
+DTEND:20261112T081000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280373@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280374@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286211@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T085000Z
+DTEND:20261113T102000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286220@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T085000Z
+DTEND:20261117T102000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280383@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T103000Z
+DTEND:20261117T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286224@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T103000Z
+DTEND:20261118T120000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286226@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280390@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280391@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280394@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T085000Z
+DTEND:20261120T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280395@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T103000Z
+DTEND:20261120T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280400@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T085000Z
+DTEND:20261124T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286234@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T103000Z
+DTEND:20261124T120000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286238@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280405@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280406@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280410@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T085000Z
+DTEND:20261127T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280411@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T103000Z
+DTEND:20261127T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286246@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280417@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T103000Z
+DTEND:20261201T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286251@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280422@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280423@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280427@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280428@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T103000Z
+DTEND:20261204T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286259@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280434@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T103000Z
+DTEND:20261208T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286264@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280438@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280439@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280443@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286272@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T085000Z
+DTEND:20261215T102000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280450@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T103000Z
+DTEND:20261215T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286276@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T064000Z
+DTEND:20261217T081000Z
+SUMMARY:Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280453@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280454@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280460@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t286285@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T103000Z
+DTEND:20261222T120000Z
+SUMMARY:Зачёт: Психолингвистика
+LOCATION:ауд. 207
+DESCRIPTION:Группы: 405\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280464@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280465@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t280471@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Зачёт: Иностранный язык (английский 
+ язык)
+LOCATION:ауд. 101
+DESCRIPTION:Группы: 104\nАракелян Р.С.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/arakelyan-r-s.html
+END:VEVENT
+END:VCALENDAR

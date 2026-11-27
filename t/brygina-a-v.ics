@@ -1,0 +1,315 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Брыгина А.В. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t319216@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319217@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319224@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319265@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T064000Z
+DTEND:20261019T081000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319277@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319278@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319298@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T064000Z
+DTEND:20261102T081000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн (группа подключается из ауд. 1
+ 06)
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319317@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T064000Z
+DTEND:20261109T081000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319318@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319329@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319330@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319333@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T064000Z
+DTEND:20261116T081000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319334@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319344@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t319345@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t737960@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T064000Z
+DTEND:20261123T081000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн\nизм
+ енено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t737961@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн\nизм
+ енено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t737971@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн\nизм
+ енено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284453@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T064000Z
+DTEND:20261130T081000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284454@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284463@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284467@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284477@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284478@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284481@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284491@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Лингводидактика и адаптация художес
+ твенного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t284495@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Зачёт: Лингводидактика и адаптация х
+ удожественного текста
+LOCATION:онлайн
+DESCRIPTION:Группы: 305\nБрыгина А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/brygina-a-v.html
+END:VEVENT
+END:VCALENDAR

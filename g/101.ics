@@ -1,0 +1,3098 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание 101 — МГУ Ереван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:g101-278993@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260901T085000Z
+DTEND:20260901T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-278994@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260901T103000Z
+DTEND:20260901T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-278995@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260901T135000Z
+DTEND:20260901T152000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-278996@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260902T050000Z
+DTEND:20260902T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-278997@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T085000Z
+DTEND:20260903T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-278998@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T103000Z
+DTEND:20260903T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-278999@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260903T135000Z
+DTEND:20260903T152000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279000@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T064000Z
+DTEND:20260904T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Пилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279001@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T085000Z
+DTEND:20260904T102000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279002@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260904T103000Z
+DTEND:20260904T120000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279003@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T085000Z
+DTEND:20260907T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279004@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260907T103000Z
+DTEND:20260907T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279005@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T050000Z
+DTEND:20260908T063000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279006@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T082000Z
+DTEND:20260908T095000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279007@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T100000Z
+DTEND:20260908T113000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279008@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260908T121000Z
+DTEND:20260908T134000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279009@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T050000Z
+DTEND:20260909T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн (группа подключается из ауд. 
+ БК1)
+DESCRIPTION:Якушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279010@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260909T064000Z
+DTEND:20260909T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279011@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T064000Z
+DTEND:20260910T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279012@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T085000Z
+DTEND:20260910T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279013@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T103000Z
+DTEND:20260910T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279014@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T121000Z
+DTEND:20260910T134000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн (группа подключается из ауд. 
+ БК1)
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279015@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T050000Z
+DTEND:20260911T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Пилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279016@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T064000Z
+DTEND:20260911T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279017@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T103000Z
+DTEND:20260911T120000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279018@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260911T121000Z
+DTEND:20260911T134000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279019@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T085000Z
+DTEND:20260914T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279020@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T103000Z
+DTEND:20260914T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279021@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260914T121000Z
+DTEND:20260914T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279022@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T054500Z
+DTEND:20260915T071500Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279023@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T082000Z
+DTEND:20260915T095000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279024@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T100000Z
+DTEND:20260915T113000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279025@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260915T121000Z
+DTEND:20260915T134000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279026@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T064000Z
+DTEND:20260916T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279027@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260916T085000Z
+DTEND:20260916T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279028@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T064000Z
+DTEND:20260917T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279029@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T085000Z
+DTEND:20260917T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279030@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T103000Z
+DTEND:20260917T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279031@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T121000Z
+DTEND:20260917T134000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279032@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T050000Z
+DTEND:20260918T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279033@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T064000Z
+DTEND:20260918T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Пилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279034@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T103000Z
+DTEND:20260918T120000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279035@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260918T121000Z
+DTEND:20260918T134000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279036@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T054500Z
+DTEND:20260922T071500Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279037@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T085000Z
+DTEND:20260922T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279038@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T103000Z
+DTEND:20260922T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279039@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260922T121000Z
+DTEND:20260922T134000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279040@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T064000Z
+DTEND:20260923T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279041@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260923T085000Z
+DTEND:20260923T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279042@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T064000Z
+DTEND:20260924T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279043@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T085000Z
+DTEND:20260924T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279044@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T103000Z
+DTEND:20260924T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279045@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T121000Z
+DTEND:20260924T134000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279046@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T050000Z
+DTEND:20260925T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279047@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T064000Z
+DTEND:20260925T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Пилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279048@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T085000Z
+DTEND:20260925T102000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279049@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279050@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260925T121000Z
+DTEND:20260925T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279051@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T085000Z
+DTEND:20260928T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279052@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T103000Z
+DTEND:20260928T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279053@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T121000Z
+DTEND:20260928T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279054@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T054500Z
+DTEND:20260929T071500Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279055@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T082000Z
+DTEND:20260929T095000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279056@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T100000Z
+DTEND:20260929T113000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279057@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260929T121000Z
+DTEND:20260929T134000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279058@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260930T064000Z
+DTEND:20260930T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279059@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T064000Z
+DTEND:20261001T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279060@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T085000Z
+DTEND:20261001T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279061@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T103000Z
+DTEND:20261001T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279062@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T140000Z
+DTEND:20261001T153000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279063@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T050000Z
+DTEND:20261002T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279064@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T064000Z
+DTEND:20261002T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Пилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279065@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T103000Z
+DTEND:20261002T120000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279066@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261002T121000Z
+DTEND:20261002T134000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279067@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279068@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T103000Z
+DTEND:20261005T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279069@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T121000Z
+DTEND:20261005T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279070@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T054500Z
+DTEND:20261006T071500Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279071@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T082000Z
+DTEND:20261006T095000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279072@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T100000Z
+DTEND:20261006T113000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279073@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T121000Z
+DTEND:20261006T134000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279074@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279075@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279076@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Якушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279077@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279078@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279079@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T140000Z
+DTEND:20261008T153000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279080@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T050000Z
+DTEND:20261009T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Пилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279081@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279082@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279083@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279084@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279085@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T121000Z
+DTEND:20261012T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279086@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T054500Z
+DTEND:20261013T071500Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279087@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T082000Z
+DTEND:20261013T095000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279088@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T100000Z
+DTEND:20261013T113000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279089@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T121000Z
+DTEND:20261013T134000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279090@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T064000Z
+DTEND:20261015T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279091@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T085000Z
+DTEND:20261015T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279092@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279093@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T140000Z
+DTEND:20261015T153000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279094@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T050000Z
+DTEND:20261016T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279095@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T064000Z
+DTEND:20261016T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Пилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279096@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T103000Z
+DTEND:20261016T120000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279097@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261016T121000Z
+DTEND:20261016T134000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314010@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T085000Z
+DTEND:20261019T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:онлайн
+DESCRIPTION:Григорянц А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314011@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261019T103000Z
+DTEND:20261019T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:онлайн
+DESCRIPTION:Григорянц А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279100@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T054500Z
+DTEND:20261020T071500Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279101@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T082000Z
+DTEND:20261020T095000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279102@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T100000Z
+DTEND:20261020T113000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279103@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261020T121000Z
+DTEND:20261020T134000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279104@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T064000Z
+DTEND:20261021T081000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314017@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T085000Z
+DTEND:20261021T102000Z
+SUMMARY:История Армении
+LOCATION:онлайн
+DESCRIPTION:Мартиросян Н.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314018@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261021T103000Z
+DTEND:20261021T120000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Амирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279107@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T050000Z
+DTEND:20261022T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Якушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314020@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T064000Z
+DTEND:20261022T081000Z
+SUMMARY:История Армении
+LOCATION:онлайн
+DESCRIPTION:Мартиросян Н.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314021@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T085000Z
+DTEND:20261022T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:онлайн
+DESCRIPTION:Григорянц А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314022@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T103000Z
+DTEND:20261022T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:онлайн
+DESCRIPTION:Григорянц А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279111@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T121000Z
+DTEND:20261022T134000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314024@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T050000Z
+DTEND:20261023T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:онлайн
+DESCRIPTION:Пилосян Р.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314025@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T064000Z
+DTEND:20261023T081000Z
+SUMMARY:История Армении
+LOCATION:онлайн
+DESCRIPTION:Мартиросян Н.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279114@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T085000Z
+DTEND:20261023T102000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279115@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261023T103000Z
+DTEND:20261023T120000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Будак А.Б.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314028@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261024T103000Z
+DTEND:20261024T120000Z
+SUMMARY:История Армении
+LOCATION:онлайн
+DESCRIPTION:Мартиросян Н.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314029@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T064000Z
+DTEND:20261026T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:онлайн
+DESCRIPTION:Пилосян Р.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314030@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T085000Z
+DTEND:20261026T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:онлайн
+DESCRIPTION:Григорянц А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314031@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261026T103000Z
+DTEND:20261026T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:онлайн
+DESCRIPTION:Григорянц А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279120@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T054500Z
+DTEND:20261027T071500Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314033@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T085000Z
+DTEND:20261027T102000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Амирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279122@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261027T121000Z
+DTEND:20261027T134000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314035@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T050000Z
+DTEND:20261028T063000Z
+SUMMARY:История Армении
+LOCATION:онлайн
+DESCRIPTION:Мартиросян Н.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279124@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261028T064000Z
+DTEND:20261028T081000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314037@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T064000Z
+DTEND:20261029T081000Z
+SUMMARY:История Армении
+LOCATION:онлайн
+DESCRIPTION:Мартиросян Н.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314038@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T085000Z
+DTEND:20261029T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:онлайн
+DESCRIPTION:Григорянц А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314039@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:онлайн
+DESCRIPTION:Григорянц А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279128@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T121000Z
+DTEND:20261029T134000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314041@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T050000Z
+DTEND:20261030T063000Z
+SUMMARY:Армянский язык
+LOCATION:онлайн
+DESCRIPTION:Амирян Г.Р.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314042@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T064000Z
+DTEND:20261030T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:онлайн
+DESCRIPTION:Пилосян Р.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279131@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T103000Z
+DTEND:20261030T120000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279132@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261030T121000Z
+DTEND:20261030T134000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314045@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T050000Z
+DTEND:20261031T063000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:онлайн
+DESCRIPTION:Григорянц А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314046@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T064000Z
+DTEND:20261031T081000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:онлайн
+DESCRIPTION:Григорянц А.А.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-314047@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261031T085000Z
+DTEND:20261031T102000Z
+SUMMARY:История Армении
+LOCATION:онлайн
+DESCRIPTION:Мартиросян Н.М.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279136@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T050000Z
+DTEND:20261102T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Руднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279137@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T085000Z
+DTEND:20261102T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279138@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T103000Z
+DTEND:20261102T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279139@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261102T121000Z
+DTEND:20261102T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279140@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T050000Z
+DTEND:20261103T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Руднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279141@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T064000Z
+DTEND:20261103T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Руднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279142@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261103T135000Z
+DTEND:20261103T152000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279143@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T064000Z
+DTEND:20261104T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279144@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T085000Z
+DTEND:20261104T102000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Руднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279145@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261104T103000Z
+DTEND:20261104T120000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Руднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279146@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T050000Z
+DTEND:20261105T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Руднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279147@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T064000Z
+DTEND:20261105T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Руднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279148@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T085000Z
+DTEND:20261105T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279149@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279150@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T140000Z
+DTEND:20261105T153000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279151@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T050000Z
+DTEND:20261106T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Пилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279152@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T064000Z
+DTEND:20261106T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279153@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T085000Z
+DTEND:20261106T102000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Руднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279154@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Руднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279155@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261106T121000Z
+DTEND:20261106T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279156@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261107T050000Z
+DTEND:20261107T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Руднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279157@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261107T064000Z
+DTEND:20261107T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Руднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279158@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T050000Z
+DTEND:20261109T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Руднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279159@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T085000Z
+DTEND:20261109T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279160@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T103000Z
+DTEND:20261109T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279161@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261109T121000Z
+DTEND:20261109T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279162@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T050000Z
+DTEND:20261110T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Руднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279163@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T064000Z
+DTEND:20261110T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:ауд. 112
+DESCRIPTION:Руднев С.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279164@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T085000Z
+DTEND:20261110T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279165@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261110T121000Z
+DTEND:20261110T134000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279166@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T064000Z
+DTEND:20261111T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279167@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261111T085000Z
+DTEND:20261111T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279168@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T050000Z
+DTEND:20261112T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:онлайн
+DESCRIPTION:Якушин А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279169@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T085000Z
+DTEND:20261112T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279170@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279171@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T140000Z
+DTEND:20261112T153000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279172@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T050000Z
+DTEND:20261113T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279173@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T064000Z
+DTEND:20261113T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Пилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279174@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T103000Z
+DTEND:20261113T120000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279175@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261113T121000Z
+DTEND:20261113T134000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279176@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T050000Z
+DTEND:20261114T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Руднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279177@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261114T064000Z
+DTEND:20261114T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279178@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T085000Z
+DTEND:20261116T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279179@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T103000Z
+DTEND:20261116T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279180@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261116T121000Z
+DTEND:20261116T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279181@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T050000Z
+DTEND:20261117T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Руднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279182@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T064000Z
+DTEND:20261117T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Руднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279183@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261117T121000Z
+DTEND:20261117T134000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279184@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261118T064000Z
+DTEND:20261118T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279185@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T064000Z
+DTEND:20261119T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279186@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T085000Z
+DTEND:20261119T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279187@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279188@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T140000Z
+DTEND:20261119T153000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279189@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T050000Z
+DTEND:20261120T063000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279190@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T064000Z
+DTEND:20261120T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Пилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279191@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T103000Z
+DTEND:20261120T120000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279192@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261120T121000Z
+DTEND:20261120T134000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279193@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261121T050000Z
+DTEND:20261121T063000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Руднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279194@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261121T064000Z
+DTEND:20261121T081000Z
+SUMMARY:Алгебра (лекции)
+LOCATION:онлайн
+DESCRIPTION:Руднев С.Г.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279195@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T085000Z
+DTEND:20261123T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279196@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T103000Z
+DTEND:20261123T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279197@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261123T121000Z
+DTEND:20261123T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279198@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T050000Z
+DTEND:20261124T063000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279199@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T064000Z
+DTEND:20261124T081000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279200@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T121000Z
+DTEND:20261124T134000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279201@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261124T135000Z
+DTEND:20261124T152000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279202@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T050000Z
+DTEND:20261125T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279203@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261125T064000Z
+DTEND:20261125T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279204@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T050000Z
+DTEND:20261126T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК3
+DESCRIPTION:Якушин А.В.\nочно\nизменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279205@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T064000Z
+DTEND:20261126T081000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК3
+DESCRIPTION:Якушин А.В.\nочно\nизменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279206@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T085000Z
+DTEND:20261126T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279207@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279208@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T140000Z
+DTEND:20261126T153000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279209@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T050000Z
+DTEND:20261127T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК3
+DESCRIPTION:Якушин А.В.\nочно\nизменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279210@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T064000Z
+DTEND:20261127T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Пилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279211@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T103000Z
+DTEND:20261127T120000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279212@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261127T121000Z
+DTEND:20261127T134000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279213@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T050000Z
+DTEND:20261128T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК3
+DESCRIPTION:Якушин А.В.\nочно\nизменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279214@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T064000Z
+DTEND:20261128T081000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК3
+DESCRIPTION:Якушин А.В.\nочно\nизменено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279215@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261128T085000Z
+DTEND:20261128T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279216@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T050000Z
+DTEND:20261130T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279217@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T085000Z
+DTEND:20261130T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279218@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T103000Z
+DTEND:20261130T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279219@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261130T121000Z
+DTEND:20261130T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279220@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T050000Z
+DTEND:20261201T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279221@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T064000Z
+DTEND:20261201T081000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279222@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T085000Z
+DTEND:20261201T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279223@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T121000Z
+DTEND:20261201T134000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279224@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261201T135000Z
+DTEND:20261201T152000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279225@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T050000Z
+DTEND:20261202T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279226@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261202T064000Z
+DTEND:20261202T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279227@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T050000Z
+DTEND:20261203T063000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279228@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T064000Z
+DTEND:20261203T081000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279229@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T085000Z
+DTEND:20261203T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279230@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279231@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T140000Z
+DTEND:20261203T153000Z
+SUMMARY:Основы информатики
+LOCATION:онлайн
+DESCRIPTION:Сучков Е.П.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279232@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T050000Z
+DTEND:20261204T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Пилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279233@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T064000Z
+DTEND:20261204T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279234@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T085000Z
+DTEND:20261204T102000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279235@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T103000Z
+DTEND:20261204T120000Z
+SUMMARY:Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279236@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261204T121000Z
+DTEND:20261204T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279237@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261205T050000Z
+DTEND:20261205T063000Z
+SUMMARY:Зачёт: Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279238@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261205T064000Z
+DTEND:20261205T081000Z
+SUMMARY:Зачёт: Практикум на ЭВМ
+LOCATION:ауд. БК1
+DESCRIPTION:Якушин А.В.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279239@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261205T085000Z
+DTEND:20261205T102000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279240@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T050000Z
+DTEND:20261207T063000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279241@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T064000Z
+DTEND:20261207T081000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279242@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T085000Z
+DTEND:20261207T102000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279243@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T103000Z
+DTEND:20261207T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279244@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261207T121000Z
+DTEND:20261207T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279245@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T050000Z
+DTEND:20261208T063000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279246@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T064000Z
+DTEND:20261208T081000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279247@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261208T085000Z
+DTEND:20261208T102000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279248@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T050000Z
+DTEND:20261209T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279249@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T064000Z
+DTEND:20261209T081000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279250@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T085000Z
+DTEND:20261209T102000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279251@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261209T103000Z
+DTEND:20261209T120000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279252@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T050000Z
+DTEND:20261210T063000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279253@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T064000Z
+DTEND:20261210T081000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279254@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T085000Z
+DTEND:20261210T102000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279255@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279256@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T121000Z
+DTEND:20261210T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279257@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T050000Z
+DTEND:20261211T063000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279258@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T064000Z
+DTEND:20261211T081000Z
+SUMMARY:Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279259@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T085000Z
+DTEND:20261211T102000Z
+SUMMARY:Алгоритмы и алгоритмические языки
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279260@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T121000Z
+DTEND:20261211T134000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279261@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261211T135000Z
+DTEND:20261211T152000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279262@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261212T050000Z
+DTEND:20261212T063000Z
+SUMMARY:Зачёт: Алгоритмы и алгоритмические я
+ зыки
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279263@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261212T064000Z
+DTEND:20261212T081000Z
+SUMMARY:Зачёт: Алгоритмы и алгоритмические я
+ зыки
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279264@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261212T085000Z
+DTEND:20261212T102000Z
+SUMMARY:Консультация: Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279265@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T050000Z
+DTEND:20261214T063000Z
+SUMMARY:Экзамен: Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279266@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T064000Z
+DTEND:20261214T081000Z
+SUMMARY:Экзамен: Основы информатики
+LOCATION:ауд. БК1
+DESCRIPTION:Сучков Е.П.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279267@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T085000Z
+DTEND:20261214T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279268@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T103000Z
+DTEND:20261214T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279269@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T121000Z
+DTEND:20261214T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279270@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T050000Z
+DTEND:20261215T063000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279271@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261215T064000Z
+DTEND:20261215T081000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Пилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279272@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T064000Z
+DTEND:20261216T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279273@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T085000Z
+DTEND:20261216T102000Z
+SUMMARY:Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279274@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261216T121000Z
+DTEND:20261216T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279275@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T085000Z
+DTEND:20261217T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279276@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279277@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T050000Z
+DTEND:20261218T063000Z
+SUMMARY:Иностранный язык (английский язык)
+LOCATION:ауд. 112
+DESCRIPTION:Пилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279278@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T064000Z
+DTEND:20261218T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279279@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T103000Z
+DTEND:20261218T120000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279280@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261218T121000Z
+DTEND:20261218T134000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279281@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T085000Z
+DTEND:20261221T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279282@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T103000Z
+DTEND:20261221T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279283@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261221T121000Z
+DTEND:20261221T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279284@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T050000Z
+DTEND:20261222T063000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн (группа подключается из ауд. 1
+ 12)
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279285@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T064000Z
+DTEND:20261222T081000Z
+SUMMARY:Зачёт: Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279286@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261222T085000Z
+DTEND:20261222T102000Z
+SUMMARY:Зачёт: Армянский язык
+LOCATION:ауд. 112
+DESCRIPTION:Амирян Г.Р.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279287@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T050000Z
+DTEND:20261224T063000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279288@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T064000Z
+DTEND:20261224T081000Z
+SUMMARY:История Армении
+LOCATION:ауд. 112
+DESCRIPTION:Мартиросян Н.М.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279289@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T085000Z
+DTEND:20261224T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279290@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279291@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T103000Z
+DTEND:20261225T120000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279292@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261225T121000Z
+DTEND:20261225T134000Z
+SUMMARY:Математический анализ I (лекции)
+LOCATION:онлайн
+DESCRIPTION:Смирнов И.Н.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279293@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261228T085000Z
+DTEND:20261228T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279294@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261228T103000Z
+DTEND:20261228T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279295@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261228T121000Z
+DTEND:20261228T134000Z
+SUMMARY:Физическая культура
+LOCATION:спортзал
+DESCRIPTION:Казарян Ш.С.\, Маргарян Г.Ю.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279296@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T050000Z
+DTEND:20261229T063000Z
+SUMMARY:Зачёт: Иностранный язык (английский 
+ язык)
+LOCATION:ауд. 112
+DESCRIPTION:Пилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279297@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T064000Z
+DTEND:20261229T081000Z
+SUMMARY:Зачёт: Иностранный язык (английский 
+ язык)
+LOCATION:ауд. 112
+DESCRIPTION:Пилосян Р.Г.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279298@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T085000Z
+DTEND:20261229T102000Z
+SUMMARY:Алгебра (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+BEGIN:VEVENT
+UID:g101-279299@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261229T103000Z
+DTEND:20261229T120000Z
+SUMMARY:Математический анализ I (семинары)
+LOCATION:ауд. 112
+DESCRIPTION:Григорянц А.А.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/g/101.html
+END:VEVENT
+END:VCALENDAR

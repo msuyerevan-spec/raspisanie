@@ -1,0 +1,330 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Трохинова О.И. — МГУ Е
+ реван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t285577@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T050000Z
+DTEND:20261005T063000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285578@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T064000Z
+DTEND:20261005T081000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285579@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261005T085000Z
+DTEND:20261005T102000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285580@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T064000Z
+DTEND:20261006T081000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285581@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T085000Z
+DTEND:20261006T102000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285582@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261006T103000Z
+DTEND:20261006T120000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285583@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T050000Z
+DTEND:20261007T063000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285584@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T064000Z
+DTEND:20261007T081000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285585@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T085000Z
+DTEND:20261007T102000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285586@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261007T103000Z
+DTEND:20261007T120000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285588@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T050000Z
+DTEND:20261008T063000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285589@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T064000Z
+DTEND:20261008T081000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285590@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T085000Z
+DTEND:20261008T102000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285591@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T103000Z
+DTEND:20261008T120000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285593@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T064000Z
+DTEND:20261009T081000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285594@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T085000Z
+DTEND:20261009T102000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285595@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261009T103000Z
+DTEND:20261009T120000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285596@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T050000Z
+DTEND:20261010T063000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285597@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T064000Z
+DTEND:20261010T081000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285598@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261010T085000Z
+DTEND:20261010T102000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285600@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T050000Z
+DTEND:20261012T063000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285601@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T064000Z
+DTEND:20261012T081000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285602@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T085000Z
+DTEND:20261012T102000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285603@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261012T103000Z
+DTEND:20261012T120000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285604@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T050000Z
+DTEND:20261013T063000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285605@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T064000Z
+DTEND:20261013T081000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285606@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T085000Z
+DTEND:20261013T102000Z
+SUMMARY:Политика памяти: теоретические и пра
+ ктические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285607@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261013T103000Z
+DTEND:20261013T120000Z
+SUMMARY:Консультация: Политика памяти: теоре
+ тические и практические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t285608@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261014T050000Z
+DTEND:20261014T063000Z
+SUMMARY:Экзамен: Политика памяти: теоретичес
+ кие и практические аспекты
+LOCATION:ауд. 209
+DESCRIPTION:Группы: 403\nТрохинова О.И.\nочно
+URL:https://msuyerevan-spec.github.io/raspisanie/t/trokhinova-o-i.html
+END:VEVENT
+END:VCALENDAR

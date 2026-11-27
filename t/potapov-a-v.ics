@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSU Yerevan//Raspisanie//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание: Потапов А.В. — МГУ Ере
+ ван
+X-WR-TIMEZONE:Asia/Yerevan
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:t318540@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260910T151000Z
+DTEND:20260910T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318561@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260917T151000Z
+DTEND:20260917T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318578@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260924T151000Z
+DTEND:20260924T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318585@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20260928T151000Z
+DTEND:20260928T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318597@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261001T151000Z
+DTEND:20261001T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318618@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261008T151000Z
+DTEND:20261008T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318640@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261015T151000Z
+DTEND:20261015T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318662@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261022T151000Z
+DTEND:20261022T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318684@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261029T151000Z
+DTEND:20261029T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318706@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261105T151000Z
+DTEND:20261105T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318723@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261112T151000Z
+DTEND:20261112T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t318748@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261119T151000Z
+DTEND:20261119T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t737378@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261126T151000Z
+DTEND:20261126T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн\nизм
+ енено 23.11
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283878@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261203T151000Z
+DTEND:20261203T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283895@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261210T151000Z
+DTEND:20261210T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283903@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261214T151000Z
+DTEND:20261214T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283915@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261217T151000Z
+DTEND:20261217T164000Z
+SUMMARY:Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283929@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T121000Z
+DTEND:20261224T134000Z
+SUMMARY:Зачёт: Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+BEGIN:VEVENT
+UID:t283930@raspisanie.msu-yerevan
+DTSTAMP:20261127T125942Z
+DTSTART:20261224T135000Z
+DTEND:20261224T152000Z
+SUMMARY:Зачёт: Трудовое право
+LOCATION:онлайн
+DESCRIPTION:Группы: 302\nПотапов А.В.\nонлайн
+URL:https://msuyerevan-spec.github.io/raspisanie/t/potapov-a-v.html
+END:VEVENT
+END:VCALENDAR
